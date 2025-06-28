@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "6faa0202-f8c3-363a-aada-a5b79390343a",
+    "name": "CarlitosBot1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
