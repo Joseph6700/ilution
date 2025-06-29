@@ -2020,6 +2020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-29 02:10:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-29 01:58:37 +0000"
@@ -2041,6 +2047,12 @@
   "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2025-06-29 00:47:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-06-29 02:09:38 +0000"
     },
     "done": true
   },
@@ -2212,6 +2224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-29 02:10:56 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-06-29 00:59:51 +0000"
@@ -2256,6 +2274,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "jacaranda_glade": "2025-06-29 02:01:55 +0000",
       "orchard": "2025-06-29 01:54:06 +0000",
       "redwood_forest": "2025-06-29 01:55:25 +0000",
       "lavender_field": "2025-06-29 00:44:32 +0000"

@@ -826,6 +826,7 @@
       "minecraft:phantom": "2025-06-29 01:46:27 +0000",
       "minecraft:wither_skeleton": "2025-06-29 01:46:43 +0000",
       "minecraft:husk": "2025-06-28 22:51:26 +0000",
+      "minecraft:cave_spider": "2025-06-29 02:09:22 +0000",
       "minecraft:enderman": "2025-06-28 23:12:42 +0000",
       "minecraft:silverfish": "2025-06-29 01:59:26 +0000",
       "minecraft:stray": "2025-06-29 02:00:21 +0000",
@@ -2621,6 +2622,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-29 02:08:36 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/stone_bow": {
     "criteria": {
       "has_bow": "2025-06-29 01:36:33 +0000"
@@ -2630,6 +2643,18 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-06-29 01:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-29 02:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-29 02:09:41 +0000"
     },
     "done": true
   },
@@ -2687,15 +2712,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-29 02:09:41 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_gray_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-06-29 01:36:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-29 02:09:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-29 02:10:06 +0000"
     },
     "done": true
   },
@@ -2717,9 +2760,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/cyan_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_gray_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-29 02:10:06 +0000"
     },
     "done": true
   },
@@ -2735,9 +2790,33 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/white_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-29 02:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-29 02:09:41 +0000"
     },
     "done": true
   },
@@ -2750,6 +2829,12 @@
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-06-29 02:01:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-06-29 02:08:36 +0000"
     },
     "done": true
   },
@@ -2783,6 +2868,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/green_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_planks": {
     "criteria": {
       "has_logs": "2025-06-29 01:52:15 +0000"
@@ -2801,15 +2892,33 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_gray_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-06-29 01:36:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/magenta_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
     },
     "done": true
   },
@@ -2825,6 +2934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-29 02:02:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-06-29 01:41:09 +0000"
@@ -2837,15 +2952,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-06-29 02:06:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-29 01:36:15 +0000"
     },
     "done": true
   },
+  "mca:recipes/decorations/purple_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-06-29 01:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-29 02:10:06 +0000"
     },
     "done": true
   },
@@ -2861,6 +3000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-29 01:41:09 +0000"
@@ -2870,6 +3015,12 @@
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
       "location0": "2025-06-29 01:49:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
     },
     "done": true
   },
@@ -2921,6 +3072,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-29 02:06:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-06-29 01:36:33 +0000"
@@ -2939,15 +3102,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-29 02:09:38 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-29 02:09:41 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/gray_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-06-29 01:36:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-06-29 01:35:46 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
     },
     "done": true
   },
@@ -2981,9 +3174,27 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/pink_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-06-29 01:36:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
     },
     "done": true
   },
@@ -2993,9 +3204,33 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/yellow_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-29 02:04:26 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-06-29 02:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-29 02:09:41 +0000"
     },
     "done": true
   },
@@ -3004,6 +3239,12 @@
       "phantom": "2025-06-29 01:46:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-29 02:09:38 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
@@ -3020,6 +3261,18 @@
   "mca:recipes/decorations/purple_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-06-29 01:36:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-29 02:10:06 +0000"
     },
     "done": true
   },
