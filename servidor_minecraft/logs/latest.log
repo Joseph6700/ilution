@@ -1,24 +1,24 @@
-[29Jun2025 04:14:04.834] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[29Jun2025 04:14:04.838] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[29Jun2025 04:14:06.968] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[29Jun2025 04:14:07.036] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ilution/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[29Jun2025 04:14:07.444] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ilution/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jun2025 04:14:07.446] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ilution/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jun2025 04:14:07.447] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ilution/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jun2025 04:14:07.448] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ilution/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jun2025 04:14:07.682] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[29Jun2025 04:14:07.683] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[29Jun2025 04:14:10.862] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[29Jun2025 04:14:11.024] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
-[29Jun2025 04:14:11.191] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[29Jun2025 04:14:11.192] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[29Jun2025 04:14:11.200] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[29Jun2025 04:14:11.234] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 04:14:11.393] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 04:14:11.451] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 04:14:11.453] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 04:14:11.477] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 04:14:11.515] [main/INFO] [Puzzles Lib/]: Loading 77 mods:
+[29Jun2025 22:59:45.877] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[29Jun2025 22:59:45.880] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[29Jun2025 22:59:47.530] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[29Jun2025 22:59:47.583] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ilution/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29Jun2025 22:59:47.950] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ilution/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jun2025 22:59:47.952] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ilution/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jun2025 22:59:47.953] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ilution/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jun2025 22:59:47.954] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ilution/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jun2025 22:59:48.146] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[29Jun2025 22:59:48.147] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[29Jun2025 22:59:51.131] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29Jun2025 22:59:51.277] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
+[29Jun2025 22:59:51.415] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[29Jun2025 22:59:51.417] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[29Jun2025 22:59:51.424] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[29Jun2025 22:59:51.460] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:59:51.629] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:59:51.683] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:59:51.686] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:59:51.714] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:59:51.745] [main/INFO] [Puzzles Lib/]: Loading 77 mods:
 	- alexsmobs 1.22.9
 	- ambientsounds 6.1.11
 	- apotheosis 7.4.8
@@ -97,39 +97,39 @@
 	- xaerominimap 25.2.6
 	- xaeroworldmap 1.39.9
 	- yungsapi 1.20-Forge-4.0.6
-[29Jun2025 04:14:11.541] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jun2025 04:14:11.851] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
-[29Jun2025 04:14:12.250] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[29Jun2025 04:14:12.269] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[29Jun2025 04:14:12.818] [main/WARN] [mixin/]: Error loading class: org/violetmoon/quark/content/tweaks/module/GoldToolsHaveFortuneModule (java.lang.ClassNotFoundException: org.violetmoon.quark.content.tweaks.module.GoldToolsHaveFortuneModule)
-[29Jun2025 04:14:12.823] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[29Jun2025 04:14:12.824] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[29Jun2025 04:14:12.841] [main/WARN] [mixin/]: Error loading class: com/hollingsworth/arsnouveau/common/items/SpellCrossbow (java.lang.ClassNotFoundException: com.hollingsworth.arsnouveau.common.items.SpellCrossbow)
-[29Jun2025 04:14:13.292] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[29Jun2025 04:14:13.292] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[29Jun2025 04:14:13.762] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
-[29Jun2025 04:14:13.822] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[29Jun2025 04:14:13.823] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[29Jun2025 04:14:13.823] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[29Jun2025 04:14:13.825] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[29Jun2025 04:14:13.825] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[29Jun2025 04:14:13.825] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[29Jun2025 04:14:13.827] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[29Jun2025 04:14:13.827] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[29Jun2025 04:14:14.049] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[29Jun2025 04:14:15.752] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
-[29Jun2025 04:14:17.475] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[29Jun2025 04:14:17.476] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[29Jun2025 04:14:17.615] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
-[29Jun2025 04:14:17.618] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
-[29Jun2025 04:14:19.982] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
-[29Jun2025 04:14:20.429] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
-[29Jun2025 04:14:20.430] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
-[29Jun2025 04:14:21.413] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[29Jun2025 04:14:21.416] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[29Jun2025 04:14:21.472] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
-[29Jun2025 04:14:21.607] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@29bd85db on thread Thread[modloading-worker-0,5,main]
-[29Jun2025 04:14:21.609] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[29Jun2025 22:59:51.767] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jun2025 22:59:52.022] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[29Jun2025 22:59:52.368] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[29Jun2025 22:59:52.385] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[29Jun2025 22:59:52.880] [main/WARN] [mixin/]: Error loading class: org/violetmoon/quark/content/tweaks/module/GoldToolsHaveFortuneModule (java.lang.ClassNotFoundException: org.violetmoon.quark.content.tweaks.module.GoldToolsHaveFortuneModule)
+[29Jun2025 22:59:52.881] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[29Jun2025 22:59:52.882] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[29Jun2025 22:59:52.892] [main/WARN] [mixin/]: Error loading class: com/hollingsworth/arsnouveau/common/items/SpellCrossbow (java.lang.ClassNotFoundException: com.hollingsworth.arsnouveau.common.items.SpellCrossbow)
+[29Jun2025 22:59:53.250] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[29Jun2025 22:59:53.250] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[29Jun2025 22:59:53.620] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
+[29Jun2025 22:59:53.675] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[29Jun2025 22:59:53.675] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[29Jun2025 22:59:53.676] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[29Jun2025 22:59:53.676] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[29Jun2025 22:59:53.677] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[29Jun2025 22:59:53.677] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[29Jun2025 22:59:53.678] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[29Jun2025 22:59:53.678] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[29Jun2025 22:59:53.840] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[29Jun2025 22:59:55.828] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
+[29Jun2025 22:59:57.668] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[29Jun2025 22:59:57.669] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[29Jun2025 22:59:57.866] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[29Jun2025 22:59:57.869] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[29Jun2025 23:00:00.209] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
+[29Jun2025 23:00:00.551] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[29Jun2025 23:00:00.551] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[29Jun2025 23:00:01.418] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[29Jun2025 23:00:01.419] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[29Jun2025 23:00:01.451] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[29Jun2025 23:00:01.567] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@5d7f8467 on thread Thread[modloading-worker-0,5,main]
+[29Jun2025 23:00:01.567] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -177,86 +177,86 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[29Jun2025 04:14:21.614] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[29Jun2025 04:14:21.990] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[29Jun2025 04:14:21.997] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[29Jun2025 04:14:22.006] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[29Jun2025 04:14:22.010] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[29Jun2025 04:14:22.011] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[29Jun2025 04:14:22.017] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[29Jun2025 04:14:22.018] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[29Jun2025 04:14:22.019] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[29Jun2025 04:14:22.025] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[29Jun2025 04:14:22.125] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[29Jun2025 04:14:22.310] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for pickupnotifier:main
-[29Jun2025 04:14:22.532] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[29Jun2025 04:14:22.536] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[29Jun2025 04:14:24.351] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[29Jun2025 04:14:24.791] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[29Jun2025 04:14:36.008] [modloading-worker-0/INFO] [com.sky.weaponmaster.WeaponMaster/]: Total varients loaded: 6425544
-[29Jun2025 04:14:36.008] [modloading-worker-0/INFO] [com.sky.weaponmaster.WeaponMaster/]: Total varients loaded (inc. passives + abilities): 3675411168
-[29Jun2025 04:14:38.698] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:grim_reaper] was not realized!
-[29Jun2025 04:14:38.698] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_villager] was not realized!
-[29Jun2025 04:14:38.698] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_zombie_villager] was not realized!
-[29Jun2025 04:14:38.698] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_zombie_villager] was not realized!
-[29Jun2025 04:14:38.698] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_villager] was not realized!
-[29Jun2025 04:14:39.628] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.629] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.629] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.629] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.629] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.629] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.630] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.630] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Jun2025 04:14:39.632] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.632] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.632] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.632] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.632] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.633] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.633] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.633] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.633] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.633] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.634] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.634] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Jun2025 04:14:39.635] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.639] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.639] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Jun2025 04:14:39.639] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.640] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Jun2025 04:14:39.640] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Jun2025 04:14:39.640] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.640] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.640] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.640] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.641] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.642] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.648] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.648] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.649] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.649] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.650] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:14:39.651] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Jun2025 04:14:39.954] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[29Jun2025 04:14:40.250] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
-[29Jun2025 04:14:40.250] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
-[29Jun2025 04:14:40.250] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
-[29Jun2025 04:14:40.465] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[29Jun2025 04:14:40.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[29Jun2025 04:14:40.760] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[29Jun2025 04:14:40.774] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[29Jun2025 04:14:40.774] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
-[29Jun2025 04:14:40.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[29Jun2025 04:14:40.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[29Jun2025 04:14:40.796] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[29Jun2025 04:14:40.796] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[29Jun2025 04:14:40.796] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[29Jun2025 04:14:40.796] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[29Jun2025 04:14:40.796] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[29Jun2025 04:14:40.796] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[29Jun2025 04:14:40.797] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[29Jun2025 04:14:40.925] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[29Jun2025 23:00:01.580] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[29Jun2025 23:00:02.024] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[29Jun2025 23:00:02.025] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[29Jun2025 23:00:02.042] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[29Jun2025 23:00:02.047] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[29Jun2025 23:00:02.051] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[29Jun2025 23:00:02.053] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[29Jun2025 23:00:02.054] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[29Jun2025 23:00:02.056] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[29Jun2025 23:00:02.061] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[29Jun2025 23:00:02.148] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[29Jun2025 23:00:02.379] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for pickupnotifier:main
+[29Jun2025 23:00:02.571] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[29Jun2025 23:00:02.571] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[29Jun2025 23:00:03.887] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[29Jun2025 23:00:04.341] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[29Jun2025 23:00:17.476] [modloading-worker-0/INFO] [com.sky.weaponmaster.WeaponMaster/]: Total varients loaded: 6425544
+[29Jun2025 23:00:17.477] [modloading-worker-0/INFO] [com.sky.weaponmaster.WeaponMaster/]: Total varients loaded (inc. passives + abilities): 3675411168
+[29Jun2025 23:00:20.469] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_zombie_villager] was not realized!
+[29Jun2025 23:00:20.469] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_zombie_villager] was not realized!
+[29Jun2025 23:00:20.469] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_villager] was not realized!
+[29Jun2025 23:00:20.469] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:grim_reaper] was not realized!
+[29Jun2025 23:00:20.469] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_villager] was not realized!
+[29Jun2025 23:00:21.544] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jun2025 23:00:21.558] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.558] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.558] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.559] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.559] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.559] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.559] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.559] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jun2025 23:00:21.561] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.562] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.562] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.562] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.562] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.562] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.563] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.563] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.563] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.563] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.564] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.564] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jun2025 23:00:21.564] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.569] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.569] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jun2025 23:00:21.569] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.569] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jun2025 23:00:21.570] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jun2025 23:00:21.570] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.570] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.570] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.570] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.571] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.572] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.577] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.577] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.579] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.579] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.579] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:00:21.864] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[29Jun2025 23:00:22.252] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[29Jun2025 23:00:22.253] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[29Jun2025 23:00:22.253] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[29Jun2025 23:00:22.326] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[29Jun2025 23:00:22.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[29Jun2025 23:00:22.644] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[29Jun2025 23:00:22.653] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[29Jun2025 23:00:22.653] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[29Jun2025 23:00:22.663] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[29Jun2025 23:00:22.664] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[29Jun2025 23:00:22.690] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[29Jun2025 23:00:22.690] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[29Jun2025 23:00:22.690] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[29Jun2025 23:00:22.690] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[29Jun2025 23:00:22.690] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[29Jun2025 23:00:22.691] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[29Jun2025 23:00:22.691] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[29Jun2025 23:00:22.813] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -271,8 +271,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[29Jun2025 04:14:40.928] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[29Jun2025 04:14:40.944] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[29Jun2025 23:00:22.814] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[29Jun2025 23:00:22.825] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -287,38 +287,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[29Jun2025 04:14:40.946] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/pickupnotifier.json
-[29Jun2025 04:14:40.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[29Jun2025 04:14:40.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[29Jun2025 04:14:40.982] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[29Jun2025 04:14:40.984] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[29Jun2025 04:14:40.983] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[29Jun2025 04:14:40.984] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[29Jun2025 04:14:40.987] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[29Jun2025 04:14:40.988] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[29Jun2025 04:14:41.102] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waystones:plugin at net.blay09.mods.waystones.compat.WTHITIntegration
-[29Jun2025 04:14:41.103] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
-[29Jun2025 04:14:41.113] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
-[29Jun2025 04:14:41.127] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
-[29Jun2025 04:14:41.128] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
-[29Jun2025 04:14:41.130] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin securitycraft:plugin at net.geforcemods.securitycraft.compat.hudmods.WTHITDataProvider
-[29Jun2025 04:14:41.131] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
-[29Jun2025 04:14:41.160] [main/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[29Jun2025 04:14:41.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.13 Target: null
-[29Jun2025 04:14:41.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Jun2025 04:14:41.601] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[29Jun2025 04:14:41.601] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
-[29Jun2025 04:14:41.658] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
-[29Jun2025 04:14:41.659] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[29Jun2025 04:14:41.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[29Jun2025 04:14:41.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[29Jun2025 04:14:41.911] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[29Jun2025 04:14:41.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
-[29Jun2025 04:14:42.075] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
-[29Jun2025 04:14:42.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[29Jun2025 04:14:42.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
-[29Jun2025 04:14:42.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[29Jun2025 04:14:42.110] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[29Jun2025 23:00:22.826] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/pickupnotifier.json
+[29Jun2025 23:00:22.839] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[29Jun2025 23:00:22.839] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[29Jun2025 23:00:22.847] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[29Jun2025 23:00:22.851] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[29Jun2025 23:00:22.855] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[29Jun2025 23:00:22.855] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[29Jun2025 23:00:22.875] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[29Jun2025 23:00:22.875] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[29Jun2025 23:00:22.963] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waystones:plugin at net.blay09.mods.waystones.compat.WTHITIntegration
+[29Jun2025 23:00:22.965] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[29Jun2025 23:00:22.976] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[29Jun2025 23:00:22.992] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[29Jun2025 23:00:22.993] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[29Jun2025 23:00:22.995] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin securitycraft:plugin at net.geforcemods.securitycraft.compat.hudmods.WTHITDataProvider
+[29Jun2025 23:00:22.997] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[29Jun2025 23:00:23.033] [main/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[29Jun2025 23:00:23.403] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.13 Target: null
+[29Jun2025 23:00:23.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Jun2025 23:00:23.655] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[29Jun2025 23:00:23.655] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
+[29Jun2025 23:00:23.699] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
+[29Jun2025 23:00:23.699] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[29Jun2025 23:00:23.801] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[29Jun2025 23:00:23.801] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[29Jun2025 23:00:23.962] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[29Jun2025 23:00:23.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
+[29Jun2025 23:00:24.069] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
+[29Jun2025 23:00:24.069] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[29Jun2025 23:00:24.081] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[29Jun2025 23:00:24.081] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[29Jun2025 23:00:24.092] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -333,13 +333,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[29Jun2025 04:14:44.057] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[29Jun2025 04:14:45.804] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ilution/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23241!/assets/.mcassetsroot' uses unexpected schema
-[29Jun2025 04:14:45.804] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ilution/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23241!/data/.mcassetsroot' uses unexpected schema
-[29Jun2025 04:14:48.517] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/server/commands/EnchantCommand
-[29Jun2025 04:14:48.812] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[29Jun2025 04:14:49.065] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: cataclysm:ceraunus (from L_Enders_Cataclysm-3.03.jar)
-[29Jun2025 04:14:52.229] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:apotheosis:book
+[29Jun2025 23:00:26.144] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Jun2025 23:00:28.194] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ilution/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23241!/assets/.mcassetsroot' uses unexpected schema
+[29Jun2025 23:00:28.195] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ilution/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23241!/data/.mcassetsroot' uses unexpected schema
+[29Jun2025 23:00:31.161] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/server/commands/EnchantCommand
+[29Jun2025 23:00:31.446] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[29Jun2025 23:00:31.542] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: cataclysm:ceraunus (from L_Enders_Cataclysm-3.03.jar)
+[29Jun2025 23:00:35.026] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:apotheosis:book
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -391,11 +391,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[29Jun2025 04:14:53.193] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Jun2025 04:14:53.193] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Jun2025 04:14:53.193] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Jun2025 04:14:53.197] [main/INFO] [placebo/]: Registered 34 additional loot tables.
-[29Jun2025 04:14:53.265] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mofus_better_end_:end_engine_recipe
+[29Jun2025 23:00:36.347] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Jun2025 23:00:36.347] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Jun2025 23:00:36.347] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[29Jun2025 23:00:36.350] [main/INFO] [placebo/]: Registered 34 additional loot tables.
+[29Jun2025 23:00:36.409] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mofus_better_end_:end_engine_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23246!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23246!/:?]
@@ -428,620 +428,158 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Jun2025 04:14:53.396] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
-[29Jun2025 04:14:53.667] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3555 advancements
-[29Jun2025 04:14:53.678] [main/INFO] [placebo/]: Registered 26 additional recipes.
-[29Jun2025 04:14:53.680] [main/INFO] [Dungeon Crawl/]: Loading data...
-[29Jun2025 04:14:54.024] [main/INFO] [Dungeon Crawl/]: Done.
-[29Jun2025 04:14:54.081] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[29Jun2025 04:14:54.092] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[29Jun2025 04:14:54.263] [main/INFO] [placebo/]: Registered 16 gear_sets.
-[29Jun2025 04:14:54.267] [main/INFO] [Apotheosis : Enchantment/]: Registered 29 enchanting_stats.
-[29Jun2025 04:14:54.268] [main/INFO] [Apotheosis : Adventure/]: Registered 6 rarities.
-[29Jun2025 04:14:54.284] [main/INFO] [Apotheosis : Adventure/]: Registered 81 affixes.
-[29Jun2025 04:14:54.292] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category helmetRequired: 3; Provided: 2
-[29Jun2025 04:14:54.292] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category bootsRequired: 3; Provided: 2
-[29Jun2025 04:14:54.293] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bowRequired: 5; Provided: 4
-[29Jun2025 04:14:54.293] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category crossbowRequired: 5; Provided: 4
-[29Jun2025 04:14:54.294] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category pickaxeRequired: 5; Provided: 4
-[29Jun2025 04:14:54.294] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shovelRequired: 5; Provided: 4
-[29Jun2025 04:14:54.295] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shieldRequired: 5; Provided: 4
-[29Jun2025 04:14:54.295] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category helmetRequired: 4; Provided: 2
-[29Jun2025 04:14:54.295] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bootsRequired: 4; Provided: 2
-[29Jun2025 04:14:54.308] [main/INFO] [Apotheosis : Adventure/]: Registered 19 gems.
-[29Jun2025 04:14:54.317] [main/INFO] [Apotheosis : Adventure/]: Registered 67 affix_loot_entries.
-[29Jun2025 04:14:54.322] [main/INFO] [Apotheosis : Adventure/]: Registered 17 bosses.
-[29Jun2025 04:14:54.331] [main/INFO] [Apotheosis : Adventure/]: Registered 8 rogue_spawners.
-[29Jun2025 04:14:54.333] [main/INFO] [Apotheosis : Adventure/]: Registered 5 minibosses.
-[29Jun2025 04:14:54.339] [main/INFO] [Apotheosis : Village/]: Registered 28 wanderer_trades.
-[29Jun2025 04:14:56.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[29Jun2025 04:14:56.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Jun2025 04:14:56.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Jun2025 04:14:56.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Jun2025 04:14:56.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Jun2025 04:14:56.457] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29Jun2025 04:14:56.542] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[29Jun2025 04:14:56.542] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[29Jun2025 04:14:56.543] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[29Jun2025 04:14:56.543] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[29Jun2025 04:14:56.567] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[29Jun2025 04:14:56.569] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easymagic
-[29Jun2025 04:14:56.570] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[29Jun2025 04:14:56.572] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[29Jun2025 04:14:56.574] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[29Jun2025 04:14:56.580] [Server thread/INFO] [Puzzles Lib/]: Loading server config for pickupnotifier
-[29Jun2025 04:14:56.581] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
-[29Jun2025 04:14:56.582] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
-[29Jun2025 04:14:56.912] [Server thread/INFO] [Framework/]: Loading server configs...
-[29Jun2025 04:14:56.934] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[29Jun2025 04:14:57.349] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[29Jun2025 04:14:57.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29Jun2025 04:15:00.952] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[29Jun2025 04:15:06.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Jun2025 04:15:10.311] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 04:15:10.372] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 04:15:10.417] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 04:15:10.430] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 04:15:10.447] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 04:15:10.454] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 04:15:10.505] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 04:15:10.521] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 04:15:10.612] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jun2025 04:15:11.052] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[29Jun2025 04:15:11.555] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 81%
-[29Jun2025 04:15:11.720] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5168 ms
-[29Jun2025 04:15:11.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.162s)! For help, type "help"
-[29Jun2025 04:15:11.821] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Jun2025 04:15:11.827] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[29Jun2025 04:15:42.200] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[29Jun2025 04:15:42.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: inwxke[/127.149.221.102:38059] logged in with entity id 125 at (475.2526309022983, 88.0, 721.495527756476)
-[29Jun2025 04:15:42.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke joined the game
-[29Jun2025 04:15:46.715] [Server thread/INFO] [do_a_barrel_roll/]: Client of inwxke accepted server config.
-[29Jun2025 04:15:46.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4440ms or 88 ticks behind
-[29Jun2025 04:15:48.057] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.058] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.060] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.062] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.063] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.063] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.064] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Jun2025 04:15:48.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.066] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.066] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.067] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.068] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.069] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.070] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.070] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.071] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.071] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.071] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.072] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Jun2025 04:15:48.072] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.073] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.073] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Jun2025 04:15:48.074] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.075] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Jun2025 04:15:48.075] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Jun2025 04:15:48.076] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.077] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.077] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.078] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.078] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.079] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.079] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.080] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.081] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.082] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:48.082] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:15:49.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blister2112[/127.208.215.251:40979] logged in with entity id 314 at (5518.251254048462, 124.0, -2719.617779062701)
-[29Jun2025 04:15:49.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 joined the game
-[29Jun2025 04:15:53.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Successfully restored inwxke's items]
-[29Jun2025 04:15:54.313] [Server thread/INFO] [do_a_barrel_roll/]: Client of Blister2112 accepted server config.
-[29Jun2025 04:15:57.548] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxisccs[/127.224.138.117:55837] logged in with entity id 408 at (665.664902144726, 62.49476698807667, -930.8585530246246)
-[29Jun2025 04:15:57.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs joined the game
-[29Jun2025 04:16:04.146] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
-[29Jun2025 04:16:04.294] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22f5b1e1[id=<null>,name=CarlitosBot1,properties={},legacy=false] (/127.142.62.251:42345) lost connection: Disconnected
-[29Jun2025 04:16:04.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> carkuti
-[29Jun2025 04:16:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> se me quitaron 2 diamantes ahora dame 31
-[29Jun2025 04:16:10.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8382ms or 167 ticks behind
-[29Jun2025 04:16:39.077] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61f8da1b[id=<null>,name=CarlitosBot1,properties={},legacy=false] (/127.142.62.251:58383) lost connection: Disconnected
-[29Jun2025 04:16:46.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CarlitosBot1[/127.142.62.251:34349] logged in with entity id 884 at (6773.035358818647, 64.0, -2479.233768926358)
-[29Jun2025 04:16:46.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 joined the game
-[29Jun2025 04:16:48.711] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
-[29Jun2025 04:16:58.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Pic-A-Nic Basket?]
-[29Jun2025 04:17:09.576] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: semviii[/127.239.46.137:56205] logged in with entity id 1328 at (6795.362961737548, 81.0, -2537.782341826387)
-[29Jun2025 04:17:09.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii joined the game
-[29Jun2025 04:17:14.325] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
-[29Jun2025 04:17:29.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[29Jun2025 04:17:34.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Successfully restored inwxke's items]
-[29Jun2025 04:17:46.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
-[29Jun2025 04:17:55.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6773.500000, 63.500000, -2471.500000]
-[29Jun2025 04:17:57.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> en este sv tmb hay dungeons carlito?
-[29Jun2025 04:18:06.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> te guto tanja?
-[29Jun2025 04:18:13.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> umm
-[29Jun2025 04:18:22.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
-[29Jun2025 04:18:25.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> carlito se vale responderme
-[29Jun2025 04:18:35.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> s
-[29Jun2025 04:18:38.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlito toma
-[29Jun2025 04:18:40.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> cortesia
-[29Jun2025 04:18:41.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[29Jun2025 04:18:52.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 840.500000, 181.500000, 2939.500000]
-[29Jun2025 04:18:56.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> les gusta
-[29Jun2025 04:19:05.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
-[29Jun2025 04:19:37.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[29Jun2025 04:19:41.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 769.500000, -53.500000, 3165.500000]
-[29Jun2025 04:20:04.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[29Jun2025 04:20:09.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Friendship Found]
-[29Jun2025 04:20:22.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3218ms or 64 ticks behind
-[29Jun2025 04:20:31.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlitos porq me pegan ami?
-[29Jun2025 04:20:35.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> sera q soy mus freco?
-[29Jun2025 04:20:40.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2975ms or 59 ticks behind
-[29Jun2025 04:20:58.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> le hablo y me pega
-[29Jun2025 04:21:01.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5360ms or 107 ticks behind
-[29Jun2025 04:21:01.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5547, y=11, z=-2689} BlockPos{x=5546, y=10, z=-2688}
-[29Jun2025 04:21:01.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5547, y=11, z=-2689} BlockPos{x=5546, y=10, z=-2688}
-[29Jun2025 04:21:01.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5547, y=11, z=-2689} BlockPos{x=5546, y=10, z=-2688}
-[29Jun2025 04:21:10.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ya?
-[29Jun2025 04:21:12.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> como haces
-[29Jun2025 04:21:14.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5548, y=11, z=-2681} BlockPos{x=5549, y=11, z=-2680}
-[29Jun2025 04:21:18.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
-[29Jun2025 04:21:19.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement ['Til Death Do Us Part]
-[29Jun2025 04:21:19.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Successfully restored inwxke's items]
-[29Jun2025 04:21:22.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6675ms or 133 ticks behind
-[29Jun2025 04:21:22.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> pero cuanto
-[29Jun2025 04:21:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> aja
-[29Jun2025 04:21:36.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> dios
-[29Jun2025 04:21:39.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> toy pobre
-[29Jun2025 04:21:40.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
-[29Jun2025 04:21:57.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
-[29Jun2025 04:21:58.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> esto esta explorado?
-[29Jun2025 04:22:04.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ok
-[29Jun2025 04:22:10.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6689.500000, 63.500000, -2531.500000]
-[29Jun2025 04:22:14.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2814ms or 56 ticks behind
-[29Jun2025 04:22:33.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3368ms or 67 ticks behind
-[29Jun2025 04:22:53.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5386ms or 107 ticks behind
-[29Jun2025 04:23:05.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q
-[29Jun2025 04:23:08.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> 10 diamantes
-[29Jun2025 04:23:12.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> pero no es vender
-[29Jun2025 04:23:15.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6611ms or 132 ticks behind
-[29Jun2025 04:23:15.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> es q te las consigas
-[29Jun2025 04:23:22.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> HHAHA
-[29Jun2025 04:23:37.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7281ms or 145 ticks behind
-[29Jun2025 04:23:48.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Successfully restored inwxke's items]
-[29Jun2025 04:23:59.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6936ms or 138 ticks behind
-[29Jun2025 04:24:23.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8748ms or 174 ticks behind
-[29Jun2025 04:24:30.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
-[29Jun2025 04:24:41.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3660ms or 73 ticks behind
-[29Jun2025 04:24:43.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> JAJAJA
-[29Jun2025 04:24:50.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Successfully restored inwxke's items]
-[29Jun2025 04:24:54.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q tienes por ahi q medes
-[29Jun2025 04:24:58.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2242ms or 44 ticks behind
-[29Jun2025 04:25:10.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> fino
-[29Jun2025 04:25:16.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6689.500000, 63.500000, -2531.500000]
-[29Jun2025 04:25:17.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3232ms or 64 ticks behind
-[29Jun2025 04:25:31.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Successfully restored inwxke's items]
-[29Jun2025 04:25:34.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5588, y=12, z=-2674} BlockPos{x=5588, y=12, z=-2675}
-[29Jun2025 04:25:34.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5588, y=12, z=-2675} BlockPos{x=5588, y=12, z=-2676}
-[29Jun2025 04:25:35.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5588, y=12, z=-2675} BlockPos{x=5588, y=12, z=-2676}
-[29Jun2025 04:25:37.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5030ms or 100 ticks behind
-[29Jun2025 04:25:52.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Successfully restored inwxke's items]
-[29Jun2025 04:25:58.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6683ms or 133 ticks behind
-[29Jun2025 04:26:02.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Spooky Scary Skeleton]
-[29Jun2025 04:26:02.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6773.500000, 63.500000, -2471.500000]
-[29Jun2025 04:26:17.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Successfully restored inwxke's items]
-[29Jun2025 04:26:20.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6676ms or 133 ticks behind
-[29Jun2025 04:26:35.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> AUIDA
-[29Jun2025 04:26:40.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ME GRITO ALGO
-[29Jun2025 04:26:42.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7302ms or 146 ticks behind
-[29Jun2025 04:26:54.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 has made the advancement [Sculk Cymbal]
-[29Jun2025 04:27:05.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7949ms or 158 ticks behind
-[29Jun2025 04:27:12.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> JAJAJA
-[29Jun2025 04:27:17.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q pena
-[29Jun2025 04:27:22.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 has made the advancement [Sneak 100]
-[29Jun2025 04:27:29.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
-[29Jun2025 04:27:29.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8453ms or 169 ticks behind
-[29Jun2025 04:27:33.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> JAJAJA
-[29Jun2025 04:27:41.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no pasa el dia y la cambia
-[29Jun2025 04:27:45.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlito un abusador
-[29Jun2025 04:27:56.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11985ms or 239 ticks behind
-[29Jun2025 04:27:58.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to semviii]
-[29Jun2025 04:28:01.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5687, y=-42, z=-2739} BlockPos{x=5688, y=-42, z=-2740}
-[29Jun2025 04:28:13.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> dacela a iwoke
-[29Jun2025 04:28:14.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5696, y=-36, z=-2733} BlockPos{x=5696, y=-36, z=-2734}
-[29Jun2025 04:28:14.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5696, y=-36, z=-2733} BlockPos{x=5696, y=-36, z=-2734}
-[29Jun2025 04:28:14.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5696, y=-36, z=-2733} BlockPos{x=5696, y=-36, z=-2734}
-[29Jun2025 04:28:14.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5696, y=-36, z=-2733} BlockPos{x=5696, y=-36, z=-2734}
-[29Jun2025 04:28:17.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5693, y=-34, z=-2730} BlockPos{x=5693, y=-35, z=-2730}
-[29Jun2025 04:28:17.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5693, y=-34, z=-2730} BlockPos{x=5693, y=-35, z=-2730}
-[29Jun2025 04:28:17.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6782ms or 135 ticks behind
-[29Jun2025 04:28:22.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no
-[29Jun2025 04:28:24.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Poppa Ahab the Ghost Hunter'/10455, l='ServerLevel[world]', x=801.47, y=-28.00, z=3519.88] died: Poppa Ahab the Ghost Hunter was slain by Maxisccs
-[29Jun2025 04:28:25.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> es cada uno
-[29Jun2025 04:28:30.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> dasela a iwoke
-[29Jun2025 04:28:39.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6447ms or 128 ticks behind
-[29Jun2025 04:28:44.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> pobre tanja xd
-[29Jun2025 04:28:57.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> XD
-[29Jun2025 04:28:59.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5249ms or 104 ticks behind
-[29Jun2025 04:29:03.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> JAJAJA
-[29Jun2025 04:29:03.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
-[29Jun2025 04:29:08.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> Q
-[29Jun2025 04:29:10.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> carlito corazon pa una huevo pa todas
-[29Jun2025 04:29:10.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> MI REINA
-[29Jun2025 04:29:12.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> DIABLO
-[29Jun2025 04:29:19.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5295ms or 105 ticks behind
-[29Jun2025 04:29:31.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> andamos conquistadores mis hermanos
-[29Jun2025 04:29:37.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to inwxke]
-[29Jun2025 04:29:40.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5852ms or 117 ticks behind
-[29Jun2025 04:29:47.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5678, y=-43, z=-2735} BlockPos{x=5674, y=-43, z=-2733}
-[29Jun2025 04:29:52.855] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CDataParameter
-[29Jun2025 04:29:52.855] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Jun2025 04:29:52.856] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Jun2025 04:29:55.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> a pero te gustan pelirojas
-[29Jun2025 04:29:57.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
-[29Jun2025 04:30:05.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Next Generation]
-[29Jun2025 04:30:06.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6689.500000, 63.500000, -2531.500000]
-[29Jun2025 04:30:07.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5687, y=-35, z=-2745} BlockPos{x=5685, y=-37, z=-2745}
-[29Jun2025 04:30:10.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> igual ami
-[29Jun2025 04:30:17.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[29Jun2025 04:30:21.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5687, y=-33, z=-2746} BlockPos{x=5686, y=-34, z=-2746}
-[29Jun2025 04:30:21.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5687, y=-33, z=-2746} BlockPos{x=5686, y=-34, z=-2746}
-[29Jun2025 04:30:21.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5687, y=-33, z=-2746} BlockPos{x=5686, y=-34, z=-2746}
-[29Jun2025 04:30:21.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5687, y=-33, z=-2746} BlockPos{x=5686, y=-34, z=-2746}
-[29Jun2025 04:30:21.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5687, y=-33, z=-2746} BlockPos{x=5686, y=-34, z=-2746}
-[29Jun2025 04:30:36.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3827ms or 76 ticks behind
-[29Jun2025 04:30:56.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4671ms or 93 ticks behind
-[29Jun2025 04:31:04.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5698, y=-31, z=-2736} BlockPos{x=5697, y=-31, z=-2734}
-[29Jun2025 04:31:16.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5765ms or 115 ticks behind
-[29Jun2025 04:31:38.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6309ms or 126 ticks behind
-[29Jun2025 04:32:00.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7504ms or 150 ticks behind
-[29Jun2025 04:32:17.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5643, y=-39, z=-2729} BlockPos{x=5643, y=-40, z=-2730}
-[29Jun2025 04:32:21.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6396ms or 127 ticks behind
-[29Jun2025 04:32:28.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5647, y=-37, z=-2721} BlockPos{x=5648, y=-37, z=-2721}
-[29Jun2025 04:32:28.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5647, y=-37, z=-2721} BlockPos{x=5648, y=-37, z=-2721}
-[29Jun2025 04:32:34.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5650, y=-33, z=-2722} BlockPos{x=5650, y=-33, z=-2721}
-[29Jun2025 04:32:34.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlitos
-[29Jun2025 04:32:38.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> arena tienes?
-[29Jun2025 04:32:44.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7547ms or 150 ticks behind
-[29Jun2025 04:32:45.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> s
-[29Jun2025 04:32:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> aa
-[29Jun2025 04:32:55.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
-[29Jun2025 04:33:05.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6055ms or 121 ticks behind
-[29Jun2025 04:33:13.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 932.500000, 10.500000, 2881.500000]
-[29Jun2025 04:33:22.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
-[29Jun2025 04:33:24.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3942ms or 78 ticks behind
-[29Jun2025 04:33:34.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ponle localizacion
-[29Jun2025 04:33:35.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Into Darkness]
-[29Jun2025 04:33:37.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> y le pones una cama
-[29Jun2025 04:33:42.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3592ms or 71 ticks behind
-[29Jun2025 04:33:43.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> a
-[29Jun2025 04:33:45.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> pues si
-[29Jun2025 04:33:49.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Source of Evil]
-[29Jun2025 04:33:49.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Taking from the Dead]
-[29Jun2025 04:33:50.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> vuelve en la noche
-[29Jun2025 04:34:02.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4082ms or 81 ticks behind
-[29Jun2025 04:34:05.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 932.500000, 10.500000, 2881.500000]
-[29Jun2025 04:34:10.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Pic-A-Nic Basket?]
-[29Jun2025 04:34:17.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> alguien tiene una mesa nivel 30?
-[29Jun2025 04:34:20.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> 30?
-[29Jun2025 04:34:22.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5439ms or 108 ticks behind
-[29Jun2025 04:34:26.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
-[29Jun2025 04:34:36.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported Blister2112 to CarlitosBot1]
-[29Jun2025 04:34:40.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [Friendship Found]
-[29Jun2025 04:34:40.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> gracia
-[29Jun2025 04:34:42.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5456ms or 109 ticks behind
-[29Jun2025 04:34:59.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 932.500000, 10.500000, 2881.500000]
-[29Jun2025 04:35:02.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> gracia
-[29Jun2025 04:35:06.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[29Jun2025 04:35:23.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
-[29Jun2025 04:35:23.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 has made the advancement [Enchanter]
-[29Jun2025 04:35:23.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 has made the advancement [The Basics]
-[29Jun2025 04:35:33.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> noooo
-[29Jun2025 04:35:36.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> maldita sea
-[29Jun2025 04:35:40.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
-[29Jun2025 04:35:45.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> perdi propulsion acuatica
-[29Jun2025 04:35:59.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4046ms or 80 ticks behind
-[29Jun2025 04:36:17.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> si no?
-[29Jun2025 04:36:19.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4344ms or 86 ticks behind
-[29Jun2025 04:36:22.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> dale
-[29Jun2025 04:36:24.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> hierro
-[29Jun2025 04:36:25.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> oro
-[29Jun2025 04:36:29.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> flores
-[29Jun2025 04:36:30.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> comida
-[29Jun2025 04:36:39.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5462ms or 109 ticks behind
-[29Jun2025 04:36:40.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has reached the goal [Flawless Crystals]
-[29Jun2025 04:36:58.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4138ms or 82 ticks behind
-[29Jun2025 04:36:59.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to 5595.500000, 24.500000, -2675.500000]
-[29Jun2025 04:37:18.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4987ms or 99 ticks behind
-[29Jun2025 04:37:40.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6656ms or 133 ticks behind
-[29Jun2025 04:38:01.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6169ms or 123 ticks behind
-[29Jun2025 04:38:07.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has completed the challenge [It Spreads]
-[29Jun2025 04:38:08.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement ['Til Death Do Us Part]
-[29Jun2025 04:38:23.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7226ms or 144 ticks behind
-[29Jun2025 04:38:40.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlito
-[29Jun2025 04:38:41.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> adivina
-[29Jun2025 04:38:45.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> encontre otra aldea
-[29Jun2025 04:38:47.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8648ms or 172 ticks behind
-[29Jun2025 04:38:49.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> sabes q significa?
-[29Jun2025 04:38:55.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> expancion del catalogoooo
-[29Jun2025 04:39:03.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=894, y=19, z=2908} BlockPos{x=892, y=19, z=2908}
-[29Jun2025 04:39:07.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q
-[29Jun2025 04:39:07.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ya
-[29Jun2025 04:39:11.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9607ms or 192 ticks behind
-[29Jun2025 04:39:13.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 has reached the goal [Flawless Crystals]
-[29Jun2025 04:39:23.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [Next Generation]
-[29Jun2025 04:39:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Who turned the lights off?]
-[29Jun2025 04:39:36.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9659ms or 193 ticks behind
-[29Jun2025 04:39:59.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8024ms or 160 ticks behind
-[29Jun2025 04:40:07.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> carlito
-[29Jun2025 04:40:12.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> como me hago una mochila?
-[29Jun2025 04:40:23.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8542ms or 170 ticks behind
-[29Jun2025 04:40:46.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8178ms or 163 ticks behind
-[29Jun2025 04:41:10.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9284ms or 185 ticks behind
-[29Jun2025 04:41:16.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> off calida
-[29Jun2025 04:41:17.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> voy
-[29Jun2025 04:41:27.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to CarlitosBot1]
-[29Jun2025 04:41:35.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9920ms or 198 ticks behind
-[29Jun2025 04:41:38.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> gracia
-[29Jun2025 04:41:50.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to 5595.500000, 24.500000, -2675.500000]
-[29Jun2025 04:41:51.758] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
-[29Jun2025 04:41:54.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4290ms or 85 ticks behind
-[29Jun2025 04:42:13.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4057ms or 81 ticks behind
-[29Jun2025 04:42:34.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6097ms or 121 ticks behind
-[29Jun2025 04:42:39.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 848.500000, -6.500000, 2847.500000]
-[29Jun2025 04:42:46.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [You Are A Pirate]
-[29Jun2025 04:42:50.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 959.500000, -7.500000, 2731.500000]
-[29Jun2025 04:42:56.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6271ms or 125 ticks behind
-[29Jun2025 04:43:14.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3889ms or 77 ticks behind
-[29Jun2025 04:43:34.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4793ms or 95 ticks behind
-[29Jun2025 04:43:39.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 887.500000, 177.500000, 2943.500000]
-[29Jun2025 04:43:53.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4307ms or 86 ticks behind
-[29Jun2025 04:44:13.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4171ms or 83 ticks behind
-[29Jun2025 04:44:32.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4697ms or 93 ticks behind
-[29Jun2025 04:44:37.637] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
-[29Jun2025 04:44:55.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7789ms or 155 ticks behind
-[29Jun2025 04:45:13.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was killed by magic
-[29Jun2025 04:45:16.204] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
-[29Jun2025 04:45:17.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7079ms or 141 ticks behind
-[29Jun2025 04:45:22.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 1086.500000, 70.500000, 2034.500000]
-[29Jun2025 04:45:33.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was slain by Vindicator
-[29Jun2025 04:45:35.360] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
-[29Jun2025 04:45:37.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4727ms or 94 ticks behind
-[29Jun2025 04:45:37.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 1096.500000, 64.500000, 2025.500000]
-[29Jun2025 04:45:57.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5092ms or 101 ticks behind
-[29Jun2025 04:46:11.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to -804.500000, 85.500000, -1878.500000]
-[29Jun2025 04:46:18.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6121ms or 122 ticks behind
-[29Jun2025 04:46:39.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5741ms or 114 ticks behind
-[29Jun2025 04:47:01.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7695ms or 153 ticks behind
-[29Jun2025 04:47:14.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 887.500000, 177.500000, 2943.500000]
-[29Jun2025 04:47:24.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7942ms or 158 ticks behind
-[29Jun2025 04:47:34.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 has reached the goal [A Metropolis of Restless Souls]
-[29Jun2025 04:47:44.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4935ms or 98 ticks behind
-[29Jun2025 04:47:56.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was killed by magic whilst trying to escape Pillager
-[29Jun2025 04:47:58.839] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
-[29Jun2025 04:48:01.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 1090.500000, 66.500000, 2030.500000]
-[29Jun2025 04:48:05.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6043ms or 120 ticks behind
-[29Jun2025 04:48:17.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! -2.982465469146973,-9.4392474385609,3.254451054630863
-[29Jun2025 04:48:26.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5924ms or 118 ticks behind
-[29Jun2025 04:48:46.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5134ms or 102 ticks behind
-[29Jun2025 04:49:06.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4876ms or 97 ticks behind
-[29Jun2025 04:49:27.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6136ms or 122 ticks behind
-[29Jun2025 04:49:42.366] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Isosahedron the Odd'/28330, l='ServerLevel[world]', x=976.70, y=-24.00, z=2944.70] died: Isosahedron the Odd was scorched to death
-[29Jun2025 04:49:47.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5493ms or 109 ticks behind
-[29Jun2025 04:50:07.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4558ms or 91 ticks behind
-[29Jun2025 04:50:07.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has completed the challenge [He Wasn't So Strong]
-[29Jun2025 04:50:19.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
-[29Jun2025 04:50:27.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4688ms or 93 ticks behind
-[29Jun2025 04:50:28.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 1015.500000, -31.500000, 2964.500000]
-[29Jun2025 04:50:47.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5168ms or 103 ticks behind
-[29Jun2025 04:51:00.271] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/29464, l='ServerLevel[world]', x=1187.50, y=44.00, z=1999.50]
-[29Jun2025 04:51:10.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8617ms or 172 ticks behind
-[29Jun2025 04:51:25.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 has made the advancement [Into Darkness]
-[29Jun2025 04:51:36.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10778ms or 215 ticks behind
-[29Jun2025 04:52:00.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9224ms or 184 ticks behind
-[29Jun2025 04:52:07.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to inwxke]
-[29Jun2025 04:52:24.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9123ms or 182 ticks behind
-[29Jun2025 04:52:35.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii fell from a high place
-[29Jun2025 04:52:38.508] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
-[29Jun2025 04:52:40.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 1302.500000, 15.500000, 1630.500000]
-[29Jun2025 04:52:45.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5223ms or 104 ticks behind
-[29Jun2025 04:53:04.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4079ms or 81 ticks behind
-[29Jun2025 04:53:10.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlitos
-[29Jun2025 04:53:17.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> encontre una ciudad de estas de guardian
-[29Jun2025 04:53:18.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> del mar
-[29Jun2025 04:53:20.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> vro
-[29Jun2025 04:53:25.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to semviii]
-[29Jun2025 04:53:25.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6736ms or 134 ticks behind
-[29Jun2025 04:53:26.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> invoque al wardes sin querer XD
-[29Jun2025 04:53:46.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> melo
-[29Jun2025 04:53:46.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5801ms or 116 ticks behind
-[29Jun2025 04:53:47.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> gracias
-[29Jun2025 04:53:53.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
-[29Jun2025 04:54:05.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to CarlitosBot1]
-[29Jun2025 04:54:07.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> A
-[29Jun2025 04:54:07.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6117ms or 122 ticks behind
-[29Jun2025 04:54:09.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> A
-[29Jun2025 04:54:18.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ksi me coge el warden XD
-[29Jun2025 04:54:21.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> A
-[29Jun2025 04:54:25.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
-[29Jun2025 04:54:28.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> iwoke tenes arena?
-[29Jun2025 04:54:28.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> active los subtitulos del tiro XD
-[29Jun2025 04:54:33.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> o un tp con arena
-[29Jun2025 04:54:45.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[29Jun2025 04:54:48.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6872.500000, 104.500000, -2563.500000]
-[29Jun2025 04:54:53.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
-[29Jun2025 04:55:01.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
-[29Jun2025 04:55:21.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Eye of The Storm]
-[29Jun2025 04:56:03.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[29Jun2025 04:56:09.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> aa
-[29Jun2025 04:56:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q paso
-[29Jun2025 04:56:21.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2483ms or 49 ticks behind
-[29Jun2025 04:56:29.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> porq lo quieres
-[29Jun2025 04:56:37.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no osea
-[29Jun2025 04:56:38.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2468ms or 49 ticks behind
-[29Jun2025 04:56:39.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q me ofreces
-[29Jun2025 04:56:56.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
-[29Jun2025 04:56:57.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> es q entiendeme
-[29Jun2025 04:57:01.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> soy meme
-[29Jun2025 04:57:07.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> entonces los corazones me ayudan
-[29Jun2025 04:57:08.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> a aguantar
-[29Jun2025 04:57:23.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[29Jun2025 04:57:25.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no no
-[29Jun2025 04:57:27.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ya tengo
-[29Jun2025 04:57:39.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> esta pala pone antorcha
-[29Jun2025 04:57:40.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> carlito
-[29Jun2025 04:57:45.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[29Jun2025 04:57:50.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no
-[29Jun2025 04:58:02.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
-[29Jun2025 04:58:07.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no
-[29Jun2025 04:58:18.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> como te dig
-[29Jun2025 04:58:21.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> me sirve muhco
-[29Jun2025 04:58:21.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[29Jun2025 04:58:32.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> cuando consiga uno te lo doy
-[29Jun2025 04:58:39.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2741ms or 54 ticks behind
-[29Jun2025 04:58:48.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> carlito
-[29Jun2025 04:58:55.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> pa q es esto
-[29Jun2025 04:58:56.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[29Jun2025 04:59:14.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2821ms or 56 ticks behind
-[29Jun2025 04:59:25.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Blister2112]
-[29Jun2025 04:59:32.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3209ms or 64 ticks behind
-[29Jun2025 04:59:32.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to semviii]
-[29Jun2025 04:59:33.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> a
-[29Jun2025 04:59:34.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> NO
-[29Jun2025 04:59:35.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> NO
-[29Jun2025 04:59:37.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> NO ERA ESO
-[29Jun2025 04:59:37.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Blister2112]
-[29Jun2025 04:59:38.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ASKLSALKSLKA
-[29Jun2025 04:59:50.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2860ms or 57 ticks behind
-[29Jun2025 04:59:53.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> a
-[29Jun2025 04:59:54.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ok
-[29Jun2025 05:00:06.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> tiendo tiendo
-[29Jun2025 05:00:09.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> bueno go warden
-[29Jun2025 05:00:10.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5246ms or 104 ticks behind
-[29Jun2025 05:00:25.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> el tiene si quiera full diamond?
-[29Jun2025 05:00:26.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ksi
-[29Jun2025 05:00:28.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> 29 ksi
-[29Jun2025 05:00:30.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5310ms or 106 ticks behind
-[29Jun2025 05:00:31.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> deja consigo los 30
-[29Jun2025 05:00:35.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to 5595.500000, 24.500000, -2675.500000]
-[29Jun2025 05:00:42.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> que necesitas?
-[29Jun2025 05:00:45.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> yo no
-[29Jun2025 05:00:46.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> cual?
-[29Jun2025 05:00:48.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> pero carlitos
-[29Jun2025 05:00:49.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> tengo
-[29Jun2025 05:00:50.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5291ms or 105 ticks behind
-[29Jun2025 05:00:51.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5579, y=20, z=-2673} BlockPos{x=5578, y=20, z=-2672}
-[29Jun2025 05:00:54.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> coso de cuarzo
-[29Jun2025 05:01:00.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> pa q los pongas y consigas exp
-[29Jun2025 05:01:10.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to 889.500000, 177.500000, 2942.500000]
-[29Jun2025 05:01:13.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8041ms or 160 ticks behind
-[29Jun2025 05:01:32.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> filo 4?
-[29Jun2025 05:01:32.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3862ms or 77 ticks behind
-[29Jun2025 05:01:45.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6689.500000, 63.500000, -2531.500000]
-[29Jun2025 05:01:49.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> no tienes pa la viana de quitar encantamiento?
-[29Jun2025 05:01:50.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
-[29Jun2025 05:02:07.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
-[29Jun2025 05:02:20.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to 5777.500000, -50.500000, -2729.500000]
-[29Jun2025 05:02:25.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3468ms or 69 ticks behind
-[29Jun2025 05:02:27.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6773.500000, 63.500000, -2471.500000]
-[29Jun2025 05:02:46.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to 889.500000, 177.500000, 2942.500000]
-[29Jun2025 05:02:49.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> joa
-[29Jun2025 05:02:50.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> no se ha ido
-[29Jun2025 05:02:58.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> s
-[29Jun2025 05:03:21.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> SAKLSAKJSAKJ
-[29Jun2025 05:03:25.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[29Jun2025 05:03:40.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> toma
-[29Jun2025 05:03:47.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2265ms or 45 ticks behind
-[29Jun2025 05:03:52.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Friendship Found]
-[29Jun2025 05:04:01.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> XD
-[29Jun2025 05:04:04.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2834ms or 56 ticks behind
-[29Jun2025 05:04:05.893] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
-[29Jun2025 05:04:05.893] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
-[29Jun2025 05:04:16.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ufufufufuf
-[29Jun2025 05:04:22.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2280ms or 45 ticks behind
-[29Jun2025 05:04:23.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> los ojos verdes no se en donde
-[29Jun2025 05:04:24.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> pero si
-[29Jun2025 05:04:26.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> igualito
-[29Jun2025 05:04:36.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> porq la tienes encarfcelada SAKLSALKLKSALKSA
-[29Jun2025 05:04:39.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
-[29Jun2025 05:04:40.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> te voy a demandar
-[29Jun2025 05:04:43.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [The Lighthouse]
-[29Jun2025 05:04:57.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> XD
-[29Jun2025 05:04:57.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2795ms or 55 ticks behind
-[29Jun2025 05:04:59.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
-[29Jun2025 05:05:00.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [The Lighthouse]
-[29Jun2025 05:05:08.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
-[29Jun2025 05:05:10.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6689.500000, 63.500000, -2531.500000]
-[29Jun2025 05:05:19.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6860ms or 137 ticks behind
-[29Jun2025 05:05:21.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6773.500000, 63.500000, -2471.500000]
-[29Jun2025 05:05:27.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> tienes algun chekpoitn en alguna cueva carlito?
-[29Jun2025 05:05:41.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7058ms or 141 ticks behind
-[29Jun2025 05:05:46.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6689.500000, 63.500000, -2531.500000]
-[29Jun2025 05:05:55.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6773.500000, 63.500000, -2471.500000]
-[29Jun2025 05:05:58.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> a carlito
-[29Jun2025 05:06:01.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5559ms or 111 ticks behind
-[29Jun2025 05:06:04.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> tienes algun chekpoint en alguna ceuva?
-[29Jun2025 05:06:21.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5035ms or 100 ticks behind
-[29Jun2025 05:06:26.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q nombre le pone al niño
-[29Jun2025 05:06:28.553] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Nebojša}[style={}] has been infected
-[29Jun2025 05:06:30.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> le daño la vida
-[29Jun2025 05:06:40.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3550ms or 71 ticks behind
-[29Jun2025 05:06:42.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> calma carlitos
-[29Jun2025 05:06:56.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> voy a tener un hijo q le haga bullying al tuyo
-[29Jun2025 05:07:01.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs moved too quickly! 6.414914131453315,-1.2046003784434305,7.967812973599848
-[29Jun2025 05:07:01.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6138ms or 122 ticks behind
-[29Jun2025 05:07:02.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ALKSLKSAKAL
-[29Jun2025 05:07:21.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5286ms or 105 ticks behind
-[29Jun2025 05:07:24.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> por fin
-[29Jun2025 05:07:38.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no
-[29Jun2025 05:07:40.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3679ms or 73 ticks behind
-[29Jun2025 05:07:52.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6689.500000, 63.500000, -2531.500000]
-[29Jun2025 05:08:01.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6237ms or 124 ticks behind
-[29Jun2025 05:08:04.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6773.500000, 63.500000, -2471.500000]
-[29Jun2025 05:08:21.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4504ms or 90 ticks behind
-[29Jun2025 05:08:35.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [The Jeweler]
-[29Jun2025 05:08:40.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4515ms or 90 ticks behind
-[29Jun2025 05:08:41.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlitoo ya tengo mujer
-[29Jun2025 05:08:45.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to semviii]
-[29Jun2025 05:08:45.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6689.500000, 63.500000, -2531.500000]
-[29Jun2025 05:08:49.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6773.500000, 63.500000, -2471.500000]
-[29Jun2025 05:08:50.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to semviii]
-[29Jun2025 05:08:57.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
-[29Jun2025 05:09:06.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> dime
-[29Jun2025 05:09:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> diablo
-[29Jun2025 05:09:18.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> si
-[29Jun2025 05:09:23.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> aa
-[29Jun2025 05:09:28.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> es de hierro?
-[29Jun2025 05:09:28.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to 6693.500000, 63.500000, -2529.500000]
-[29Jun2025 05:09:30.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no
-[29Jun2025 05:09:32.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> solo 4
-[29Jun2025 05:09:45.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> a
-[29Jun2025 05:09:51.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> JAJAJ ta melo
-[29Jun2025 05:09:56.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6689.500000, 63.500000, -2531.500000]
-[29Jun2025 05:10:03.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[29Jun2025 05:10:29.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
-[29Jun2025 05:11:16.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> como hago un cofre con clave?
-[29Jun2025 05:11:17.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Rigged from the Start]
-[29Jun2025 05:11:21.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlito tenes madera
-[29Jun2025 05:11:24.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> necesito mucha
-[29Jun2025 05:11:45.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 1271.500000, 79.500000, 2591.500000]
-[29Jun2025 05:11:45.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> carlito, como hago un cofre con clave?
-[29Jun2025 05:12:04.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[29Jun2025 05:12:06.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
-[29Jun2025 05:12:24.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> no puedo guardar todo en una mochila xd
-[29Jun2025 05:12:36.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved too quickly! -1.3693918853448395,-0.0824431154427856,9.92944715980002
-[29Jun2025 05:12:36.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 0.10757660412548375,1.2522033402537147,10.142956585331376
-[29Jun2025 05:12:36.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3091ms or 61 ticks behind
-[29Jun2025 05:12:41.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
-[29Jun2025 05:12:53.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
-[29Jun2025 05:13:05.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> como mejoro la mochila?
-[29Jun2025 05:13:11.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
-[29Jun2025 05:13:28.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2415ms or 48 ticks behind
-[29Jun2025 05:13:37.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> gracia
-[29Jun2025 05:13:40.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to 889.500000, 177.500000, 2942.500000]
-[29Jun2025 05:13:51.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to 6693.500000, 63.500000, -2529.500000]
-[29Jun2025 05:14:06.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> te agarre 8 de cobre carlito
-[29Jun2025 05:14:09.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6689.500000, 63.500000, -2531.500000]
-[29Jun2025 05:14:18.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> la mochila xd
-[29Jun2025 05:15:25.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[29Jun2025 23:00:36.458] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
+[29Jun2025 23:00:36.609] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3555 advancements
+[29Jun2025 23:00:36.619] [main/INFO] [placebo/]: Registered 26 additional recipes.
+[29Jun2025 23:00:36.621] [main/INFO] [Dungeon Crawl/]: Loading data...
+[29Jun2025 23:00:36.906] [main/INFO] [Dungeon Crawl/]: Done.
+[29Jun2025 23:00:36.948] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[29Jun2025 23:00:36.956] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[29Jun2025 23:00:37.088] [main/INFO] [placebo/]: Registered 16 gear_sets.
+[29Jun2025 23:00:37.091] [main/INFO] [Apotheosis : Enchantment/]: Registered 29 enchanting_stats.
+[29Jun2025 23:00:37.093] [main/INFO] [Apotheosis : Adventure/]: Registered 6 rarities.
+[29Jun2025 23:00:37.105] [main/INFO] [Apotheosis : Adventure/]: Registered 81 affixes.
+[29Jun2025 23:00:37.111] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category helmetRequired: 3; Provided: 2
+[29Jun2025 23:00:37.111] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category bootsRequired: 3; Provided: 2
+[29Jun2025 23:00:37.112] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bowRequired: 5; Provided: 4
+[29Jun2025 23:00:37.112] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category crossbowRequired: 5; Provided: 4
+[29Jun2025 23:00:37.112] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category pickaxeRequired: 5; Provided: 4
+[29Jun2025 23:00:37.112] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shovelRequired: 5; Provided: 4
+[29Jun2025 23:00:37.113] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shieldRequired: 5; Provided: 4
+[29Jun2025 23:00:37.113] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category helmetRequired: 4; Provided: 2
+[29Jun2025 23:00:37.114] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bootsRequired: 4; Provided: 2
+[29Jun2025 23:00:37.125] [main/INFO] [Apotheosis : Adventure/]: Registered 19 gems.
+[29Jun2025 23:00:37.133] [main/INFO] [Apotheosis : Adventure/]: Registered 67 affix_loot_entries.
+[29Jun2025 23:00:37.140] [main/INFO] [Apotheosis : Adventure/]: Registered 17 bosses.
+[29Jun2025 23:00:37.149] [main/INFO] [Apotheosis : Adventure/]: Registered 8 rogue_spawners.
+[29Jun2025 23:00:37.152] [main/INFO] [Apotheosis : Adventure/]: Registered 5 minibosses.
+[29Jun2025 23:00:37.156] [main/INFO] [Apotheosis : Village/]: Registered 28 wanderer_trades.
+[29Jun2025 23:00:39.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[29Jun2025 23:00:39.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Jun2025 23:00:39.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Jun2025 23:00:39.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Jun2025 23:00:39.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Jun2025 23:00:39.575] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Jun2025 23:00:39.665] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Jun2025 23:00:39.665] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Jun2025 23:00:39.665] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Jun2025 23:00:39.665] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Jun2025 23:00:39.689] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[29Jun2025 23:00:39.690] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[29Jun2025 23:00:39.691] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[29Jun2025 23:00:39.691] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[29Jun2025 23:00:39.692] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[29Jun2025 23:00:39.694] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[29Jun2025 23:00:39.700] [Server thread/INFO] [Puzzles Lib/]: Loading server config for pickupnotifier
+[29Jun2025 23:00:39.709] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
+[29Jun2025 23:00:40.116] [Server thread/INFO] [Framework/]: Loading server configs...
+[29Jun2025 23:00:40.138] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[29Jun2025 23:00:40.569] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[29Jun2025 23:00:40.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Jun2025 23:00:41.631] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[29Jun2025 23:00:41.926] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[29Jun2025 23:00:45.797] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[29Jun2025 23:00:47.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Jun2025 23:00:54.052] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[29Jun2025 23:00:54.928] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:54.929] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:54.929] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:54.930] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:54.930] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:54.930] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:54.931] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:54.933] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:54.938] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:54.939] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:54.940] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:54.943] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:54.943] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:54.944] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:54.944] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:54.945] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jun2025 23:00:55.293] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[29Jun2025 23:00:55.793] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[29Jun2025 23:00:56.046] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8753 ms
+[29Jun2025 23:00:56.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.365s)! For help, type "help"
+[29Jun2025 23:00:56.117] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Jun2025 23:00:56.122] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[29Jun2025 23:01:04.560] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [the_bumblezone:networking,carryon:carryonpackets,sophisticatedbackpacks:channel,citadel:main_channel,easymagic:1,securitycraft:securitycraft,obscure_api:obscure_api,framework:play,curios:main,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,aquamirae:main,alexsmobs:main_channel,glitchcore:config_sync,mca:main,mowziesmobs:net,mofus_better_end_:mofus_better_end_,creativecore:main,sophisticatedcore:channel,sereneseasons:main,easyanvils:1,geckolib:main,graveyard:spawn_entity,waystones:network] rejected their client side version number
+[29Jun2025 23:01:04.561] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[29Jun2025 23:01:04.590] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3abb1c8[id=<null>,name=Arlexsinho,properties={},legacy=false] (/127.212.46.115:50243) lost connection: Connection closed - mismatched mod channel list
+[29Jun2025 23:02:09.331] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3880bd7[id=<null>,name=Arlexsinho,properties={},legacy=false] (/127.212.46.115:56669) lost connection: Disconnected
+[29Jun2025 23:02:26.241] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[29Jun2025 23:02:26.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CarlitosBot1[/127.142.62.251:39923] logged in with entity id 120 at (886.7360870500862, 177.125, 2940.9604856256265)
+[29Jun2025 23:02:26.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 joined the game
+[29Jun2025 23:02:30.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4354ms or 87 ticks behind
+[29Jun2025 23:02:30.801] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[29Jun2025 23:02:30.967] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:02:30.968] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jun2025 23:02:30.968] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jun2025 23:02:47.691] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [the_bumblezone:networking,carryon:carryonpackets,sophisticatedbackpacks:channel,citadel:main_channel,easymagic:1,securitycraft:securitycraft,obscure_api:obscure_api,framework:play,curios:main,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,aquamirae:main,alexsmobs:main_channel,glitchcore:config_sync,mca:main,mowziesmobs:net,mofus_better_end_:mofus_better_end_,creativecore:main,sophisticatedcore:channel,sereneseasons:main,easyanvils:1,geckolib:main,graveyard:spawn_entity,waystones:network] rejected their client side version number
+[29Jun2025 23:02:47.691] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[29Jun2025 23:02:47.692] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1563d2ef[id=<null>,name=Arlexsinho,properties={},legacy=false] (/127.212.46.115:52333) lost connection: Disconnected
+[29Jun2025 23:02:53.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxisccs[/127.224.138.117:45987] logged in with entity id 355 at (2739.7149220211877, -7.0, 3100.842932176166)
+[29Jun2025 23:02:53.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs joined the game
+[29Jun2025 23:02:58.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[29Jun2025 23:03:05.204] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[29Jun2025 23:03:23.113] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2959, y=-37, z=2878}
+[29Jun2025 23:05:29.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: semviii[/127.239.46.137:39277] logged in with entity id 1272 at (6712.24605486637, 67.76636799395752, -2531.5451047361553)
+[29Jun2025 23:05:29.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii joined the game
+[29Jun2025 23:05:30.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! -0.24040542962984546,1.0013359791121488,10.189970236803674
+[29Jun2025 23:05:43.157] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[29Jun2025 23:05:47.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii was kicked for floating too long!
+[29Jun2025 23:05:47.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii lost connection: Disconnected
+[29Jun2025 23:05:47.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii left the game
+[29Jun2025 23:05:47.788] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jun2025 23:06:03.767] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: semviii[/127.239.46.137:54415] logged in with entity id 1713 at (6712.24605486637, 67.76636799395752, -2531.5451047361553)
+[29Jun2025 23:06:03.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii joined the game
+[29Jun2025 23:06:08.610] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[29Jun2025 23:07:31.324] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.324] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.324] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.325] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.325] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.325] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.325] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.326] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jun2025 23:07:31.326] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.326] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.326] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.327] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.327] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.327] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.327] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.327] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.328] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.328] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.328] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.328] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jun2025 23:07:31.329] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.329] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.329] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jun2025 23:07:31.329] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.329] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jun2025 23:07:31.330] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jun2025 23:07:31.330] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.330] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.330] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.330] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.331] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.331] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.331] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.331] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.331] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.332] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:07:31.332] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jun2025 23:08:32.016] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [the_bumblezone:networking,carryon:carryonpackets,sophisticatedbackpacks:channel,citadel:main_channel,easymagic:1,securitycraft:securitycraft,obscure_api:obscure_api,framework:play,curios:main,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,aquamirae:main,alexsmobs:main_channel,glitchcore:config_sync,mca:main,mowziesmobs:net,mofus_better_end_:mofus_better_end_,creativecore:main,sophisticatedcore:channel,sereneseasons:main,easyanvils:1,geckolib:main,graveyard:spawn_entity,waystones:network] rejected their client side version number
+[29Jun2025 23:08:32.016] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[29Jun2025 23:08:32.062] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a386ff4[id=<null>,name=Arlexsinho,properties={},legacy=false] (/127.212.46.115:56553) lost connection: Connection closed - mismatched mod channel list
+[29Jun2025 23:08:36.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:55287] logged in with entity id 3324 at (6678.532123659025, 116.0, 847.852458455168)
+[29Jun2025 23:08:36.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
+[29Jun2025 23:08:52.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15360ms or 307 ticks behind
+[29Jun2025 23:08:52.890] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[29Jun2025 23:08:52.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs moved too quickly! -1.3086013138336057,-2.0,-9.88281745497352
+[29Jun2025 23:08:52.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! -9.962231603516102,0.0,1.0066211885546181
+[29Jun2025 23:09:10.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[29Jun2025 23:09:16.947] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=6545, y=-15, z=794}
+[29Jun2025 23:09:28.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3087ms or 61 ticks behind
