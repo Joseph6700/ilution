@@ -1,2 +1,30 @@
 [29Jun2025 00:00:02.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
 [29Jun2025 00:00:03.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Into Darkness]
+[29Jun2025 00:00:45.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> sapa
+[29Jun2025 00:00:45.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[29Jun2025 00:01:06.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5472ms or 109 ticks behind
+[29Jun2025 00:01:25.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Cover Me with Diamonds]
+[29Jun2025 00:02:36.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Who turned the lights off?]
+[29Jun2025 00:02:44.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[29Jun2025 00:03:04.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> contra mis hijos?
+[29Jun2025 00:03:10.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[29Jun2025 00:03:17.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [It Comes Back, Right?]
+[29Jun2025 00:03:24.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Jun2025 00:03:26.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to CarlitosBot1]
+[29Jun2025 00:03:30.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Taking from the Dead]
+[29Jun2025 00:03:42.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[29Jun2025 00:03:59.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs lost connection: Disconnected
+[29Jun2025 00:03:59.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs left the game
+[29Jun2025 00:05:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to 408.500000, -17.500000, 81.500000]
+[29Jun2025 00:05:14.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to 142.500000, 31.500000, -102.500000]
+[29Jun2025 00:05:18.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> explotacion laboral xd
+[29Jun2025 00:05:39.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> dal
+[29Jun2025 00:05:48.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> quita 4 y medio
+[29Jun2025 00:05:55.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 lost connection: Disconnected
+[29Jun2025 00:05:55.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 left the game
+[29Jun2025 00:06:13.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii lost connection: Disconnected
+[29Jun2025 00:06:13.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii left the game
+[29Jun2025 00:06:15.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi lost connection: Disconnected
+[29Jun2025 00:06:15.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi left the game
+[29Jun2025 00:07:28.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to 408.500000, -17.500000, 81.500000]
+[29Jun2025 00:07:38.615] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe

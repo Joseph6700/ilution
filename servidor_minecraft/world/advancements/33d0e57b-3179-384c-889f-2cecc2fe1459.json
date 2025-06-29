@@ -945,6 +945,7 @@
       "minecraft:skeleton": "2025-06-28 23:05:31 +0000",
       "minecraft:spider": "2025-06-28 23:05:25 +0000",
       "minecraft:creeper": "2025-06-28 23:24:22 +0000",
+      "minecraft:slime": "2025-06-29 00:02:07 +0000",
       "minecraft:zombie": "2025-06-28 22:25:19 +0000"
     },
     "done": false
@@ -1960,6 +1961,24 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-28 23:37:38 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-06-28 23:57:57 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-06-28 23:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-28 23:59:39 +0000"
     },
     "done": true
   },
