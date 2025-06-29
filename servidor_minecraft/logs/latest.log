@@ -29,3 +29,43 @@
 [29Jun2025 00:07:28.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to 408.500000, -17.500000, 81.500000]
 [29Jun2025 00:07:38.615] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
 [29Jun2025 00:20:41.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to 142.500000, 31.500000, -102.500000]
+[29Jun2025 00:21:54.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to 408.500000, -17.500000, 81.500000]
+[29Jun2025 00:22:26.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke was slain by Corrupted Vindicator
+[29Jun2025 00:22:28.933] [Server thread/INFO] [do_a_barrel_roll/]: Client of inwxke accepted server config.
+[29Jun2025 00:22:32.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to 404.500000, -17.500000, 21.500000]
+[29Jun2025 00:23:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke was slain by Corrupted Vindicator
+[29Jun2025 00:23:07.890] [Server thread/INFO] [do_a_barrel_roll/]: Client of inwxke accepted server config.
+[29Jun2025 00:23:12.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to 404.500000, -17.500000, 21.500000]
+[29Jun2025 00:23:18.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to 248.500000, -23.500000, -232.500000]
+[29Jun2025 00:23:21.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to 408.500000, -17.500000, 81.500000]
+[29Jun2025 00:25:39.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CarlitosBot1[/127.142.62.251:47675] logged in with entity id 34854 at (406.9416335507193, -18.0, 66.43593947385597)
+[29Jun2025 00:25:39.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 joined the game
+[29Jun2025 00:25:43.893] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[29Jun2025 00:26:50.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 lost connection: Disconnected
+[29Jun2025 00:26:50.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 left the game
+[29Jun2025 00:32:09.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [Not a Diamond]
+[29Jun2025 00:32:09.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has made the advancement [Far From Perfect]
+[29Jun2025 00:34:06.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke was slain by Zombie
+[29Jun2025 00:34:08.766] [Server thread/INFO] [do_a_barrel_roll/]: Client of inwxke accepted server config.
+[29Jun2025 00:35:26.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to 422.500000, -41.500000, -56.500000]
+[29Jun2025 00:36:11.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:37345] logged in with entity id 37489 at (5888.415729736209, 58.0, -1292.098520228562)
+[29Jun2025 00:36:11.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
+[29Jun2025 00:36:16.252] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[29Jun2025 00:41:52.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: semviii[/127.239.46.137:38229] logged in with entity id 40747 at (407.0629608567108, -18.0, 78.50933085732095)
+[29Jun2025 00:41:52.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii joined the game
+[29Jun2025 00:42:03.242] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[29Jun2025 00:43:58.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Chest Slayer]
+[29Jun2025 00:45:57.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Sweet Dreams]
+[29Jun2025 00:48:25.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Jim the Warrior'/44446, l='ServerLevel[world]', x=384.17, y=-20.00, z=139.57] died: Jim the Warrior was slain by semviii
+[29Jun2025 00:50:52.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no creo q sea por el enanimos
+[29Jun2025 00:53:57.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Wait those were just babies??]
+[29Jun2025 00:56:14.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Emma the Cracked'/49378, l='ServerLevel[world]', x=554.70, y=7.00, z=-190.70] died: Emma the Cracked was slain by inwxke
+[29Jun2025 00:56:15.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has completed the challenge [He Wasn't So Strong]
+[29Jun2025 00:59:00.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> como se hace
+[29Jun2025 00:59:36.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ok
+[29Jun2025 01:00:11.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> cuantas veces lo puedo hacer?
+[29Jun2025 01:00:15.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> solo 1 por item?
+[29Jun2025 01:00:48.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi lost connection: Disconnected
+[29Jun2025 01:00:48.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi left the game
+[29Jun2025 01:01:11.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii lost connection: Disconnected
+[29Jun2025 01:01:11.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii left the game
