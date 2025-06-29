@@ -90,6 +90,7 @@
       "minecraft:taiga": "2025-06-28 23:46:01 +0000",
       "minecraft:sunflower_plains": "2025-06-29 02:54:42 +0000",
       "minecraft:birch_forest": "2025-06-28 22:20:05 +0000",
+      "minecraft:savanna_plateau": "2025-06-29 03:28:25 +0000",
       "minecraft:beach": "2025-06-28 23:02:13 +0000",
       "minecraft:dark_forest": "2025-06-28 22:22:50 +0000",
       "minecraft:river": "2025-06-28 22:25:30 +0000",
@@ -824,6 +825,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-28 22:24:37 +0000",
+      "minecraft:ghast": "2025-06-29 03:33:46 +0000",
       "minecraft:spider": "2025-06-28 22:30:25 +0000",
       "minecraft:phantom": "2025-06-29 01:46:27 +0000",
       "minecraft:wither_skeleton": "2025-06-29 01:46:43 +0000",
@@ -1045,8 +1047,10 @@
       "shrubland": "2025-06-28 22:37:10 +0000",
       "rocky_shrubland": "2025-06-28 22:36:45 +0000",
       "scrubland": "2025-06-29 03:04:18 +0000",
+      "erupting_inferno": "2025-06-29 03:32:10 +0000",
       "old_growth_woodland": "2025-06-28 23:05:05 +0000",
       "maple_woods": "2025-06-28 23:45:07 +0000",
+      "crystalline_chasm": "2025-06-29 03:32:46 +0000",
       "orchard": "2025-06-28 22:34:54 +0000",
       "field": "2025-06-29 01:56:05 +0000",
       "overgrown_greens": "2025-06-28 22:37:19 +0000",
@@ -3471,6 +3475,30 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-06-29 03:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-06-29 03:33:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-06-29 03:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-29 03:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-06-29 03:09:03 +0000"
@@ -3480,6 +3508,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_cut_red_sandstone": "2025-06-29 03:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-29 03:34:58 +0000"
     },
     "done": true
   },
@@ -3501,9 +3535,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-29 03:31:30 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-06-29 03:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-29 03:32:09 +0000"
     },
     "done": true
   },
@@ -3519,6 +3565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-29 03:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_cut_red_sandstone": "2025-06-29 03:02:43 +0000"
@@ -3528,6 +3580,30 @@
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-06-29 03:13:45 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-06-29 03:33:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-29 03:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-29 03:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-06-29 03:33:46 +0000"
     },
     "done": true
   },

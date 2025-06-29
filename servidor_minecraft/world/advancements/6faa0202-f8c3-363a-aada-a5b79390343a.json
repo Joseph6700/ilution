@@ -1500,8 +1500,10 @@
       "orchard": "2025-06-28 22:13:23 +0000",
       "field": "2025-06-29 01:59:19 +0000",
       "overgrown_greens": "2025-06-29 02:00:56 +0000",
+      "mediterranean_forest": "2025-06-29 03:28:22 +0000",
       "coniferous_forest": "2025-06-29 02:22:37 +0000",
       "spider_nest": "2025-06-28 22:35:52 +0000",
+      "dryland": "2025-06-29 03:35:50 +0000",
       "redwood_forest": "2025-06-28 22:14:02 +0000",
       "dune_beach": "2025-06-29 01:53:55 +0000",
       "pasture": "2025-06-29 01:49:52 +0000",
@@ -3268,6 +3270,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-29 03:26:03 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-29 03:09:36 +0000"
@@ -3283,6 +3291,12 @@
   "mca:recipes/decorations/pink_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-29 03:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-29 03:36:19 +0000"
     },
     "done": true
   },
@@ -3307,6 +3321,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-06-29 03:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-29 03:36:19 +0000"
     },
     "done": true
   },
@@ -3373,6 +3393,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-06-29 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-29 03:36:19 +0000"
     },
     "done": true
   },
