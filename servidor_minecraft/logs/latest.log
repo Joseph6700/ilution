@@ -649,3 +649,57 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [29Jun2025 23:19:51.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4916ms or 98 ticks behind
 [29Jun2025 23:20:10.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3924ms or 78 ticks behind
 [29Jun2025 23:20:29.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3875ms or 77 ticks behind
+[29Jun2025 23:20:51.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6401ms or 128 ticks behind
+[29Jun2025 23:21:13.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7064ms or 141 ticks behind
+[29Jun2025 23:21:17.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> yo
+[29Jun2025 23:21:24.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
+[29Jun2025 23:21:32.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4698ms or 93 ticks behind
+[29Jun2025 23:21:36.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ooo
+[29Jun2025 23:21:49.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6689.500000, 63.500000, -2531.500000]
+[29Jun2025 23:22:02.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Jun2025 23:22:03.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Poppa Branger the Alien'/15109, l='ServerLevel[world]', x=7320.80, y=76.00, z=960.97] died: Poppa Branger the Alien was slain by BruhYoichi
+[29Jun2025 23:22:21.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3129ms or 62 ticks behind
+[29Jun2025 23:22:39.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3704ms or 74 ticks behind
+[29Jun2025 23:23:00.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5426ms or 108 ticks behind
+[29Jun2025 23:23:23.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8015ms or 160 ticks behind
+[29Jun2025 23:23:46.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7970ms or 159 ticks behind
+[29Jun2025 23:24:09.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8268ms or 165 ticks behind
+[29Jun2025 23:24:16.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [You Are A Pirate]
+[29Jun2025 23:24:32.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8064ms or 161 ticks behind
+[29Jun2025 23:24:38.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ahi las consigues
+[29Jun2025 23:24:41.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> las garras maxi
+[29Jun2025 23:24:52.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4984ms or 99 ticks behind
+[29Jun2025 23:25:12.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5417ms or 108 ticks behind
+[29Jun2025 23:25:35.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7994ms or 159 ticks behind
+[29Jun2025 23:25:55.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4329ms or 86 ticks behind
+[29Jun2025 23:26:12.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2796ms or 55 ticks behind
+[29Jun2025 23:26:13.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> maxi
+[29Jun2025 23:26:16.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q ya viene
+[29Jun2025 23:26:22.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arlexsinho[/127.212.46.115:53249] logged in with entity id 22533 at (1.5, 65.0, 10.5)
+[29Jun2025 23:26:22.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arlexsinho joined the game
+[29Jun2025 23:26:32.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4891ms or 97 ticks behind
+[29Jun2025 23:26:52.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4999ms or 99 ticks behind
+[29Jun2025 23:26:56.510] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arlexsinho accepted server config.
+[29Jun2025 23:27:13.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6459ms or 129 ticks behind
+[29Jun2025 23:27:35.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6973ms or 139 ticks behind
+[29Jun2025 23:27:58.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7408ms or 148 ticks behind
+[29Jun2025 23:28:18.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5618ms or 112 ticks behind
+[29Jun2025 23:28:39.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5723ms or 114 ticks behind
+[29Jun2025 23:28:59.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5286ms or 105 ticks behind
+[29Jun2025 23:29:19.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4826ms or 96 ticks behind
+[29Jun2025 23:29:25.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 3310.500000, -23.500000, 2774.500000]
+[29Jun2025 23:29:41.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6751ms or 135 ticks behind
+[29Jun2025 23:29:53.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=66, z=15}
+[29Jun2025 23:29:55.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=65, z=15}
+[29Jun2025 23:30:00.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=66, z=15}
+[29Jun2025 23:30:02.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6232ms or 124 ticks behind
+[29Jun2025 23:30:04.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=66, z=15}
+[29Jun2025 23:30:05.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=65, z=15}
+[29Jun2025 23:30:11.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 3345.500000, -21.500000, 2751.500000]
+[29Jun2025 23:30:23.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5575ms or 111 ticks behind
+[29Jun2025 23:30:28.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> tepeate a mi
+[29Jun2025 23:30:33.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Made Arlexsinho a server operator]
+[29Jun2025 23:30:34.325] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arlexsinho accepted server config.
+[29Jun2025 23:30:43.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5481ms or 109 ticks behind
+[29Jun2025 23:30:43.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 3421.500000, -12.500000, 2742.500000]
+[29Jun2025 23:30:45.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arlexsinho: Teleported Arlexsinho to semviii]

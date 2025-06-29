@@ -1859,11 +1859,13 @@
       "maple_woods": "2025-06-28 23:44:26 +0000",
       "orchard": "2025-06-28 23:03:33 +0000",
       "field": "2025-06-28 23:46:27 +0000",
+      "coniferous_forest": "2025-06-29 23:20:44 +0000",
       "dryland": "2025-06-29 03:30:34 +0000",
       "dune_beach": "2025-06-29 03:10:43 +0000",
       "pasture": "2025-06-29 03:19:48 +0000",
       "lavender_field": "2025-06-28 23:03:19 +0000",
       "pumpkin_patch": "2025-06-28 23:44:38 +0000",
+      "prairie": "2025-06-29 23:19:07 +0000",
       "gravel_beach": "2025-06-28 23:44:07 +0000",
       "glowing_grotto": "2025-06-29 04:07:44 +0000",
       "origin_valley": "2025-06-28 23:30:18 +0000"
@@ -3184,9 +3186,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-29 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-29 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-29 23:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-06-29 23:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-29 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-29 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-29 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-06-29 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-29 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-06-29 23:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-29 23:20:03 +0000"
     },
     "done": true
   },

@@ -3964,5 +3964,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-06-29 23:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-06-29 23:24:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
