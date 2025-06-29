@@ -88,7 +88,8 @@
       "minecraft:birch_forest": "2025-06-28 22:12:18 +0000",
       "minecraft:dark_forest": "2025-06-28 22:15:18 +0000",
       "minecraft:river": "2025-06-28 23:06:49 +0000",
-      "minecraft:forest": "2025-06-28 22:21:31 +0000"
+      "minecraft:forest": "2025-06-28 22:21:31 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-29 01:53:14 +0000"
     },
     "done": false
   },
@@ -2019,6 +2020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-29 01:58:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-06-29 00:47:14 +0000"
@@ -2052,6 +2059,18 @@
   "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-29 00:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-29 01:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-29 01:58:37 +0000"
     },
     "done": true
   },
@@ -2094,6 +2113,12 @@
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-29 00:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-29 01:58:37 +0000"
     },
     "done": true
   },
@@ -2231,6 +2256,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "orchard": "2025-06-29 01:54:06 +0000",
+      "redwood_forest": "2025-06-29 01:55:25 +0000",
       "lavender_field": "2025-06-29 00:44:32 +0000"
     },
     "done": false
@@ -2283,9 +2310,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-29 01:58:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-06-29 00:47:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-06-29 01:58:52 +0000"
     },
     "done": true
   },
@@ -2340,6 +2379,12 @@
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-06-29 00:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-29 01:58:37 +0000"
     },
     "done": true
   },

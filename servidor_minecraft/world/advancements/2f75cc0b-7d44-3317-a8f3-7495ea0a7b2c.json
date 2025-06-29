@@ -827,6 +827,8 @@
       "minecraft:wither_skeleton": "2025-06-29 01:46:43 +0000",
       "minecraft:husk": "2025-06-28 22:51:26 +0000",
       "minecraft:enderman": "2025-06-28 23:12:42 +0000",
+      "minecraft:silverfish": "2025-06-29 01:59:26 +0000",
+      "minecraft:stray": "2025-06-29 02:00:21 +0000",
       "minecraft:zombie": "2025-06-28 22:29:20 +0000"
     },
     "done": false
@@ -1039,8 +1041,10 @@
       "old_growth_woodland": "2025-06-28 23:05:05 +0000",
       "maple_woods": "2025-06-28 23:45:07 +0000",
       "orchard": "2025-06-28 22:34:54 +0000",
+      "field": "2025-06-29 01:56:05 +0000",
       "overgrown_greens": "2025-06-28 22:37:19 +0000",
       "mediterranean_forest": "2025-06-28 23:02:45 +0000",
+      "coniferous_forest": "2025-06-29 01:51:51 +0000",
       "spider_nest": "2025-06-28 22:38:09 +0000",
       "redwood_forest": "2025-06-28 22:37:58 +0000",
       "volcano": "2025-06-28 23:06:48 +0000",
@@ -2743,6 +2747,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-29 02:01:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 01:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-06-29 01:38:40 +0000"
@@ -2755,9 +2771,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-29 02:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2025-06-29 01:45:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-06-29 01:52:15 +0000"
     },
     "done": true
   },
@@ -2875,6 +2903,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-29 02:01:18 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/green_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-29 01:41:09 +0000"
@@ -2896,6 +2930,12 @@
   "mca:recipes/decorations/brown_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-29 02:01:18 +0000"
     },
     "done": true
   },
