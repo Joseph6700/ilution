@@ -69,3 +69,7 @@
 [29Jun2025 01:00:48.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi left the game
 [29Jun2025 01:01:11.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii lost connection: Disconnected
 [29Jun2025 01:01:11.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii left the game
+[29Jun2025 01:13:31.415] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/53754, l='ServerLevel[world]', x=633.26, y=78.41, z=-199.26] died: Honeyed Archer burned to death
+[29Jun2025 01:14:43.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: semviii[/127.239.46.137:41407] logged in with entity id 54289 at (359.3017628065361, -7.0, 130.6545631529674)
+[29Jun2025 01:14:43.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii joined the game
+[29Jun2025 01:14:52.187] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
