@@ -823,6 +823,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-28 22:24:37 +0000",
       "minecraft:spider": "2025-06-28 22:30:25 +0000",
+      "minecraft:phantom": "2025-06-29 01:46:27 +0000",
+      "minecraft:wither_skeleton": "2025-06-29 01:46:43 +0000",
       "minecraft:husk": "2025-06-28 22:51:26 +0000",
       "minecraft:enderman": "2025-06-28 23:12:42 +0000",
       "minecraft:zombie": "2025-06-28 22:29:20 +0000"
@@ -2621,6 +2623,36 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-06-29 01:42:00 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-06-29 01:36:15 +0000"
@@ -2633,9 +2665,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-29 01:42:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_gray_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-06-29 01:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-29 01:41:09 +0000"
     },
     "done": true
   },
@@ -2651,9 +2713,27 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_gray_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_blue_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-06-29 01:36:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
     },
     "done": true
   },
@@ -2663,9 +2743,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-29 01:38:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/green_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-06-29 01:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-06-29 01:45:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
     },
     "done": true
   },
@@ -2681,6 +2779,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/magenta_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-06-29 01:36:15 +0000"
@@ -2693,9 +2797,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-29 01:42:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-29 01:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-29 01:45:42 +0000"
     },
     "done": true
   },
@@ -2711,15 +2833,51 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/purple_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-06-29 01:49:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-06-29 01:40:56 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/diamond_bow": {
     "criteria": {
       "has_bow": "2025-06-29 01:36:33 +0000"
     },
     "done": true
   },
+  "mca:recipes/decorations/cyan_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-29 01:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
     },
     "done": true
   },
@@ -2735,6 +2893,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/brown_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/gray_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-06-29 01:36:15 +0000"
@@ -2747,9 +2911,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-06-29 01:36:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
     },
     "done": true
   },
@@ -2762,6 +2950,24 @@
   "mca:recipes/decorations/yellow_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-06-29 01:36:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-29 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-29 01:46:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-29 01:41:09 +0000"
     },
     "done": true
   },

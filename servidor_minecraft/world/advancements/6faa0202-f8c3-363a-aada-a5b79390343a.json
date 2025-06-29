@@ -89,6 +89,7 @@
       "minecraft:birch_forest": "2025-06-28 21:06:39 +0000",
       "minecraft:dark_forest": "2025-06-28 21:17:29 +0000",
       "minecraft:river": "2025-06-28 21:17:24 +0000",
+      "minecraft:stony_shore": "2025-06-29 01:47:12 +0000",
       "minecraft:forest": "2025-06-28 21:17:57 +0000",
       "minecraft:plains": "2025-06-28 23:20:34 +0000"
     },
@@ -2633,6 +2634,30 @@
   "bosses_of_mass_destruction:recipes/brimstone_nectar": {
     "criteria": {
       "has_netherite_scrap": "2025-06-29 00:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-29 01:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-29 01:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-29 01:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-29 01:41:53 +0000"
     },
     "done": true
   },
