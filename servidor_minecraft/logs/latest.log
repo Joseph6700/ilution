@@ -229,3 +229,14 @@
 [29Jun2025 02:08:36.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Take Aim]
 [29Jun2025 02:09:38.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Ice Bucket Challenge]
 [29Jun2025 02:11:23.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [The Imperial March]
+[29Jun2025 02:13:46.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Jun2025 02:14:08.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has reached the goal [Postmortal]
+[29Jun2025 02:14:18.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[29Jun2025 02:17:21.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Chest Slayer]
+[29Jun2025 02:17:21.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has completed the challenge [It Spreads]
+[29Jun2025 02:17:33.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Sneak 100]
+[29Jun2025 02:18:08.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has completed the challenge [Serious Dedication]
+[29Jun2025 02:18:32.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 5095.500000, 63.500000, 3100.500000]
+[29Jun2025 02:19:42.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[29Jun2025 02:19:52.739] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Radoica'/94131, l='ServerLevel[world]', x=428.56, y=79.94, z=729.88] died, message: 'Radoica was slain by inwxke'
+[29Jun2025 02:22:07.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
