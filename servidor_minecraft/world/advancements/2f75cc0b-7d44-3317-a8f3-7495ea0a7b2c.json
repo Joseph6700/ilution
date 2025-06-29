@@ -881,6 +881,7 @@
       "cooked_beef": "2025-06-28 22:51:42 +0000",
       "pumpkin_pie": "2025-06-29 02:37:02 +0000",
       "bread": "2025-06-28 23:15:54 +0000",
+      "golden_apple": "2025-06-29 03:38:56 +0000",
       "golden_carrot": "2025-06-29 03:10:56 +0000"
     },
     "done": false
@@ -3483,6 +3484,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-06-29 03:45:31 +0000",
       "minecraft:soul_sand_valley": "2025-06-29 03:33:23 +0000"
     },
     "done": false
@@ -3499,6 +3501,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-06-29 03:43:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-06-29 03:09:03 +0000"
@@ -3508,6 +3516,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_cut_red_sandstone": "2025-06-29 03:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-29 03:44:42 +0000"
     },
     "done": true
   },
@@ -3598,6 +3612,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-06-29 03:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-29 03:44:42 +0000"
     },
     "done": true
   },
