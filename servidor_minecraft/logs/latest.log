@@ -661,3 +661,58 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [29Jun2025 03:19:50.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to -714.500000, 76.500000, -813.500000]
 [29Jun2025 03:20:16.926] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/20429, l='ServerLevel[world]', x=5885.30, y=114.26, z=-1841.55] died: Undead Knight was slain by BruhYoichi
 [29Jun2025 03:20:24.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[29Jun2025 03:20:44.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5766ms or 115 ticks behind
+[29Jun2025 03:21:07.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[29Jun2025 03:21:22.667] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-748, y=-28, z=-343}
+[29Jun2025 03:21:22.667] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-750, y=-28, z=-343}
+[29Jun2025 03:21:22.667] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-752, y=-28, z=-343}
+[29Jun2025 03:21:25.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3121ms or 62 ticks behind
+[29Jun2025 03:21:43.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2823ms or 56 ticks behind
+[29Jun2025 03:22:01.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3234ms or 64 ticks behind
+[29Jun2025 03:22:21.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4353ms or 87 ticks behind
+[29Jun2025 03:22:40.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4502ms or 90 ticks behind
+[29Jun2025 03:22:59.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4401ms or 88 ticks behind
+[29Jun2025 03:23:18.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3750ms or 75 ticks behind
+[29Jun2025 03:23:36.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2981ms or 59 ticks behind
+[29Jun2025 03:23:48.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Minecraft Comes Alive]
+[29Jun2025 03:23:53.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
+[29Jun2025 03:24:16.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7960ms or 159 ticks behind
+[29Jun2025 03:24:37.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5871ms or 117 ticks behind
+[29Jun2025 03:24:40.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[29Jun2025 03:24:56.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
+[29Jun2025 03:25:03.109] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Salvatore}[style={}] has been infected
+[29Jun2025 03:25:24.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3054ms or 61 ticks behind
+[29Jun2025 03:25:44.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5062ms or 101 ticks behind
+[29Jun2025 03:26:03.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Sweet Dreams]
+[29Jun2025 03:26:04.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4893ms or 97 ticks behind
+[29Jun2025 03:26:16.812] [Worker-Main-1/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw minecraft:bottom found in start pool minecraft:village/savanna/town_centers
+[29Jun2025 03:26:24.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4778ms or 95 ticks behind
+[29Jun2025 03:26:34.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Masquerade]
+[29Jun2025 03:26:43.023] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blister2112[/127.208.215.251:36521] logged in with entity id 28106 at (1.699999988079071, 65.0, 10.085923108064284)
+[29Jun2025 03:26:43.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 joined the game
+[29Jun2025 03:26:43.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blister2112 lost connection: Disconnected
+[29Jun2025 03:26:43.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 left the game
+[29Jun2025 03:26:43.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4112ms or 82 ticks behind
+[29Jun2025 03:26:48.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blister2112[/127.208.215.251:44421] logged in with entity id 28237 at (1.699999988079071, 65.0, 10.085923108064284)
+[29Jun2025 03:26:48.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 joined the game
+[29Jun2025 03:26:57.256] [Server thread/INFO] [do_a_barrel_roll/]: Client of Blister2112 accepted server config.
+[29Jun2025 03:27:03.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4630ms or 92 ticks behind
+[29Jun2025 03:27:08.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> rbo
+[29Jun2025 03:27:11.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> justo me meto y llueve
+[29Jun2025 03:27:22.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4654ms or 93 ticks behind
+[29Jun2025 03:27:26.409] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=6559, y=-1, z=-2212}
+[29Jun2025 03:27:26.409] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=6556, y=6, z=-2211}
+[29Jun2025 03:27:34.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> 60 fps con demasiados tirones vro
+[29Jun2025 03:27:42.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4516ms or 90 ticks behind
+[29Jun2025 03:27:58.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> COÑO CARLITO LE QUITE TODO BRO QUE QUIERES QUE LE QUITE LOS COLORES TAMBIEN A ESTE PUTO JUEGO DE MIERDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[29Jun2025 03:28:01.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4350ms or 87 ticks behind
+[29Jun2025 03:29:47.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blister2112 lost connection: Disconnected
+[29Jun2025 03:29:47.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 left the game
+[29Jun2025 03:29:56.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blister2112[/127.208.215.251:60941] logged in with entity id 33188 at (19.436957625344085, 69.0, 12.498162170542617)
+[29Jun2025 03:29:56.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 joined the game
+[29Jun2025 03:30:00.684] [Server thread/INFO] [do_a_barrel_roll/]: Client of Blister2112 accepted server config.
+[29Jun2025 03:30:04.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ALTA CONFI BRO
+[29Jun2025 03:30:16.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to 493.500000, -52.500000, -169.500000]
+[29Jun2025 03:30:30.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> porq putas no se le puede meter opftifine
+[29Jun2025 03:30:38.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to -29.500000, 66.500000, -15.500000]
+[29Jun2025 03:30:49.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ELIMINA EL PUTO MOD DE PORNO Y PON PA Q PUEDA OPTIMIZAR ETA VAINA
