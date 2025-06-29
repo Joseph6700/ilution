@@ -1056,6 +1056,7 @@
       "rocky_shrubland": "2025-06-28 22:36:45 +0000",
       "scrubland": "2025-06-29 03:04:18 +0000",
       "erupting_inferno": "2025-06-29 03:32:10 +0000",
+      "highland": "2025-06-29 04:57:36 +0000",
       "jacaranda_glade": "2025-06-29 04:16:59 +0000",
       "old_growth_woodland": "2025-06-28 23:05:05 +0000",
       "maple_woods": "2025-06-28 23:45:07 +0000",
@@ -3949,6 +3950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-29 04:44:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-29 04:33:36 +0000"
@@ -3958,6 +3965,18 @@
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-06-29 04:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-29 04:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-29 04:44:04 +0000"
     },
     "done": true
   },
