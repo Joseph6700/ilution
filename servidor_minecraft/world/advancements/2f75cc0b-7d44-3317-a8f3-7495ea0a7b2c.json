@@ -85,6 +85,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-06-28 23:52:32 +0000",
       "minecraft:mushroom_fields": "2025-06-28 23:28:33 +0000",
       "minecraft:taiga": "2025-06-28 23:46:01 +0000",
       "minecraft:birch_forest": "2025-06-28 22:20:05 +0000",
@@ -95,6 +96,8 @@
       "minecraft:cold_ocean": "2025-06-28 23:37:21 +0000",
       "minecraft:lush_caves": "2025-06-28 23:07:24 +0000",
       "minecraft:deep_cold_ocean": "2025-06-28 23:33:48 +0000",
+      "minecraft:ocean": "2025-06-28 23:49:35 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-28 23:47:02 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-28 22:25:49 +0000",
       "minecraft:deep_dark": "2025-06-28 23:26:00 +0000",
       "minecraft:savanna": "2025-06-28 23:01:51 +0000"
@@ -1042,6 +1045,7 @@
       "lavender_field": "2025-06-28 22:50:48 +0000",
       "pumpkin_patch": "2025-06-28 23:44:28 +0000",
       "prairie": "2025-06-28 22:39:29 +0000",
+      "grassland": "2025-06-28 23:54:54 +0000",
       "glowing_grotto": "2025-06-28 23:26:59 +0000",
       "gravel_beach": "2025-06-28 23:44:03 +0000",
       "origin_valley": "2025-06-28 23:30:17 +0000",
@@ -2468,6 +2472,96 @@
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 23:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 23:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 23:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 23:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 23:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 23:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 23:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 23:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 23:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 23:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 23:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 23:46:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-28 23:54:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-06-28 23:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 23:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-28 23:46:20 +0000"
     },
     "done": true
   },
