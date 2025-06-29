@@ -830,6 +830,7 @@
       "minecraft:skeleton": "2025-06-28 22:24:37 +0000",
       "minecraft:ghast": "2025-06-29 03:33:46 +0000",
       "minecraft:hoglin": "2025-06-29 03:55:17 +0000",
+      "minecraft:vindicator": "2025-06-29 05:11:26 +0000",
       "minecraft:magma_cube": "2025-06-29 03:58:05 +0000",
       "minecraft:spider": "2025-06-28 22:30:25 +0000",
       "minecraft:piglin_brute": "2025-06-29 03:49:31 +0000",
@@ -1070,6 +1071,8 @@
       "wasteland": "2025-06-29 03:17:24 +0000",
       "redwood_forest": "2025-06-28 22:37:58 +0000",
       "wasteland_steppe": "2025-06-29 03:18:53 +0000",
+      "dune_beach": "2025-06-29 05:07:14 +0000",
+      "seasonal_forest": "2025-06-29 05:08:46 +0000",
       "volcano": "2025-06-28 23:06:48 +0000",
       "pasture": "2025-06-29 03:03:03 +0000",
       "volcanic_plains": "2025-06-28 23:05:45 +0000",
@@ -4037,6 +4040,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-06-29 04:33:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-06-29 05:04:43 +0000"
     },
     "done": true
   },
