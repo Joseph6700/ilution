@@ -73,3 +73,59 @@
 [29Jun2025 01:14:43.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: semviii[/127.239.46.137:41407] logged in with entity id 54289 at (359.3017628065361, -7.0, 130.6545631529674)
 [29Jun2025 01:14:43.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii joined the game
 [29Jun2025 01:14:52.187] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[29Jun2025 01:22:52.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Diamonds!]
+[29Jun2025 01:24:13.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Cherise the Nifty'/56595, l='ServerLevel[world]', x=352.17, y=-47.55, z=203.06] died: Cherise the Nifty was slain by semviii
+[29Jun2025 01:27:23.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Far From Perfect]
+[29Jun2025 01:31:19.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3772ms or 75 ticks behind
+[29Jun2025 01:34:52.649] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CarlitosBot1[/127.142.62.251:58177] logged in with entity id 60617 at (414.30000001192093, -18.0, 19.561492547424862)
+[29Jun2025 01:34:52.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 joined the game
+[29Jun2025 01:34:57.298] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[29Jun2025 01:34:58.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q pelean por un gol
+[29Jun2025 01:34:58.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxisccs[/127.224.138.117:59997] logged in with entity id 60842 at (4919.018646200084, 98.0, 2116.415431672245)
+[29Jun2025 01:34:59.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs joined the game
+[29Jun2025 01:35:01.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q paso
+[29Jun2025 01:35:11.549] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[29Jun2025 01:35:31.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 lost connection: Disconnected
+[29Jun2025 01:35:31.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 left the game
+[29Jun2025 01:35:36.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CarlitosBot1[/127.142.62.251:34681] logged in with entity id 61252 at (406.67568350532497, -18.0, 53.51310182380383)
+[29Jun2025 01:35:36.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 joined the game
+[29Jun2025 01:35:38.405] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[29Jun2025 01:35:46.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> maxi donde estas
+[29Jun2025 01:35:50.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> voy para una estructura
+[29Jun2025 01:35:53.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> por ahi
+[29Jun2025 01:35:53.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> de estas de tumbas
+[29Jun2025 01:35:55.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> vaya
+[29Jun2025 01:36:12.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[29Jun2025 01:36:29.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[29Jun2025 01:36:47.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3527ms or 70 ticks behind
+[29Jun2025 01:36:55.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Ancient Civilization]
+[29Jun2025 01:37:06.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4180ms or 83 ticks behind
+[29Jun2025 01:37:22.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Iron, but dark]
+[29Jun2025 01:37:24.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2822ms or 56 ticks behind
+[29Jun2025 01:37:42.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2872ms or 57 ticks behind
+[29Jun2025 01:37:45.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs was doomed to fall
+[29Jun2025 01:37:46.915] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[29Jun2025 01:37:49.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 4938.500000, 94.500000, 2084.500000]
+[29Jun2025 01:38:12.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[29Jun2025 01:38:30.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[29Jun2025 01:38:49.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4181ms or 83 ticks behind
+[29Jun2025 01:39:05.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Ol' Betsy]
+[29Jun2025 01:39:05.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Take Aim]
+[29Jun2025 01:39:08.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3735ms or 74 ticks behind
+[29Jun2025 01:39:26.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3321ms or 66 ticks behind
+[29Jun2025 01:39:44.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3029ms or 60 ticks behind
+[29Jun2025 01:40:02.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3256ms or 65 ticks behind
+[29Jun2025 01:40:20.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2753ms or 55 ticks behind
+[29Jun2025 01:40:38.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Jun2025 01:40:52.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 982.500000, 83.500000, 296.500000]
+[29Jun2025 01:40:55.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Source of Evil]
+[29Jun2025 01:41:10.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[29Jun2025 01:41:19.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ami si
+[29Jun2025 01:41:29.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Jun2025 01:41:47.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3771ms or 75 ticks behind
+[29Jun2025 01:41:59.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:34491] logged in with entity id 66296 at (5872.639177905913, 40.0, -1359.9519750398208)
+[29Jun2025 01:41:59.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
+[29Jun2025 01:42:00.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Cover Me with Diamonds]
+[29Jun2025 01:42:03.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Who turned the lights off?]
+[29Jun2025 01:42:04.212] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[29Jun2025 01:42:08.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5413ms or 108 ticks behind
