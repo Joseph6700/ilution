@@ -929,6 +929,7 @@
       "minecraft:spider": "2025-06-28 22:49:15 +0000",
       "minecraft:creeper": "2025-06-29 03:07:59 +0000",
       "minecraft:phantom": "2025-06-29 03:05:41 +0000",
+      "minecraft:witch": "2025-06-29 03:49:48 +0000",
       "minecraft:cave_spider": "2025-06-29 00:44:45 +0000",
       "minecraft:stray": "2025-06-29 00:51:34 +0000",
       "minecraft:zombie": "2025-06-28 22:48:27 +0000"
@@ -2987,6 +2988,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-06-29 03:50:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-06-29 03:45:36 +0000"
@@ -3086,6 +3093,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-29 03:35:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-06-29 03:53:30 +0000"
     },
     "done": true
   },

@@ -826,7 +826,9 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-28 22:24:37 +0000",
       "minecraft:ghast": "2025-06-29 03:33:46 +0000",
+      "minecraft:hoglin": "2025-06-29 03:55:17 +0000",
       "minecraft:spider": "2025-06-28 22:30:25 +0000",
+      "minecraft:piglin_brute": "2025-06-29 03:49:31 +0000",
       "minecraft:phantom": "2025-06-29 01:46:27 +0000",
       "minecraft:wither_skeleton": "2025-06-29 01:46:43 +0000",
       "minecraft:husk": "2025-06-28 22:51:26 +0000",
@@ -1072,6 +1074,7 @@
       "glowing_grotto": "2025-06-28 23:26:59 +0000",
       "gravel_beach": "2025-06-28 23:44:03 +0000",
       "origin_valley": "2025-06-28 23:30:17 +0000",
+      "undergrowth": "2025-06-29 03:50:00 +0000",
       "rainforest": "2025-06-28 22:59:31 +0000"
     },
     "done": false
@@ -3470,9 +3473,27 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/orange_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-06-29 03:08:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
     },
     "done": true
   },
@@ -3482,8 +3503,15 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/pink_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-06-29 03:55:52 +0000",
       "minecraft:nether_wastes": "2025-06-29 03:45:31 +0000",
       "minecraft:soul_sand_valley": "2025-06-29 03:33:23 +0000"
     },
@@ -3507,15 +3535,33 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/gray_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-06-29 03:09:03 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-06-29 03:50:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_cut_red_sandstone": "2025-06-29 03:02:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/rescue_mission": {
+    "criteria": {
+      "requirement": "2025-06-29 03:53:26 +0000"
     },
     "done": true
   },
@@ -3531,6 +3577,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-06-29 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
     "criteria": {
       "has_cut_red_sandstone": "2025-06-29 03:02:43 +0000"
@@ -3542,6 +3612,36 @@
       "requirement": "2025-06-29 03:08:32 +0000"
     },
     "done": true
+  },
+  "mca:recipes/decorations/white_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-29 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-06-29 03:53:05 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
     "criteria": {
@@ -3561,6 +3661,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-06-29 03:55:01 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-06-29 03:32:09 +0000"
@@ -3573,15 +3685,81 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/green_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-06-29 03:07:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-06-29 03:34:58 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-06-29 03:53:37 +0000"
     },
     "done": true
   },
@@ -3603,6 +3781,12 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-06-29 03:54:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-29 03:32:09 +0000"
@@ -3615,15 +3799,39 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-06-29 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-06-29 03:44:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-06-29 03:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-06-29 03:33:46 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-06-29 03:49:33 +0000"
     },
     "done": true
   },
