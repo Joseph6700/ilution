@@ -240,3 +240,14 @@
 [29Jun2025 02:19:42.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
 [29Jun2025 02:19:52.739] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Radoica'/94131, l='ServerLevel[world]', x=428.56, y=79.94, z=729.88] died, message: 'Radoica was slain by inwxke'
 [29Jun2025 02:22:07.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[29Jun2025 02:25:16.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ratko'/94356, l='ServerLevel[world]', x=470.29, y=83.00, z=720.42] died, message: 'Ratko was slain by inwxke'
+[29Jun2025 02:26:37.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 929.500000, 169.500000, 3011.500000]
+[29Jun2025 02:26:46.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[29Jun2025 02:27:38.354] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/112457, l='ServerLevel[world]', x=840.32, y=181.00, z=2917.45] died: Honeyed Archer was frozen to death
+[29Jun2025 02:28:21.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke has completed the challenge [Hunted]
+[29Jun2025 02:30:00.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/112267, l='ServerLevel[world]', x=926.70, y=169.00, z=2982.42] died: Undead Knight was scorched to death
+[29Jun2025 02:30:00.929] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Života'/94357, l='ServerLevel[world]', x=506.28, y=81.00, z=746.79] died, message: 'Života was blown up by Skeleton Creeper'
+[29Jun2025 02:31:23.577] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/114922, l='ServerLevel[world]', x=568.58, y=74.49, z=820.43] died: Honeyed Archer suffocated in a wall
+[29Jun2025 02:33:16.400] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:43975] logged in with entity id 117445 at (5864.426100843205, 31.0, -1370.7527890151007)
+[29Jun2025 02:33:16.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
+[29Jun2025 02:33:32.162] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.

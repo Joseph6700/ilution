@@ -944,7 +944,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-29 02:28:54 +0000",
       "minecraft:skeleton": "2025-06-28 23:05:31 +0000",
+      "minecraft:vindicator": "2025-06-29 02:28:50 +0000",
       "minecraft:spider": "2025-06-28 23:05:25 +0000",
       "minecraft:creeper": "2025-06-28 23:24:22 +0000",
       "minecraft:slime": "2025-06-29 00:02:07 +0000",
@@ -1978,6 +1980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-29 02:25:52 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/crypt": {
     "criteria": {
       "crypt": "2025-06-28 23:57:57 +0000"
@@ -2047,6 +2055,12 @@
   "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2025-06-29 00:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-06-29 02:25:38 +0000"
     },
     "done": true
   },
@@ -2230,6 +2244,12 @@
     },
     "done": true
   },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-06-29 02:28:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-06-29 00:59:51 +0000"
@@ -2392,6 +2412,12 @@
   "securitycraft:recipes/decorations/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-06-29 00:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-29 02:25:38 +0000"
     },
     "done": true
   },
