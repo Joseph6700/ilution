@@ -586,3 +586,78 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [29Jun2025 03:09:05.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2392ms or 47 ticks behind
 [29Jun2025 03:09:35.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [29Jun2025 03:09:53.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Jun2025 03:10:13.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4943ms or 98 ticks behind
+[29Jun2025 03:10:34.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5455ms or 109 ticks behind
+[29Jun2025 03:11:00.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[29Jun2025 03:11:16.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Mine? Mine? Mine?]
+[29Jun2025 03:11:19.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[29Jun2025 03:11:38.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Jun2025 03:11:56.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2925ms or 58 ticks behind
+[29Jun2025 03:12:16.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4425ms or 88 ticks behind
+[29Jun2025 03:12:26.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 10.21056171087912,0.0,-0.8157795127026475
+[29Jun2025 03:12:26.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 10.608294326583746,0.0,-0.8464813297111959
+[29Jun2025 03:12:26.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 11.00613695327047,0.0,-0.8771664476071237
+[29Jun2025 03:12:26.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 11.404078884136652,0.0,-0.9078327122917926
+[29Jun2025 03:12:26.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 11.802110188762526,0.0,-0.9384820090867834
+[29Jun2025 03:12:26.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 12.200221929769214,0.0,-0.9691160347815639
+[29Jun2025 03:12:26.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 12.59840606351736,0.0,-0.9997363164864055
+[29Jun2025 03:12:26.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 12.99665535073018,0.0,-1.0303442286005975
+[29Jun2025 03:12:26.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 13.39496327606048,0.0,-1.060941008083546
+[29Jun2025 03:12:26.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 13.793323975694875,0.0,-1.0915277681986026
+[29Jun2025 03:12:26.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 14.191732172202137,0.0,-1.122105510882875
+[29Jun2025 03:12:26.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 14.590183115892614,0.0,-1.1526751378794415
+[29Jun2025 03:12:26.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 14.98867253204844,0.0,-1.183237460757482
+[29Jun2025 03:12:26.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 15.387196573421534,0.0,-1.2137932099290083
+[29Jun2025 03:12:26.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 15.785751777489168,0.0,-1.24434304276474
+[29Jun2025 03:12:26.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 16.184335027981433,0.0,-1.2748875508984838
+[29Jun2025 03:12:26.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 16.582943520254958,0.0,-1.305427266800507
+[29Jun2025 03:12:26.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 16.981574730130887,0.0,-1.3359626696940268
+[29Jun2025 03:12:26.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 10.3582607348917,0.0,-0.7950751834982839
+[29Jun2025 03:12:26.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 10.757017191794148,0.0,-0.8255868078492767
+[29Jun2025 03:12:26.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 11.15578156983338,0.0,-0.856096928347597
+[29Jun2025 03:12:26.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 11.55455307689499,0.0,-0.8866056953786483
+[29Jun2025 03:12:26.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 11.953331000076105,0.0,-0.9171132442891121
+[29Jun2025 03:12:26.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 12.3521146977655,0.0,-0.9476196968910244
+[29Jun2025 03:12:26.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 12.75090359251135,0.0,-0.9781251628153314
+[29Jun2025 03:12:37.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6429ms or 128 ticks behind
+[29Jun2025 03:12:54.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 10.058898779956507,0.0,2.229351058188513
+[29Jun2025 03:12:54.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 10.454389226037165,0.0,2.2820353747272293
+[29Jun2025 03:12:54.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 10.850112799462295,0.0,2.3336161235963573
+[29Jun2025 03:12:54.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 11.24604857912891,0.0,2.384180776199628
+[29Jun2025 03:12:54.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 11.642177724867906,0.0,2.4338080558670754
+[29Jun2025 03:12:54.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 12.03848287074652,0.0,2.4825726264280092
+[29Jun2025 03:12:54.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 12.43494837997423,0.0,2.530541684396212
+[29Jun2025 03:12:54.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 12.83155978083414,0.0,2.5777795213293757
+[29Jun2025 03:12:54.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 13.228304041330375,0.0,2.6243439982310974
+[29Jun2025 03:12:54.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BruhYoichi) moved too quickly! 13.625169425217791,0.0,2.6702871900033642
+[29Jun2025 03:12:55.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3214ms or 64 ticks behind
+[29Jun2025 03:13:13.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[29Jun2025 03:13:14.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[29Jun2025 03:13:15.581] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[29Jun2025 03:13:18.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6170.500000, 91.500000, -2196.500000]
+[29Jun2025 03:13:22.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[29Jun2025 03:13:23.731] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[29Jun2025 03:13:26.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6171.500000, 89.500000, -2195.500000]
+[29Jun2025 03:13:29.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has completed the challenge [Praise the Sun]
+[29Jun2025 03:14:05.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[29Jun2025 03:14:23.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3731ms or 74 ticks behind
+[29Jun2025 03:14:42.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3466ms or 69 ticks behind
+[29Jun2025 03:15:00.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3351ms or 67 ticks behind
+[29Jun2025 03:15:19.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3602ms or 72 ticks behind
+[29Jun2025 03:15:42.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8295ms or 165 ticks behind
+[29Jun2025 03:16:04.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7513ms or 150 ticks behind
+[29Jun2025 03:16:25.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5570ms or 111 ticks behind
+[29Jun2025 03:16:47.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6662ms or 133 ticks behind
+[29Jun2025 03:17:08.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5876ms or 117 ticks behind
+[29Jun2025 03:17:29.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6550ms or 131 ticks behind
+[29Jun2025 03:17:49.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4789ms or 95 ticks behind
+[29Jun2025 03:18:08.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4162ms or 83 ticks behind
+[29Jun2025 03:18:27.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3629ms or 72 ticks behind
+[29Jun2025 03:18:45.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3149ms or 62 ticks behind
+[29Jun2025 03:19:03.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3819ms or 76 ticks behind
+[29Jun2025 03:19:26.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to -1431.500000, 83.500000, -1980.500000]
+[29Jun2025 03:19:27.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8601ms or 172 ticks behind
+[29Jun2025 03:19:44.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[29Jun2025 03:19:50.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to -714.500000, 76.500000, -813.500000]
+[29Jun2025 03:20:16.926] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/20429, l='ServerLevel[world]', x=5885.30, y=114.26, z=-1841.55] died: Undead Knight was slain by BruhYoichi
+[29Jun2025 03:20:24.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind

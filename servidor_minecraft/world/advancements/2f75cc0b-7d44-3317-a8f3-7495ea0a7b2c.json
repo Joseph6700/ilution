@@ -832,7 +832,8 @@
       "minecraft:enderman": "2025-06-28 23:12:42 +0000",
       "minecraft:silverfish": "2025-06-29 01:59:26 +0000",
       "minecraft:stray": "2025-06-29 02:00:21 +0000",
-      "minecraft:zombie": "2025-06-28 22:29:20 +0000"
+      "minecraft:zombie": "2025-06-28 22:29:20 +0000",
+      "minecraft:drowned": "2025-06-29 03:16:12 +0000"
     },
     "done": false
   },
@@ -877,7 +878,8 @@
       "cooked_porkchop": "2025-06-28 22:27:00 +0000",
       "cooked_beef": "2025-06-28 22:51:42 +0000",
       "pumpkin_pie": "2025-06-29 02:37:02 +0000",
-      "bread": "2025-06-28 23:15:54 +0000"
+      "bread": "2025-06-28 23:15:54 +0000",
+      "golden_carrot": "2025-06-29 03:10:56 +0000"
     },
     "done": false
   },
@@ -1051,7 +1053,9 @@
       "mediterranean_forest": "2025-06-28 23:02:45 +0000",
       "coniferous_forest": "2025-06-29 01:51:51 +0000",
       "spider_nest": "2025-06-28 22:38:09 +0000",
+      "wasteland": "2025-06-29 03:17:24 +0000",
       "redwood_forest": "2025-06-28 22:37:58 +0000",
+      "wasteland_steppe": "2025-06-29 03:18:53 +0000",
       "volcano": "2025-06-28 23:06:48 +0000",
       "pasture": "2025-06-29 03:03:03 +0000",
       "volcanic_plains": "2025-06-28 23:05:45 +0000",
@@ -3461,6 +3465,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-29 03:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-29 03:09:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_cut_red_sandstone": "2025-06-29 03:02:43 +0000"
@@ -3473,15 +3489,45 @@
     },
     "done": true
   },
+  "simplyswords:slumbering_lichblade": {
+    "criteria": {
+      "requirement": "2025-06-29 03:08:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
     "criteria": {
       "has_cut_red_sandstone": "2025-06-29 03:02:43 +0000"
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-06-29 03:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-06-29 03:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-29 03:07:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_cut_red_sandstone": "2025-06-29 03:02:43 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-06-29 03:13:45 +0000"
     },
     "done": true
   },
