@@ -251,3 +251,28 @@
 [29Jun2025 02:33:16.400] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:43975] logged in with entity id 117445 at (5864.426100843205, 31.0, -1370.7527890151007)
 [29Jun2025 02:33:16.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
 [29Jun2025 02:33:32.162] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[29Jun2025 02:36:28.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=879, y=178, z=2956} BlockPos{x=877, y=177, z=2954}
+[29Jun2025 02:37:05.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[29Jun2025 02:37:43.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=879, y=177, z=2937} BlockPos{x=879, y=177, z=2938}
+[29Jun2025 02:39:31.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[29Jun2025 02:41:11.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [The Secrets of Enchanting]
+[29Jun2025 02:41:19.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to -751.500000, -1855.500000, 790.500000]
+[29Jun2025 02:41:22.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: inwxke was kicked for floating too long!
+[29Jun2025 02:41:22.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: inwxke lost connection: Flying is not enabled on this server
+[29Jun2025 02:41:22.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke left the game
+[29Jun2025 02:41:28.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Captured!]
+[29Jun2025 02:41:49.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=873, y=178, z=2926} BlockPos{x=872, y=178, z=2927}
+[29Jun2025 02:41:49.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=873, y=178, z=2926} BlockPos{x=872, y=178, z=2927}
+[29Jun2025 02:42:03.733] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@10919d6b[id=<null>,name=inwxke,properties={},legacy=false] (/127.149.221.102:60295) lost connection: Disconnected
+[29Jun2025 02:42:16.681] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b84f80c[id=<null>,name=inwxke,properties={},legacy=false] (/127.149.221.102:41419) lost connection: Disconnected
+[29Jun2025 02:43:04.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=880, y=178, z=2961} BlockPos{x=878, y=176, z=2960}
+[29Jun2025 02:43:40.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Local Librarian]
+[29Jun2025 02:43:46.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: inwxke[/127.149.221.102:58085] logged in with entity id 126612 at (-751.9091343146466, -1972.7658441964657, 791.7263075329854)
+[29Jun2025 02:43:46.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke joined the game
+[29Jun2025 02:43:47.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke fell out of the world
+[29Jun2025 02:43:53.752] [Server thread/INFO] [do_a_barrel_roll/]: Client of inwxke accepted server config.
+[29Jun2025 02:43:53.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[29Jun2025 02:44:05.659] [Server thread/INFO] [do_a_barrel_roll/]: Client of inwxke accepted server config.
+[29Jun2025 02:44:11.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [inwxke: Teleported inwxke to -751.500000, -1984.500000, 791.500000]
+[29Jun2025 02:44:13.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inwxke fell out of the world
+[29Jun2025 02:44:19.567] [Server thread/INFO] [do_a_barrel_roll/]: Client of inwxke accepted server config.
