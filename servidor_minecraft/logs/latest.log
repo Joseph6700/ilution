@@ -158,3 +158,32 @@
 [30Jun2025 00:30:33.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
 [30Jun2025 00:32:00.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 8.500000, 70.500000, -7.500000]
 [30Jun2025 00:32:17.952] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[30Jun2025 00:32:52.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[30Jun2025 00:33:11.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3948ms or 78 ticks behind
+[30Jun2025 00:33:35.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[30Jun2025 00:33:43.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Panez the Boring'/88475, l='ServerLevel[world]', x=-34.35, y=69.00, z=29.35] died: Panez the Boring was slain by Zombified Piglin
+[30Jun2025 00:33:57.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30Jun2025 00:33:57.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to -4.500000, 90.500000, 1.500000]
+[30Jun2025 00:34:04.138] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[30Jun2025 00:34:10.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 887.500000, 177.500000, 2943.500000]
+[30Jun2025 00:35:20.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 2.500000, 67.500000, 3.500000]
+[30Jun2025 00:35:27.323] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[30Jun2025 00:35:35.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 825.500000, 59.500000, -434.500000]
+[30Jun2025 00:36:27.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Into Fire]
+[30Jun2025 00:36:38.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/90220, l='ServerLevel[world]', x=796.35, y=53.00, z=-383.14] died: Withering Archer was killed by Maxisccs using magic
+[30Jun2025 00:39:13.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6868.500000, 100.500000, -2549.500000]
+[30Jun2025 00:39:14.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to -4.500000, 90.500000, 1.500000]
+[30Jun2025 00:39:20.586] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[30Jun2025 00:39:28.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 887.500000, 177.500000, 2943.500000]
+[30Jun2025 00:40:03.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[30Jun2025 00:40:14.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6689.500000, 63.500000, -2531.500000]
+[30Jun2025 00:40:23.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 887.500000, 177.500000, 2943.500000]
+[30Jun2025 00:41:28.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii lost connection: Timed out
+[30Jun2025 00:41:28.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii left the game
+[30Jun2025 00:42:22.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Local Brewery]
+[30Jun2025 00:42:37.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: semviii[/127.239.46.137:44969] logged in with entity id 93697 at (6701.072625464661, 63.0, -2535.036069176857)
+[30Jun2025 00:42:37.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii joined the game
+[30Jun2025 00:42:47.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 2.500000, 67.500000, 3.500000]
+[30Jun2025 00:42:56.277] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[30Jun2025 00:42:58.985] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[30Jun2025 00:43:09.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 795.500000, 53.500000, -442.500000]
