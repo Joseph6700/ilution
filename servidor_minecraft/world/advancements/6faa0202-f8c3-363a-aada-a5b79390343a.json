@@ -90,6 +90,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-06-29 01:56:44 +0000",
+      "minecraft:eroded_badlands": "2025-06-30 17:51:29 +0000",
       "minecraft:sunflower_plains": "2025-06-28 23:44:39 +0000",
       "minecraft:birch_forest": "2025-06-28 21:06:39 +0000",
       "minecraft:beach": "2025-06-29 03:09:10 +0000",
@@ -5368,6 +5369,12 @@
   "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-30 17:36:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-06-30 17:51:29 +0000"
     },
     "done": true
   },

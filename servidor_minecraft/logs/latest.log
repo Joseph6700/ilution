@@ -570,3 +570,39 @@ java.lang.IndexOutOfBoundsException: Index -6 out of bounds for length 13
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [30Jun2025 17:29:20.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Creative Mode]
+[30Jun2025 17:50:56.545] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_arise:bandit_towers took 4567 ms
+[30Jun2025 17:50:56.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4554ms or 91 ticks behind
+[30Jun2025 17:51:23.610] [Worker-Main-46/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw minecraft:bottom found in start pool minecraft:village/savanna/town_centers
+[30Jun2025 17:51:29.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 7712.500000, 132.000000, -2863.500000]
+[30Jun2025 17:51:29.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16193ms or 323 ticks behind
+[30Jun2025 17:51:29.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 0.0,-10.80652611000896,0.0
+[30Jun2025 17:51:29.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [What Happens in Las Vegas...]
+[30Jun2025 17:53:44.882] [Worker-Main-46/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=7674, y=11, z=-3121}
+[30Jun2025 17:53:44.883] [Worker-Main-46/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=7674, y=11, z=-3125}
+[30Jun2025 17:53:44.883] [Worker-Main-46/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=7678, y=12, z=-3125}
+[30Jun2025 17:54:36.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 17:55:30.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 7757.500000, 11.500000, -2853.500000]
+[30Jun2025 17:55:51.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 17:56:00.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 7757.500000, 11.500000, -2853.500000]
+[30Jun2025 17:56:41.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 17:57:19.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 7722.500000, 2.500000, -2838.500000]
+[30Jun2025 17:57:32.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 17:59:11.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 7722.500000, 2.500000, -2838.500000]
+[30Jun2025 17:59:17.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 17:59:32.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 7722.500000, 2.500000, -2838.500000]
+[30Jun2025 17:59:49.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 18:00:00.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 7722.500000, 2.500000, -2838.500000]
+[30Jun2025 18:00:10.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 18:00:22.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 7722.500000, 2.500000, -2838.500000]
+[30Jun2025 18:00:42.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 18:01:18.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 7722.500000, 2.500000, -2838.500000]
+[30Jun2025 18:02:33.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 18:12:06.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Survival Mode]
+[30Jun2025 18:14:00.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Creative Mode]
+[30Jun2025 18:14:07.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 7722.500000, 2.500000, -2838.500000]
+[30Jun2025 18:14:35.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 18:14:59.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 7722.500000, 2.500000, -2838.500000]
+[30Jun2025 18:15:50.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 18:16:01.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 7722.500000, 2.500000, -2838.500000]
+[30Jun2025 18:16:20.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 18:16:54.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Survival Mode]
