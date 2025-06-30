@@ -4779,6 +4779,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-06-30 03:17:56 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/upgrade_hellshelf": {
     "criteria": {
       "glowing": "2025-06-30 03:00:46 +0000"
@@ -4800,6 +4806,12 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-06-30 02:48:31 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-06-30 03:17:56 +0000"
     },
     "done": true
   },
@@ -4863,6 +4875,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-06-30 03:17:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2025-06-30 02:48:20 +0000"
@@ -4872,6 +4890,18 @@
   "minecraft:recipes/decorations/prismarine_wall": {
     "criteria": {
       "has_prismarine": "2025-06-30 02:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-30 03:17:56 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-06-30 03:17:56 +0000"
     },
     "done": true
   },
@@ -4887,9 +4917,21 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-06-30 03:17:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-06-30 02:49:08 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-06-30 03:17:56 +0000"
     },
     "done": true
   },

@@ -1116,3 +1116,86 @@ java.lang.IndexOutOfBoundsException: Index -11 out of bounds for length 13
 [30Jun2025 03:20:14.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [30Jun2025 03:20:16.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7010, y=107, z=-1841} BlockPos{x=7010, y=105, z=-1843}
 [30Jun2025 03:20:35.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[30Jun2025 03:20:54.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4502ms or 90 ticks behind
+[30Jun2025 03:21:13.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3820ms or 76 ticks behind
+[30Jun2025 03:21:24.383] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[30Jun2025 03:21:34.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Survival Mode]
+[30Jun2025 03:21:37.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8315ms or 166 ticks behind
+[30Jun2025 03:21:40.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1841.500000, 64.500000, -670.500000]
+[30Jun2025 03:21:43.637] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[30Jun2025 03:21:43.637] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[30Jun2025 03:21:55.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2505.500000]
+[30Jun2025 03:21:58.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6166ms or 123 ticks behind
+[30Jun2025 03:22:04.916] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[30Jun2025 03:22:04.916] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[30Jun2025 03:22:21.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8697ms or 173 ticks behind
+[30Jun2025 03:22:25.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[30Jun2025 03:22:32.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 1088.500000, 145.500000, 3575.500000]
+[30Jun2025 03:22:46.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9422ms or 188 ticks behind
+[30Jun2025 03:23:01.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs lost connection: Disconnected
+[30Jun2025 03:23:01.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs left the game
+[30Jun2025 03:23:08.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6934ms or 138 ticks behind
+[30Jun2025 03:23:24.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[30Jun2025 03:23:25.391] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxisccs[/127.224.138.117:35967] logged in with entity id 89897 at (1863.264495573414, 61.0, -672.5861830484107)
+[30Jun2025 03:23:25.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs joined the game
+[30Jun2025 03:23:25.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
+[30Jun2025 03:23:32.861] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[30Jun2025 03:23:49.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8651ms or 173 ticks behind
+[30Jun2025 03:23:52.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
+[30Jun2025 03:24:09.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5716ms or 114 ticks behind
+[30Jun2025 03:24:29.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4721ms or 94 ticks behind
+[30Jun2025 03:24:49.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4556ms or 91 ticks behind
+[30Jun2025 03:24:57.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
+[30Jun2025 03:25:18.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> saco los de la mama
+[30Jun2025 03:25:34.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2505.500000]
+[30Jun2025 03:25:38.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> uuhh ahora si ta fina
+[30Jun2025 03:25:50.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
+[30Jun2025 03:25:52.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30Jun2025 03:25:56.685] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Oliver}[style={}] has been infected
+[30Jun2025 03:26:02.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> no me puedo equipar la mochila con el chaleco de armadura??
+[30Jun2025 03:26:10.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2735ms or 54 ticks behind
+[30Jun2025 03:26:13.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Amateur Archaeologist]
+[30Jun2025 03:26:29.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4677ms or 93 ticks behind
+[30Jun2025 03:26:31.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> estaba viendo el crafteo
+[30Jun2025 03:26:39.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> si
+[30Jun2025 03:26:49.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4567ms or 91 ticks behind
+[30Jun2025 03:26:52.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> pero tu no pierdes el tiempo carlitos
+[30Jun2025 03:27:07.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[30Jun2025 03:27:10.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5595ms or 111 ticks behind
+[30Jun2025 03:27:20.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6689.500000, 63.500000, -2531.500000]
+[30Jun2025 03:27:30.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5449ms or 108 ticks behind
+[30Jun2025 03:27:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 115.500000, 59.500000, 357.500000]
+[30Jun2025 03:27:49.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4180ms or 83 ticks behind
+[30Jun2025 03:27:53.324] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[30Jun2025 03:28:09.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2505.500000]
+[30Jun2025 03:28:27.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/92743, l='ServerLevel[world]', x=974.41, y=216.25, z=2980.65] died: Honeyed Archer suffocated in a wall
+[30Jun2025 03:28:31.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [I Found It Underground]
+[30Jun2025 03:28:31.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has reached the goal [Worthy Equipment]
+[30Jun2025 03:28:31.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Apothic Affixes]
+[30Jun2025 03:28:40.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2571ms or 51 ticks behind
+[30Jun2025 03:28:53.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[30Jun2025 03:28:55.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to semviii]
+[30Jun2025 03:29:13.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/89971, l='ServerLevel[world]', x=867.77, y=184.19, z=2927.48] died: Honeyed Archer was slain by CarlitosBot1
+[30Jun2025 03:29:26.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to SnVzk1]
+[30Jun2025 03:29:50.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> no me asustes asi mierdalitos
+[30Jun2025 03:29:53.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> q
+[30Jun2025 03:29:55.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> q tiras
+[30Jun2025 03:29:55.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [The Basics]
+[30Jun2025 03:29:55.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Arcane Power]
+[30Jun2025 03:29:55.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Rolling the Dice]
+[30Jun2025 03:29:55.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Magical Energy]
+[30Jun2025 03:29:55.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Introduction to Chaos]
+[30Jun2025 03:29:55.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Enchanter]
+[30Jun2025 03:29:55.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Eterna, Quanta, Arcana]
+[30Jun2025 03:30:05.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no hace mucho dice
+[30Jun2025 03:30:05.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> deja minar
+[30Jun2025 03:30:16.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Sweet Dreams]
+[30Jun2025 03:30:45.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> gracias
+[30Jun2025 03:30:46.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Cover Me with Diamonds]
+[30Jun2025 03:30:48.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> bro
+[30Jun2025 03:30:53.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> no quiero tu creativo
+[30Jun2025 03:31:00.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> no ya lo tenia
+[30Jun2025 03:31:03.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> ve que taba rota
+[30Jun2025 03:31:06.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> animal
+[30Jun2025 03:31:07.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> ok
+[30Jun2025 03:31:10.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> gracias ps

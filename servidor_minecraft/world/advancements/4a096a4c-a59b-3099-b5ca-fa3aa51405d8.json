@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "morebows:recipes/iron_bow": {
+    "criteria": {
+      "has_bow": "2025-06-30 03:20:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-06-30 02:58:24 +0000"
@@ -68,6 +74,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-06-30 02:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-30 03:26:35 +0000"
     },
     "done": true
   },
@@ -98,6 +110,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-06-30 02:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-06-30 03:18:14 +0000"
     },
     "done": true
   },
@@ -146,6 +164,12 @@
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-30 02:58:24 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/stone_bow": {
+    "criteria": {
+      "has_bow": "2025-06-30 03:20:36 +0000"
     },
     "done": true
   },
@@ -206,6 +230,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-30 03:14:15 +0000",
+      "minecraft:spider": "2025-06-30 03:19:47 +0000",
+      "minecraft:cave_spider": "2025-06-30 03:27:07 +0000",
       "minecraft:zombie": "2025-06-30 03:03:03 +0000"
     },
     "done": false
@@ -231,6 +257,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-06-30 02:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-30 03:19:48 +0000"
     },
     "done": true
   },
@@ -261,6 +293,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-06-30 02:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-30 03:19:48 +0000"
     },
     "done": true
   },
@@ -438,6 +476,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-06-30 03:28:31 +0000"
+    },
+    "done": true
+  },
   "weaponmaster:parts/root": {
     "criteria": {
       "crafting_table": "2025-06-30 02:51:33 +0000"
@@ -465,6 +509,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-06-30 02:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-30 03:18:14 +0000"
     },
     "done": true
   },
@@ -513,6 +563,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-06-30 02:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-30 03:20:36 +0000"
     },
     "done": true
   },
@@ -615,6 +671,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-30 02:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-30 03:18:14 +0000"
     },
     "done": true
   },
@@ -774,6 +836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-30 03:26:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-06-30 03:08:46 +0000"
@@ -852,6 +920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-30 03:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-06-30 03:08:46 +0000"
@@ -870,6 +944,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-30 03:25:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-06-30 03:08:46 +0000"
@@ -882,9 +962,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-30 03:18:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-06-30 03:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-30 03:19:48 +0000"
     },
     "done": true
   },
@@ -911,6 +1003,18 @@
       "lavender_field": "2025-06-30 03:01:59 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-30 03:18:14 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/gold_bow": {
+    "criteria": {
+      "has_bow": "2025-06-30 03:20:36 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
@@ -972,6 +1076,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-06-30 03:28:31 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-30 02:58:12 +0000"
@@ -984,6 +1094,12 @@
     },
     "done": true
   },
+  "morebows:recipes/diamond_bow": {
+    "criteria": {
+      "has_bow": "2025-06-30 03:20:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-30 02:57:35 +0000"
@@ -993,6 +1109,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-06-30 02:59:19 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-06-30 03:28:31 +0000"
     },
     "done": true
   },
@@ -1011,6 +1133,12 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-06-30 02:59:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-30 03:18:14 +0000"
     },
     "done": true
   },
@@ -1035,6 +1163,12 @@
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-06-30 03:08:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-30 03:20:36 +0000"
     },
     "done": true
   },
@@ -1074,6 +1208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-30 03:18:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-06-30 03:08:46 +0000"
@@ -1103,6 +1243,12 @@
       "log_spam_fixer": "2025-06-30 02:51:34 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-30 03:27:09 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
@@ -1176,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-06-30 03:18:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-30 02:58:24 +0000"
@@ -1206,6 +1358,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-30 03:19:48 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/green_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-30 02:58:12 +0000"
@@ -1221,6 +1379,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-06-30 03:08:46 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-30 03:26:13 +0000"
     },
     "done": true
   },
@@ -1246,6 +1410,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-06-30 03:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-06-30 03:18:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-30 02:59:29 +0000"
@@ -1264,6 +1440,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-06-30 03:26:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-06-30 02:59:29 +0000"
@@ -1273,6 +1455,12 @@
   "mca:recipes/decorations/cyan_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-30 02:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-30 03:19:48 +0000"
     },
     "done": true
   },
