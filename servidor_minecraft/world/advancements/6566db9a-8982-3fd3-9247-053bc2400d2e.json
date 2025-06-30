@@ -4992,6 +4992,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-30 21:55:09 +0000"
+    },
+    "done": true
+  },
   "simplyswords:sunfire": {
     "criteria": {
       "requirement": "2025-06-30 21:42:19 +0000"
