@@ -993,3 +993,14 @@ java.lang.IndexOutOfBoundsException: Index -12 out of bounds for length 13
 [30Jun2025 20:06:02.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SnVzk1 lost connection: Disconnected
 [30Jun2025 20:06:02.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 left the game
 [30Jun2025 20:17:16.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[30Jun2025 20:33:06.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:36029] logged in with entity id 82714 at (1521.699999988079, 33.0, -1074.4476804715425)
+[30Jun2025 20:33:06.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
+[30Jun2025 20:33:17.714] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[30Jun2025 20:33:31.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: The difficulty has been set to Hard]
+[30Jun2025 20:34:45.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 144.500000, 37.500000, -37.500000]
+[30Jun2025 20:34:57.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
+[30Jun2025 20:34:58.191] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[30Jun2025 20:35:17.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 1142.500000, 4.500000, 3537.500000]
+[30Jun2025 20:39:44.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 3718.500000, -39.500000, 2335.500000]
+[30Jun2025 20:40:29.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[30Jun2025 20:46:48.152] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/86610, l='ServerLevel[world]', x=1166.58, y=82.85, z=3297.55] died: Honeyed Archer burned to death
