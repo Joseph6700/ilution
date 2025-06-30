@@ -4483,6 +4483,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-30 01:14:41 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/hellshelf": {
+    "criteria": {
+      "hellshelf": "2025-06-30 01:15:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-06-30 01:01:57 +0000"
@@ -4494,6 +4506,12 @@
       "has_nether_wart": "2025-06-30 01:01:57 +0000"
     },
     "done": true
+  },
+  "the_bumblezone:music_discs/obtain_all_music_discs": {
+    "criteria": {
+      "obtain_music_disc_beenna_box": "2025-06-30 01:14:41 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
