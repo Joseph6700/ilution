@@ -3211,6 +3211,13 @@
     },
     "done": true
   },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_pollinated_stream": "2025-06-30 00:11:25 +0000",
+      "in_gazebuzz_cluster": "2025-06-30 00:16:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2025-06-29 23:48:51 +0000"
@@ -3426,6 +3433,12 @@
       "pollen_puff_pollinate_bee": "2025-06-30 00:07:55 +0000"
     },
     "done": true
+  },
+  "the_bumblezone:music_discs/obtain_all_music_discs": {
+    "criteria": {
+      "obtain_music_disc_flight_of_the_bumblebee_rimsky_korsakov": "2025-06-30 00:16:32 +0000"
+    },
+    "done": false
   },
   "artifacts:amateur_archaeologist": {
     "criteria": {
