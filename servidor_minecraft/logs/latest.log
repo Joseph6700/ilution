@@ -762,3 +762,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [30Jun2025 22:39:06.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 left the game
 [30Jun2025 22:41:07.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 1009.500000, 80.500000, 284.500000]
 [30Jun2025 22:41:36.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 834.500000, 182.500000, 2957.500000]
+[30Jun2025 22:44:34.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Gamerule randomTickSpeed is now set to: 100]
+[30Jun2025 22:45:45.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Set own game mode to Creative Mode]
+[30Jun2025 22:47:38.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Set own game mode to Survival Mode]
+[30Jun2025 22:47:39.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hodlysw lost connection: Disconnected
+[30Jun2025 22:47:39.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw left the game
