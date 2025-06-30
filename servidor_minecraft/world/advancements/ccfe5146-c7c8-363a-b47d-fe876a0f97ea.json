@@ -87,6 +87,7 @@
     "criteria": {
       "minecraft:eroded_badlands": "2025-06-30 18:52:34 +0000",
       "minecraft:birch_forest": "2025-06-30 01:26:03 +0000",
+      "minecraft:dark_forest": "2025-06-30 21:15:35 +0000",
       "minecraft:lukewarm_ocean": "2025-06-30 18:45:09 +0000"
     },
     "done": false
@@ -3121,6 +3122,12 @@
   "cataclysm:kill_revenant": {
     "criteria": {
       "endergolem": "2025-06-30 21:08:12 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-06-30 21:16:03 +0000"
     },
     "done": true
   },
