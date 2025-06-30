@@ -646,3 +646,73 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [30Jun2025 22:00:57.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 883.500000, 132.500000, 2967.500000]
 [30Jun2025 22:01:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [A Seedy Place]
 [30Jun2025 22:01:54.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to Hodlysw]
+[30Jun2025 22:02:52.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Epic!]
+[30Jun2025 22:04:31.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[30Jun2025 22:04:40.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
+[30Jun2025 22:06:27.168] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:pillager_outpost took 243 ms
+[30Jun2025 22:06:39.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 16.500000, 182.000000, 2752.500000]
+[30Jun2025 22:06:39.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10036ms or 200 ticks behind
+[30Jun2025 22:06:40.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 0.0,-11.14161161612887,0.0
+[30Jun2025 22:08:02.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 878.500000, 176.500000, 2975.500000]
+[30Jun2025 22:08:40.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 22:08:53.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Voluntary Exile]
+[30Jun2025 22:09:01.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Lillian the Errant'/23321, l='ServerLevel[world]', x=29.49, y=65.00, z=2778.77] died: Lillian the Errant was frozen to death
+[30Jun2025 22:09:16.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 982.500000, 83.500000, 296.500000]
+[30Jun2025 22:09:18.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 22:10:03.026] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[30Jun2025 22:10:10.538] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[30Jun2025 22:11:00.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 22:11:21.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 914.500000, 86.500000, 344.500000]
+[30Jun2025 22:11:38.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Voluntary Exile]
+[30Jun2025 22:11:45.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 1004.500000, 79.500000, 214.500000]
+[30Jun2025 22:11:49.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 924.500000, 82.500000, 169.500000]
+[30Jun2025 22:11:55.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 921.500000, 81.500000, 140.500000]
+[30Jun2025 22:12:02.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 883.500000, 82.500000, 98.500000]
+[30Jun2025 22:12:10.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 1142.500000, 4.500000, 3537.500000]
+[30Jun2025 22:12:12.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 881.500000, 82.500000, 209.500000]
+[30Jun2025 22:12:16.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 931.500000, 82.500000, 292.500000]
+[30Jun2025 22:12:17.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 818.500000, -0.500000, 3453.500000]
+[30Jun2025 22:12:20.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 892.500000, 83.500000, 335.500000]
+[30Jun2025 22:12:25.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 869.500000, 82.500000, 171.500000]
+[30Jun2025 22:12:59.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/24540, l='ServerLevel[world]', x=998.71, y=82.53, z=243.30] died: Honeyed Archer was killed by CarlitosBot1 using magic
+[30Jun2025 22:13:00.091] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Símon'/23695, l='ServerLevel[world]', x=964.53, y=82.19, z=239.70] died, message: 'Símon was sniped by Archer'
+[30Jun2025 22:13:00.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Símon'/23695, l='ServerLevel[world]', x=964.53, y=82.19, z=239.70] died: Símon was sniped by Archer
+[30Jun2025 22:13:40.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 920.500000, 80.500000, 157.500000]
+[30Jun2025 22:13:46.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 1020.500000, 85.500000, 229.500000]
+[30Jun2025 22:13:51.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 903.500000, 85.500000, 344.500000]
+[30Jun2025 22:13:58.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 860.500000, 82.500000, 314.500000]
+[30Jun2025 22:14:16.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Friendship Found]
+[30Jun2025 22:14:17.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hólmsteinn'/23899, l='ServerLevel[world]', x=913.18, y=85.00, z=361.83] died, message: 'Hólmsteinn was sniped by Archer'
+[30Jun2025 22:14:17.080] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hólmsteinn'/23899, l='ServerLevel[world]', x=913.18, y=85.00, z=361.83] died: Hólmsteinn was sniped by Archer
+[30Jun2025 22:14:54.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Flosi'/23828, l='ServerLevel[world]', x=920.29, y=82.00, z=257.64] died, message: 'Flosi was sniped by Archer'
+[30Jun2025 22:14:54.950] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Flosi'/23828, l='ServerLevel[world]', x=920.29, y=82.00, z=257.64] died: Flosi was sniped by Archer
+[30Jun2025 22:15:11.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 was slain by Ravager
+[30Jun2025 22:15:13.145] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 22:15:18.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 970.500000, 82.500000, 270.500000]
+[30Jun2025 22:15:19.051] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kristófer'/23889, l='ServerLevel[world]', x=950.51, y=82.00, z=263.36] died, message: 'Kristófer was sniped by Archer'
+[30Jun2025 22:15:19.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kristófer'/23889, l='ServerLevel[world]', x=950.51, y=82.00, z=263.36] died: Kristófer was sniped by Archer
+[30Jun2025 22:15:34.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Steinn'/23758, l='ServerLevel[world]', x=967.17, y=87.00, z=320.73] died, message: 'Steinn was struck down by Legioner'
+[30Jun2025 22:15:34.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Steinn'/23758, l='ServerLevel[world]', x=967.17, y=87.00, z=320.73] died: Steinn was struck down by Legioner
+[30Jun2025 22:15:38.148] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=511, y=-43, z=3636}
+[30Jun2025 22:15:53.432] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lind'/23852, l='ServerLevel[world]', x=912.71, y=82.00, z=235.50] died, message: 'Lind was sniped by Archer'
+[30Jun2025 22:15:53.433] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lind'/23852, l='ServerLevel[world]', x=912.71, y=82.00, z=235.50] died: Lind was sniped by Archer
+[30Jun2025 22:16:56.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has completed the challenge [Hero of the Village]
+[30Jun2025 22:16:56.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has completed the challenge [Hero of the Village]
+[30Jun2025 22:17:07.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 878.500000, 176.500000, 2975.500000]
+[30Jun2025 22:17:08.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 883.500000, 132.500000, 2967.500000]
+[30Jun2025 22:17:35.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[30Jun2025 22:17:58.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 923.500000, 87.500000, 3029.500000]
+[30Jun2025 22:18:19.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Set own game mode to Creative Mode]
+[30Jun2025 22:18:22.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Set own game mode to Survival Mode]
+[30Jun2025 22:19:02.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 22:19:19.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 982.500000, 83.500000, 296.500000]
+[30Jun2025 22:19:24.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 5101.500000, 63.500000, 3109.500000]
+[30Jun2025 22:19:31.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 982.500000, 83.500000, 296.500000]
+[30Jun2025 22:19:32.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 22:19:40.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 854.500000, 82.500000, 302.500000]
+[30Jun2025 22:19:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[30Jun2025 22:20:28.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement ['Til Death Do Us Part]
+[30Jun2025 22:21:00.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 22:21:26.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 1142.500000, 4.500000, 3537.500000]
+[30Jun2025 22:22:27.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Set own game mode to Creative Mode]
+[30Jun2025 22:22:27.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Set own game mode to Survival Mode]
