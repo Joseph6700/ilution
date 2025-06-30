@@ -726,6 +726,7 @@
       "cooked_porkchop": "2025-06-29 02:14:42 +0000",
       "cooked_mutton": "2025-06-28 21:40:15 +0000",
       "cooked_beef": "2025-06-28 22:51:13 +0000",
+      "baked_potato": "2025-06-30 20:56:55 +0000",
       "porkchop": "2025-06-28 21:35:32 +0000",
       "bread": "2025-06-29 00:04:36 +0000",
       "golden_apple": "2025-06-29 03:38:36 +0000"
@@ -5228,6 +5229,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-06-30 20:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-30 19:33:46 +0000"
@@ -5276,9 +5283,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-30 20:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-30 19:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-30 20:54:35 +0000"
     },
     "done": true
   },
@@ -5306,9 +5325,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-30 20:54:35 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
     "criteria": {
       "has_advanced_pump_upgrade": "2025-06-30 17:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-30 20:54:35 +0000"
     },
     "done": true
   },
@@ -5426,6 +5457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_the_recipe": "2025-06-30 20:52:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-30 17:36:27 +0000"
@@ -5453,6 +5490,12 @@
   "biomesoplenty:recipes/redstone/redwood_button": {
     "criteria": {
       "has_planks": "2025-06-30 19:28:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-06-30 20:54:35 +0000"
     },
     "done": true
   },
@@ -5510,9 +5553,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-30 20:54:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_door": {
     "criteria": {
       "has_planks": "2025-06-30 19:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-30 20:54:35 +0000"
     },
     "done": true
   },

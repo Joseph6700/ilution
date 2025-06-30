@@ -1004,3 +1004,22 @@ java.lang.IndexOutOfBoundsException: Index -12 out of bounds for length 13
 [30Jun2025 20:39:44.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 3718.500000, -39.500000, 2335.500000]
 [30Jun2025 20:40:29.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
 [30Jun2025 20:46:48.152] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/86610, l='ServerLevel[world]', x=1166.58, y=82.85, z=3297.55] died: Honeyed Archer burned to death
+[30Jun2025 20:50:33.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 1142.500000, 4.500000, 3537.500000]
+[30Jun2025 20:50:34.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 20:51:05.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[30Jun2025 20:51:17.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set 140 experience levels on CarlitosBot1]
+[30Jun2025 20:51:39.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set 143 experience levels on CarlitosBot1]
+[30Jun2025 20:52:07.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set 268 experience levels on CarlitosBot1]
+[30Jun2025 20:54:27.783] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 20:57:39.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has reached the goal [You Need a Mint]
+[30Jun2025 20:57:45.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hodlysw[/127.61.105.62:50165] logged in with entity id 93953 at (359.0808093415989, 64.0, -927.501342655737)
+[30Jun2025 20:57:45.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw joined the game
+[30Jun2025 20:57:51.377] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 20:58:29.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 116.500000, 59.500000, 358.500000]
+[30Jun2025 20:58:56.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Those Were the Days]
+[30Jun2025 20:59:42.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [War Pigs]
+[30Jun2025 21:00:02.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 400.500000, 54.500000, -916.500000]
+[30Jun2025 21:00:04.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 116.500000, 59.500000, 358.500000]
+[30Jun2025 21:00:11.481] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 21:00:15.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 570.500000, 40.500000, -931.500000]
+[30Jun2025 21:00:25.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2505.500000]
