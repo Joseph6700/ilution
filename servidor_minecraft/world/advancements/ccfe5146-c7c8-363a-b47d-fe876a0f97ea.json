@@ -3005,45 +3005,9 @@
     },
     "done": true
   },
-  "morebows:recipes/iron_bow": {
-    "criteria": {
-      "has_bow": "2025-06-30 21:01:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-06-30 21:01:49 +0000"
-    },
-    "done": true
-  },
-  "morebows:recipes/stone_bow": {
-    "criteria": {
-      "has_bow": "2025-06-30 21:01:44 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-30 20:58:01 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_burning_arena": {
-    "criteria": {
-      "arena": "2025-06-30 21:07:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-06-30 21:01:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-06-30 21:00:21 +0000"
     },
     "done": true
   },
@@ -3059,27 +3023,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-06-30 21:00:21 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed": "2025-06-30 21:04:28 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/brimstone_fumarole": {
     "criteria": {
       "has_brimstone": "2025-06-30 20:58:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-06-30 21:01:23 +0000"
     },
     "done": true
   },
@@ -3095,6 +3041,66 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/brimstone_bud": {
+    "criteria": {
+      "has_brimstone": "2025-06-30 20:58:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-30 20:58:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-06-30 20:58:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-06-30 20:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-30 21:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-30 21:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-30 21:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-30 21:01:23 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/iron_bow": {
+    "criteria": {
+      "has_bow": "2025-06-30 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/stone_bow": {
+    "criteria": {
+      "has_bow": "2025-06-30 21:01:44 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/gold_bow": {
     "criteria": {
       "has_bow": "2025-06-30 21:01:44 +0000"
@@ -3107,15 +3113,27 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/brimstone_bud": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_brimstone": "2025-06-30 20:58:01 +0000"
+      "shot_arrow": "2025-06-30 21:01:49 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
+  "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "has_brimstone": "2025-06-30 20:58:01 +0000"
+      "shot_crossbow": "2025-06-30 21:01:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-06-30 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-06-30 21:07:13 +0000"
     },
     "done": true
   },
@@ -3131,23 +3149,78 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_brimstone": "2025-06-30 20:58:01 +0000"
+      "log_spam_fixer": "2025-06-30 21:39:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-06-30 21:39:58 +0000",
+      "log_spam_fixer": "2025-06-30 21:39:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "incendium:technical/on_kill": {
     "criteria": {
-      "has_basalt": "2025-06-30 21:00:21 +0000"
+      "log_spam_fixer": "2025-06-30 21:39:48 +0000"
     },
-    "done": true
+    "done": false
   },
-  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+  "incendium:technical/on_inventory_change": {
     "criteria": {
-      "has_brimstone": "2025-06-30 20:58:01 +0000"
+      "log_spam_fixer": "2025-06-30 21:39:48 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 21:39:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 21:39:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 21:39:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 21:39:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 21:39:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 21:39:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 21:39:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 21:39:48 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -549,3 +549,49 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [30Jun2025 21:29:32.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: The difficulty has been set to Hard]
 [30Jun2025 21:31:22.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 116.500000, 59.500000, 358.500000]
 [30Jun2025 21:31:28.376] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 21:31:57.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to BruhYoichi]
+[30Jun2025 21:32:13.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Creative Mode]
+[30Jun2025 21:32:42.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Survival Mode]
+[30Jun2025 21:34:42.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi moved too quickly! 6.707877846255315,7.412340739214862,-2.4180409141627024
+[30Jun2025 21:35:10.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[30Jun2025 21:35:14.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
+[30Jun2025 21:35:56.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2505.500000]
+[30Jun2025 21:35:56.785] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CDataParameter
+[30Jun2025 21:35:56.785] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Jun2025 21:35:56.786] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Jun2025 21:36:40.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to BruhYoichi]
+[30Jun2025 21:37:57.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Creative Mode]
+[30Jun2025 21:39:13.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Set own game mode to Creative Mode]
+[30Jun2025 21:39:47.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hodlysw[/127.61.105.62:56779] logged in with entity id 8848 at (42.389079251412426, 75.0, -0.09594001848812139)
+[30Jun2025 21:39:47.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw joined the game
+[30Jun2025 21:39:48.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Set own game mode to Survival Mode]
+[30Jun2025 21:39:49.260] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 21:39:54.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Set own game mode to Creative Mode]
+[30Jun2025 21:39:57.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Set own game mode to Survival Mode]
+[30Jun2025 21:39:58.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Survival Mode]
+[30Jun2025 21:39:58.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi moved too quickly! 13.934622023885368,0.0,-19.372541259734135
+[30Jun2025 21:39:59.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Hodlysw> p c
+[30Jun2025 21:40:05.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 21:40:06.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hodlysw moved too quickly! -2.3582371377754043,0.5625,-15.184905785616593
+[30Jun2025 21:40:16.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hodlysw moved too quickly! 4.362373449898996,35.10482729478275,-12.048854523533919
+[30Jun2025 21:40:18.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw was doomed to fall by CarlitosBot1
+[30Jun2025 21:40:20.482] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 21:40:23.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 21:40:32.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw was slain by BruhYoichi
+[30Jun2025 21:40:34.211] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 21:40:36.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 21:40:39.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hodlysw moved too quickly! -0.5312139668460532,20.064702891079946,-4.714278079890846
+[30Jun2025 21:40:42.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hodlysw was kicked for floating too long!
+[30Jun2025 21:40:42.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hodlysw lost connection: Disconnected
+[30Jun2025 21:40:42.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw left the game
+[30Jun2025 21:40:42.958] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jun2025 21:40:49.167] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hodlysw[/127.61.105.62:55285] logged in with entity id 9480 at (883.4758963319842, 247.5022269838202, 2896.5255189697878)
+[30Jun2025 21:40:49.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw joined the game
+[30Jun2025 21:40:51.177] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 21:40:53.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw fell from a high place
+[30Jun2025 21:40:53.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi moved too quickly! -0.7993396307060721,0.0,-20.82854467188554
+[30Jun2025 21:40:54.691] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 21:40:56.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 21:41:04.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> restore inwxke 83a0045a-77f8-481f-a20b-ea641b803082 add
+[30Jun2025 21:41:09.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> restore inwxke 83a0045a-77f8-481f-a20b-ea641b803082 add
+[30Jun2025 21:41:24.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Successfully restored Hodlysw's items]
