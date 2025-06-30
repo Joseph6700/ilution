@@ -7043,3 +7043,7 @@ java.lang.IndexOutOfBoundsException: Index -6 out of bounds for length 13
 [30Jun2025 18:23:17.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jun2025 18:24:15.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Creative Mode]
 [30Jun2025 18:27:24.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Survival Mode]
+[30Jun2025 18:28:17.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 18:28:17.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 18:33:17.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 18:33:17.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
