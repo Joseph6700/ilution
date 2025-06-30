@@ -583,3 +583,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [30Jun2025 01:05:11.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii joined the game
 [30Jun2025 01:05:21.831] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
 [30Jun2025 01:05:28.496] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/8339, l='ServerLevel[world]', x=6752.68, y=82.91, z=-2582.13] died: Undead Knight was slain by Gvozden
+[30Jun2025 01:05:44.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[30Jun2025 01:06:07.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7502ms or 150 ticks behind
+[30Jun2025 01:06:30.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7993ms or 159 ticks behind
+[30Jun2025 01:06:41.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
+[30Jun2025 01:06:50.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to BruhYoichi]
+[30Jun2025 01:07:01.392] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[30Jun2025 01:07:04.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19541ms or 390 ticks behind
+[30Jun2025 01:09:09.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6713, y=60, z=-2534} BlockPos{x=6713, y=61, z=-2534}
+[30Jun2025 01:09:09.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6713, y=60, z=-2534} BlockPos{x=6713, y=61, z=-2534}
+[30Jun2025 01:09:11.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 8007.500000, 129.500000, 924.500000]
+[30Jun2025 01:11:48.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to BruhYoichi]
+[30Jun2025 01:12:08.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Local Brewery]
+[30Jun2025 01:12:09.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 887.500000, 177.500000, 2943.500000]
+[30Jun2025 01:13:41.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2505.500000]
+[30Jun2025 01:14:06.405] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5b8da484[id=<null>,name=Hodlysw,properties={},legacy=false] (/127.61.105.62:44531) lost connection: Disconnected
+[30Jun2025 01:14:44.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[30Jun2025 01:15:03.196] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2480099f[id=<null>,name=Hodlysw,properties={},legacy=false] (/127.61.105.62:39975) lost connection: Disconnected
+[30Jun2025 01:15:11.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [The Chaos of Hell]
