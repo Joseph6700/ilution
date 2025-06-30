@@ -55,10 +55,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-06-30 03:39:08 +0000",
       "log_spam_fixer": "2025-06-28 22:26:42 +0000"
     },
-    "done": true
+    "done": false
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
@@ -363,6 +362,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-28 23:02:59 +0000",
+      "cooked_mutton": "2025-06-30 03:48:49 +0000",
       "cooked_beef": "2025-06-28 22:47:34 +0000",
       "porkchop": "2025-06-28 23:21:19 +0000",
       "apple": "2025-06-28 22:31:29 +0000",
@@ -934,13 +934,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-29 04:05:43 +0000",
+      "minecraft:blaze": "2025-06-30 03:42:08 +0000",
       "minecraft:skeleton": "2025-06-28 22:55:01 +0000",
       "minecraft:ravager": "2025-06-29 23:46:01 +0000",
       "minecraft:vindicator": "2025-06-29 04:05:10 +0000",
       "minecraft:spider": "2025-06-28 22:49:15 +0000",
       "minecraft:creeper": "2025-06-29 03:07:59 +0000",
       "minecraft:phantom": "2025-06-29 03:05:41 +0000",
+      "minecraft:zombified_piglin": "2025-06-30 03:44:16 +0000",
       "minecraft:witch": "2025-06-29 03:49:48 +0000",
+      "minecraft:wither_skeleton": "2025-06-30 03:46:23 +0000",
       "minecraft:cave_spider": "2025-06-29 00:44:45 +0000",
       "minecraft:stray": "2025-06-29 00:51:34 +0000",
       "minecraft:enderman": "2025-06-30 01:50:15 +0000",
@@ -1874,6 +1877,7 @@
       "spider_nest": "2025-06-30 01:49:39 +0000",
       "dryland": "2025-06-29 03:30:34 +0000",
       "redwood_forest": "2025-06-30 01:16:37 +0000",
+      "visceral_heap": "2025-06-30 03:45:17 +0000",
       "dune_beach": "2025-06-29 03:10:43 +0000",
       "pasture": "2025-06-29 03:19:48 +0000",
       "lavender_field": "2025-06-28 23:03:19 +0000",
@@ -3030,7 +3034,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-06-29 03:36:01 +0000"
+      "minecraft:soul_sand_valley": "2025-06-29 03:36:01 +0000",
+      "minecraft:nether_wastes": "2025-06-30 03:41:11 +0000",
+      "minecraft:basalt_deltas": "2025-06-30 03:41:58 +0000"
     },
     "done": false
   },
@@ -3599,6 +3605,12 @@
     },
     "done": true
   },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-06-30 03:45:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-30 01:28:46 +0000"
@@ -3647,6 +3659,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-06-30 03:44:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-30 01:28:46 +0000"
@@ -3683,6 +3701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-30 03:44:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-30 01:28:46 +0000"
@@ -3692,6 +3716,12 @@
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-06-30 01:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-30 03:44:28 +0000"
     },
     "done": true
   },
@@ -3740,6 +3770,12 @@
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2025-06-30 01:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-30 03:44:28 +0000"
     },
     "done": true
   },
@@ -3803,6 +3839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-30 03:47:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-06-30 01:56:44 +0000"
@@ -3812,6 +3854,12 @@
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-30 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-30 03:44:28 +0000"
     },
     "done": true
   },
@@ -3875,6 +3923,12 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:withered_forest": "2025-06-30 03:45:49 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-30 01:45:14 +0000"
@@ -3896,6 +3950,12 @@
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-30 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-06-30 03:46:42 +0000"
     },
     "done": true
   },
@@ -4007,6 +4067,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:withered_forest": "2025-06-30 03:45:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-06-30 01:42:06 +0000"
@@ -4025,9 +4091,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-30 03:41:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-30 01:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-30 03:47:34 +0000"
     },
     "done": true
   },
@@ -4088,6 +4166,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-30 00:58:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-06-30 03:44:51 +0000"
     },
     "done": true
   },
@@ -4253,6 +4337,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-06-30 03:44:28 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/arcana100": {
     "criteria": {
       "enchanted_item": "2025-06-30 03:34:55 +0000"
@@ -4361,6 +4451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-30 03:44:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-06-30 01:45:14 +0000"
@@ -4394,6 +4490,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-06-30 00:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-30 03:44:28 +0000"
     },
     "done": true
   },
@@ -4556,6 +4658,12 @@
   "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-30 01:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-30 03:47:34 +0000"
     },
     "done": true
   },

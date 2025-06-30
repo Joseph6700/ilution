@@ -981,6 +981,7 @@
       "minecraft:spider": "2025-06-28 22:29:45 +0000",
       "minecraft:creeper": "2025-06-28 21:38:52 +0000",
       "minecraft:slime": "2025-06-29 02:18:29 +0000",
+      "minecraft:phantom": "2025-06-30 03:40:46 +0000",
       "minecraft:wither_skeleton": "2025-06-29 02:11:36 +0000",
       "minecraft:husk": "2025-06-30 01:28:26 +0000",
       "minecraft:cave_spider": "2025-06-28 23:08:07 +0000",
@@ -3513,7 +3514,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-06-29 03:38:24 +0000"
+      "minecraft:soul_sand_valley": "2025-06-29 03:38:24 +0000",
+      "minecraft:nether_wastes": "2025-06-30 03:41:07 +0000",
+      "minecraft:basalt_deltas": "2025-06-30 03:42:03 +0000"
     },
     "done": false
   },
@@ -4803,6 +4806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-06-30 03:44:35 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2025-06-30 03:17:56 +0000"
@@ -4857,6 +4866,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-06-30 03:44:35 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_heart_of_the_deep": "2025-06-30 02:41:59 +0000"
@@ -4896,6 +4911,12 @@
   "apotheosis:enchanting/deepshelf": {
     "criteria": {
       "deepshelf": "2025-06-30 03:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-30 03:44:35 +0000"
     },
     "done": true
   },
@@ -5084,6 +5105,12 @@
       "has_prismarine_crystals": "2025-06-30 02:55:03 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-30 03:40:46 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
