@@ -1078,6 +1078,7 @@
       "spider_nest": "2025-06-28 22:38:09 +0000",
       "wasteland": "2025-06-29 03:17:24 +0000",
       "redwood_forest": "2025-06-28 22:37:58 +0000",
+      "visceral_heap": "2025-06-30 00:53:31 +0000",
       "wasteland_steppe": "2025-06-29 03:18:53 +0000",
       "dune_beach": "2025-06-29 05:07:14 +0000",
       "seasonal_forest": "2025-06-29 05:08:46 +0000",
@@ -3597,7 +3598,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-06-29 03:55:52 +0000",
       "minecraft:nether_wastes": "2025-06-29 03:45:31 +0000",
-      "minecraft:soul_sand_valley": "2025-06-29 03:33:23 +0000"
+      "minecraft:soul_sand_valley": "2025-06-29 03:33:23 +0000",
+      "minecraft:basalt_deltas": "2025-06-30 01:00:17 +0000"
     },
     "done": false
   },
@@ -3670,7 +3672,8 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:infernal_dunes": "2025-06-30 00:46:57 +0000",
-      "incendium:quartz_flats": "2025-06-29 03:53:05 +0000"
+      "incendium:quartz_flats": "2025-06-29 03:53:05 +0000",
+      "incendium:withered_forest": "2025-06-30 00:54:34 +0000"
     },
     "done": false
   },
@@ -4346,21 +4349,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
-      "has_blaze_powder": "2025-06-30 00:40:43 +0000"
+      "is_near_beehive": "2025-06-30 00:02:14 +0000"
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
+  "minecraft:recipes/decorations/beehive": {
     "criteria": {
-      "potion": "2025-06-30 00:42:22 +0000"
+      "has_honeycomb": "2025-06-30 00:02:46 +0000"
     },
     "done": true
   },
-  "the_bumblezone:structures/enter_cell_maze": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "in_cell_maze": "2025-06-30 00:20:48 +0000"
+      "has_honeycomb": "2025-06-30 00:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-06-30 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-06-30 00:05:04 +0000"
     },
     "done": true
   },
@@ -4372,15 +4387,9 @@
     },
     "done": false
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "the_bumblezone:structures/enter_cell_maze": {
     "criteria": {
-      "blaze_rod": "2025-06-30 00:36:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-06-30 00:40:43 +0000"
+      "in_cell_maze": "2025-06-30 00:20:48 +0000"
     },
     "done": true
   },
@@ -4390,21 +4399,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/honey_bottle": {
+  "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
-      "has_honey_block": "2025-06-30 00:04:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-06-30 00:34:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-06-30 00:40:43 +0000"
+      "has_bookshelf": "2025-06-30 00:29:34 +0000"
     },
     "done": true
   },
@@ -4414,33 +4411,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/beehive": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "has_honeycomb": "2025-06-30 00:02:46 +0000"
+      "has_glowstone_dust": "2025-06-30 00:33:01 +0000"
     },
     "done": true
   },
-  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+  "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
-      "bee_hit_wrath_of_the_hive": "2025-06-30 00:05:04 +0000"
+      "has_glowstone": "2025-06-30 00:34:42 +0000"
     },
     "done": true
   },
-  "the_bumblezone:teleportation/is_near_beehive": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "is_near_beehive": "2025-06-30 00:02:14 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/root": {
-    "criteria": {
-      "incendium:infernal_dunes": "2025-06-30 00:46:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_lectern": {
-    "criteria": {
-      "has_bookshelf": "2025-06-30 00:29:34 +0000"
+      "blaze_rod": "2025-06-30 00:36:27 +0000"
     },
     "done": true
   },
@@ -4450,21 +4435,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-06-30 00:33:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-06-30 00:36:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_honeycomb": "2025-06-30 00:02:46 +0000"
+      "has_blaze_powder": "2025-06-30 00:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-30 00:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-30 00:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-30 00:42:22 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-06-30 00:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-06-30 00:51:49 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-06-30 00:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-30 01:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-30 01:01:57 +0000"
     },
     "done": true
   },

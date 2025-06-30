@@ -3988,31 +3988,17 @@
     },
     "done": true
   },
-  "the_bumblezone:tools/honey_compass_use": {
-    "criteria": {
-      "honey_compass": "2025-06-30 00:09:21 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2025-06-29 23:49:00 +0000"
     },
     "done": true
   },
-  "the_bumblezone:structures/enter_cell_maze": {
+  "takesapillage:pillager_camp": {
     "criteria": {
-      "in_cell_maze": "2025-06-30 00:19:01 +0000"
+      "in_pillager_camp": "2025-06-29 23:50:14 +0000"
     },
     "done": true
-  },
-  "the_bumblezone:structures/enter_all_structures": {
-    "criteria": {
-      "in_honey_cave_room": "2025-06-30 00:26:29 +0000",
-      "in_cell_maze": "2025-06-30 00:19:01 +0000",
-      "in_gazebuzz_cluster": "2025-06-30 00:17:05 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
@@ -4020,15 +4006,15 @@
     },
     "done": true
   },
-  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "obtain_stinger_spear": "2025-06-30 00:21:31 +0000"
+      "has_smithing_trim_template": "2025-06-29 23:50:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+  "dungeons_arise:find_abandoned_temple": {
     "criteria": {
-      "has_smooth_red_sandstone": "2025-06-30 00:50:40 +0000"
+      "location0": "2025-06-29 23:55:10 +0000"
     },
     "done": true
   },
@@ -4041,12 +4027,6 @@
   "mca:recipes/decorations/lime_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-29 23:57:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-06-30 00:50:31 +0000"
     },
     "done": true
   },
@@ -4065,24 +4045,6 @@
   "mca:recipes/decorations/orange_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-29 23:57:15 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
-    "criteria": {
-      "obtain_honey_crystal_shield": "2025-06-30 00:21:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/honey_bottle": {
-    "criteria": {
-      "has_honey_block": "2025-06-30 00:15:27 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-06-29 23:55:10 +0000"
     },
     "done": true
   },
@@ -4116,21 +4078,9 @@
     },
     "done": true
   },
-  "takesapillage:pillager_camp": {
-    "criteria": {
-      "in_pillager_camp": "2025-06-29 23:50:14 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/green_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-29 23:57:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-06-30 00:44:21 +0000"
     },
     "done": true
   },
@@ -4146,24 +4096,6 @@
     },
     "done": true
   },
-  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
-    "criteria": {
-      "teleport_to_bumblezone_pearl": "2025-06-30 00:02:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-06-30 00:50:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_red_sandstone": "2025-06-30 00:50:40 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/light_gray_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-29 23:57:15 +0000"
@@ -4176,33 +4108,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
-    "criteria": {
-      "has_smooth_red_sandstone": "2025-06-30 00:50:40 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/black_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-29 23:57:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-06-30 00:02:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_red_sandstone": "2025-06-30 00:50:40 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
-    "criteria": {
-      "bee_hit_wrath_of_the_hive": "2025-06-30 00:15:26 +0000"
     },
     "done": true
   },
@@ -4212,21 +4120,9 @@
     },
     "done": true
   },
-  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
-    "criteria": {
-      "carve_wax_5": "2025-06-30 00:20:54 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-29 23:57:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-06-30 00:50:31 +0000"
     },
     "done": true
   },
@@ -4254,12 +4150,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-29 23:50:41 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/brown_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-29 23:57:15 +0000"
@@ -4272,21 +4162,137 @@
     },
     "done": true
   },
-  "the_bumblezone:tools/craft_honey_compass": {
-    "criteria": {
-      "obtain_honey_compass": "2025-06-30 00:09:15 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/white_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-29 23:57:15 +0000"
     },
     "done": true
   },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-06-30 00:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-30 00:02:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2025-06-30 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2025-06-30 00:09:15 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/honey_compass_use": {
+    "criteria": {
+      "honey_compass": "2025-06-30 00:09:21 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-06-30 00:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-06-30 00:15:27 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_honey_cave_room": "2025-06-30 00:26:29 +0000",
+      "in_cell_maze": "2025-06-30 00:19:01 +0000",
+      "in_gazebuzz_cluster": "2025-06-30 00:17:05 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:structures/enter_cell_maze": {
+    "criteria": {
+      "in_cell_maze": "2025-06-30 00:19:01 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
+    "criteria": {
+      "carve_wax_5": "2025-06-30 00:20:54 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2025-06-30 00:21:31 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-06-30 00:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-30 00:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-30 00:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-30 00:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-30 00:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-30 00:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-30 00:53:39 +0000"
     },
     "done": true
   },
