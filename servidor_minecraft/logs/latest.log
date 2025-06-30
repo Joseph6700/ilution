@@ -612,3 +612,43 @@ java.lang.IndexOutOfBoundsException: Index -6 out of bounds for length 13
 [30Jun2025 18:19:48.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Survival Mode]
 [30Jun2025 18:24:15.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Creative Mode]
 [30Jun2025 18:27:24.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Survival Mode]
+[30Jun2025 18:37:59.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hodlysw[/127.61.105.62:53069] logged in with entity id 22623 at (877.3000000119209, 178.0, 2942.2278165977555)
+[30Jun2025 18:37:59.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw joined the game
+[30Jun2025 18:38:04.981] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 18:38:07.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Made Hodlysw a server operator]
+[30Jun2025 18:38:08.203] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 18:38:12.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Hodlysw> que
+[30Jun2025 18:38:14.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> s
+[30Jun2025 18:38:17.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Hodlysw> wtf
+[30Jun2025 18:38:21.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Hodlysw> ya teienen la mesa?
+[30Jun2025 18:38:24.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> s
+[30Jun2025 18:38:29.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Hodlysw> ven a vc
+[30Jun2025 18:38:42.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Set the weather to clear]
+[30Jun2025 18:39:17.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 18:39:37.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hodlysw lost connection: Disconnected
+[30Jun2025 18:39:37.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw left the game
+[30Jun2025 18:39:55.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hodlysw[/127.61.105.62:42585] logged in with entity id 22945 at (884.3162942585741, 132.0, 2969.392306060792)
+[30Jun2025 18:39:55.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw joined the game
+[30Jun2025 18:39:57.252] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 18:40:09.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Monster Hunter]
+[30Jun2025 18:40:37.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Stone Age]
+[30Jun2025 18:41:04.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Cover Me with Diamonds]
+[30Jun2025 18:41:08.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Suit Up]
+[30Jun2025 18:41:17.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Acquire Hardware]
+[30Jun2025 18:41:21.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Apothic Affixes]
+[30Jun2025 18:41:25.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Diamonds!]
+[30Jun2025 18:42:08.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Amateur Archaeologist]
+[30Jun2025 18:43:27.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[30Jun2025 18:43:39.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 878.500000, 176.500000, 2975.500000]
+[30Jun2025 18:44:25.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2505.500000]
+[30Jun2025 18:44:32.577] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[30Jun2025 18:44:32.578] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[30Jun2025 18:45:08.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 18:45:12.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Minecraft Comes Alive]
+[30Jun2025 18:45:20.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 878.500000, 176.500000, 2975.500000]
+[30Jun2025 18:45:50.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 18:46:01.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[30Jun2025 18:46:09.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 18:46:41.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 18:46:42.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 18:47:08.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
