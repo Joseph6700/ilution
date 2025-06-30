@@ -1506,3 +1506,12 @@ java.lang.IndexOutOfBoundsException: Index -11 out of bounds for length 13
 [30Jun2025 04:22:36.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [30Jun2025 04:23:22.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [30Jun2025 04:23:28.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[30Jun2025 04:23:55.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[30Jun2025 04:24:14.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4353ms or 87 ticks behind
+[30Jun2025 04:25:24.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[30Jun2025 04:25:47.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Withering Heights]
+[30Jun2025 04:26:19.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30Jun2025 04:27:05.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[30Jun2025 04:29:03.489] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Svetla'/136621, l='ServerLevel[world]', x=-716.43, y=77.22, z=-1808.72] died, message: 'Svetla tried to swim in lava'
+[30Jun2025 04:29:03.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Svetla'/136621, l='ServerLevel[world]', x=-716.43, y=77.22, z=-1808.72] died: Svetla tried to swim in lava
+[30Jun2025 04:31:18.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind

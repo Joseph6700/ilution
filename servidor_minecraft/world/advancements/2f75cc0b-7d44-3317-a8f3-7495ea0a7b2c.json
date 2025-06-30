@@ -842,6 +842,7 @@
       "minecraft:spider": "2025-06-28 22:30:25 +0000",
       "minecraft:piglin_brute": "2025-06-29 03:49:31 +0000",
       "minecraft:creeper": "2025-06-29 04:11:15 +0000",
+      "minecraft:wither": "2025-06-30 04:26:35 +0000",
       "minecraft:evoker": "2025-06-29 23:24:34 +0000",
       "minecraft:phantom": "2025-06-29 01:46:27 +0000",
       "minecraft:wither_skeleton": "2025-06-29 01:46:43 +0000",
@@ -5655,6 +5656,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-06-30 04:26:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-06-30 03:26:30 +0000"
@@ -5691,9 +5698,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-06-30 04:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-06-30 04:25:47 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/arcana50": {
     "criteria": {
       "enchanted_item": "2025-06-30 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-30 04:19:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-06-30 04:23:28 +0000"
     },
     "done": true
   },
@@ -5721,6 +5752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-06-30 04:26:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-06-30 03:26:30 +0000"
@@ -5736,6 +5773,12 @@
   "apotheosis:enchanting/enchanting_stats": {
     "criteria": {
       "enchanted_item": "2025-06-30 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-30 04:19:59 +0000"
     },
     "done": true
   },
