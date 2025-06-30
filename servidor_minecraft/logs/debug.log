@@ -9328,3 +9328,151 @@ java.lang.IndexOutOfBoundsException: Index -12 out of bounds for length 13
 [30Jun2025 19:38:19.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jun2025 19:38:38.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: The difficulty has been set to Hard]
 [30Jun2025 19:38:44.135] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Tyler the Knight'/50921, l='ServerLevel[world]', x=600.70, y=-1.00, z=3355.30] died: Tyler the Knight was slain by SnVzk1
+[30Jun2025 19:39:36.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> SnVzk1
+[30Jun2025 19:39:50.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Incendium]
+[30Jun2025 19:39:50.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [We Need to Go Deeper]
+[30Jun2025 19:39:50.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported SnVzk1 to CarlitosBot1]
+[30Jun2025 19:39:51.014] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
+[30Jun2025 19:39:51.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [The Soul Forge]
+[30Jun2025 19:39:59.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> carlito
+[30Jun2025 19:40:02.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 was slain by Netherite Monstrosity
+[30Jun2025 19:40:07.290] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
+[30Jun2025 19:40:11.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> PERO CARLITO
+[30Jun2025 19:40:18.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> tpeate
+[30Jun2025 19:40:21.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> como
+[30Jun2025 19:40:23.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> comando
+[30Jun2025 19:40:34.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> ./tp CarlitosBot1
+[30Jun2025 19:40:35.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw was slain by Netherite Monstrosity
+[30Jun2025 19:40:37.291] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 19:40:38.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SnVzk1: Teleported SnVzk1 to SnVzk1]
+[30Jun2025 19:40:40.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 19:40:40.360] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 19:40:46.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SnVzk1: Teleported SnVzk1 to CarlitosBot1]
+[30Jun2025 19:40:48.211] [Worker-Main-88/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[30Jun2025 19:40:48.211] [Worker-Main-88/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[30Jun2025 19:40:48.212] [Worker-Main-88/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[30Jun2025 19:40:48.834] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
+[30Jun2025 19:40:48.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[30Jun2025 19:40:52.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> tas loco
+[30Jun2025 19:41:12.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw was slain by Netherite Monstrosity
+[30Jun2025 19:41:13.861] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 19:41:14.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> y mis cosas
+[30Jun2025 19:41:17.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 19:41:17.235] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 19:41:40.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 was slain by Netherite Monstrosity
+[30Jun2025 19:41:42.893] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 19:41:45.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Hodlysw]
+[30Jun2025 19:41:45.626] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 19:42:00.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 was slain by Netherite Monstrosity
+[30Jun2025 19:42:01.968] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 19:42:08.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Hodlysw]
+[30Jun2025 19:42:09.068] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 19:42:13.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw was slain by Netherite Monstrosity
+[30Jun2025 19:42:13.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 was slain by Netherite Monstrosity
+[30Jun2025 19:42:14.868] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 19:42:15.488] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 19:42:15.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 19:42:18.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to SnVzk1]
+[30Jun2025 19:42:18.239] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 19:42:18.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to SnVzk1]
+[30Jun2025 19:42:19.021] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 19:42:21.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw was slain by Netherite Monstrosity
+[30Jun2025 19:42:21.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 was slain by Netherite Monstrosity
+[30Jun2025 19:42:22.318] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 19:42:23.815] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 19:42:24.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to SnVzk1]
+[30Jun2025 19:42:24.420] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 19:42:29.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to SnVzk1]
+[30Jun2025 19:42:29.687] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 19:42:33.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 136.500000, 37.500000, -31.500000]
+[30Jun2025 19:42:41.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 was slain by Netherite Monstrosity
+[30Jun2025 19:42:43.135] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 19:42:47.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Hodlysw]
+[30Jun2025 19:42:47.549] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 19:42:57.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 was slain by Netherite Monstrosity
+[30Jun2025 19:42:59.979] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
+[30Jun2025 19:43:03.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> oh shit
+[30Jun2025 19:43:08.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: The difficulty has been set to Easy]
+[30Jun2025 19:43:09.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SnVzk1: Teleported SnVzk1 to Hodlysw]
+[30Jun2025 19:43:09.888] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
+[30Jun2025 19:43:21.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 19:43:21.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 19:43:34.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Applied effect Strength to Hodlysw]
+[30Jun2025 19:43:36.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> mi pc
+[30Jun2025 19:43:55.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Fetch Me Their Souls!]
+[30Jun2025 19:44:06.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 was burnt to a crisp whilst fighting Netherite Monstrosity
+[30Jun2025 19:44:10.287] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
+[30Jun2025 19:44:19.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SnVzk1: Teleported SnVzk1 to CarlitosBot1]
+[30Jun2025 19:44:19.870] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
+[30Jun2025 19:44:33.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> ven
+[30Jun2025 19:44:35.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Epic!]
+[30Jun2025 19:44:39.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Epic!]
+[30Jun2025 19:44:45.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> pa mi o q
+[30Jun2025 19:44:46.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> AJSJAS
+[30Jun2025 19:44:48.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Hodlysw> pa ver
+[30Jun2025 19:44:48.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> s
+[30Jun2025 19:45:09.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> que
+[30Jun2025 19:45:11.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 was slain by Hodlysw
+[30Jun2025 19:45:13.914] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
+[30Jun2025 19:45:16.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> SnVzk1
+[30Jun2025 19:45:17.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SnVzk1: Teleported SnVzk1 to Hodlysw]
+[30Jun2025 19:45:17.448] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
+[30Jun2025 19:45:22.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> cuales artefactos tenias?
+[30Jun2025 19:45:33.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> gemas?
+[30Jun2025 19:45:47.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> vision nocturna
+[30Jun2025 19:46:15.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 136.500000, 35.500000, -237.500000]
+[30Jun2025 19:46:29.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 194.500000, 32.500000, -294.500000]
+[30Jun2025 19:46:34.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Ice Bucket Challenge]
+[30Jun2025 19:46:45.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 53.500000, 17.500000, -317.500000]
+[30Jun2025 19:46:50.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> es un pico y ataque
+[30Jun2025 19:47:02.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 73.500000, 19.500000, -331.500000]
+[30Jun2025 19:47:07.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 116.500000, 59.500000, 358.500000]
+[30Jun2025 19:47:17.858] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 19:47:25.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SnVzk1: Teleported SnVzk1 to Hodlysw]
+[30Jun2025 19:47:28.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hodlysw moved wrongly!
+[30Jun2025 19:47:40.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SnVzk1: Teleported SnVzk1 to CarlitosBot1]
+[30Jun2025 19:47:40.310] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
+[30Jun2025 19:48:03.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 64.500000, 35.500000, -228.500000]
+[30Jun2025 19:48:09.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 75.500000, 32.500000, -386.500000]
+[30Jun2025 19:48:14.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 123.500000, 34.500000, -438.500000]
+[30Jun2025 19:48:15.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> carlitos, no tienes las gafas de vision nocturna y el collar?
+[30Jun2025 19:48:21.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 19:48:21.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 19:48:26.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> lo tiene Hodlysw
+[30Jun2025 19:48:34.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Hodlysw> tpeate
+[30Jun2025 19:48:42.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> ahora me lo entregas
+[30Jun2025 19:48:48.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> o bueno no, quedate aca carlitos
+[30Jun2025 19:48:52.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SnVzk1: Teleported SnVzk1 to Hodlysw]
+[30Jun2025 19:48:52.352] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
+[30Jun2025 19:49:03.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> gracias
+[30Jun2025 19:49:05.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SnVzk1: Teleported SnVzk1 to CarlitosBot1]
+[30Jun2025 19:49:06.417] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
+[30Jun2025 19:49:07.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Hodlysw> tabien
+[30Jun2025 19:49:11.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [A Terrible Fortress]
+[30Jun2025 19:49:27.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 209.500000, 68.500000, -647.500000]
+[30Jun2025 19:49:34.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 297.500000, 50.500000, -632.500000]
+[30Jun2025 19:49:42.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Hot Stuff]
+[30Jun2025 19:50:50.137] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 19:51:01.013] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 19:51:58.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> que lag
+[30Jun2025 19:52:01.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> ..
+[30Jun2025 19:52:02.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> q
+[30Jun2025 19:52:09.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Hidden in the Depths]
+[30Jun2025 19:52:17.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SnVzk1 moved too quickly! -5.417031284378936,3.029331764305539,13.325492643400594
+[30Jun2025 19:52:26.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> voy re lag
+[30Jun2025 19:52:37.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> tienes 4 rayitas
+[30Jun2025 19:52:48.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> ah, son fps
+[30Jun2025 19:52:50.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> bruh
+[30Jun2025 19:53:21.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 19:53:21.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 19:54:02.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Who is Cutting Onions?]
+[30Jun2025 19:54:25.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 334.500000, 43.500000, -802.500000]
+[30Jun2025 19:54:59.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 374.500000, 43.500000, -918.500000]
+[30Jun2025 19:56:07.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Bernard the Sneaky'/70118, l='ServerLevel[world]', x=377.35, y=58.00, z=-904.17] died: Bernard the Sneaky was slain by Piglin Brute
+[30Jun2025 19:56:21.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 387.500000, 48.500000, -898.500000]
+[30Jun2025 19:56:57.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hodlysw lost connection: Disconnected
+[30Jun2025 19:56:57.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw left the game
+[30Jun2025 19:58:13.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has reached the goal [Flowers of the Savanna]
+[30Jun2025 19:58:21.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 19:58:21.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 19:58:59.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Pic-A-Nic Basket?]

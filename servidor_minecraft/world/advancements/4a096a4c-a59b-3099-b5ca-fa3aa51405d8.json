@@ -802,7 +802,8 @@
       "overgrown_greens": "2025-06-30 19:15:55 +0000",
       "spider_nest": "2025-06-30 19:18:15 +0000",
       "redwood_forest": "2025-06-30 19:16:11 +0000",
-      "lavender_field": "2025-06-30 03:01:59 +0000"
+      "lavender_field": "2025-06-30 03:01:59 +0000",
+      "ominous_woods": "2025-06-30 19:54:18 +0000"
     },
     "done": false
   },
@@ -1288,6 +1289,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-30 03:29:16 +0000",
       "cooked_beef": "2025-06-30 03:11:37 +0000",
+      "baked_potato": "2025-06-30 19:51:24 +0000",
       "pumpkin_pie": "2025-06-30 19:05:44 +0000",
       "bread": "2025-06-30 03:32:37 +0000"
     },
@@ -2223,15 +2225,40 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-30 19:45:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-06-30 19:04:18 +0000"
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-30 19:47:26 +0000",
+      "minecraft:soul_sand_valley": "2025-06-30 19:39:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-06-30 19:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-06-30 19:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-30 19:45:29 +0000"
     },
     "done": true
   },
@@ -2250,6 +2277,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-06-30 19:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-30 19:45:29 +0000"
     },
     "done": true
   },
@@ -2283,6 +2316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-30 19:45:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-06-30 19:23:18 +0000"
@@ -2295,6 +2334,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-30 19:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-06-30 19:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-30 19:45:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-06-30 19:58:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-06-30 18:56:39 +0000"
@@ -2304,6 +2367,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-06-30 19:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-30 19:45:29 +0000"
     },
     "done": true
   },
@@ -2322,6 +2391,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-30 19:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-30 19:39:50 +0000"
     },
     "done": true
   },
@@ -2349,9 +2424,21 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-06-30 19:39:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-30 19:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-30 19:39:50 +0000"
     },
     "done": true
   },
@@ -2373,6 +2460,24 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-06-30 19:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-30 19:45:29 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-06-30 19:44:39 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bandit_towers": {
     "criteria": {
       "location0": "2025-06-30 19:01:08 +0000"
@@ -2388,6 +2493,12 @@
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2025-06-30 19:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-06-30 19:58:01 +0000"
     },
     "done": true
   },
