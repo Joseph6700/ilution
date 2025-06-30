@@ -976,6 +976,7 @@
       "minecraft:pillager": "2025-06-28 23:23:11 +0000",
       "minecraft:skeleton": "2025-06-28 22:21:52 +0000",
       "minecraft:hoglin": "2025-06-29 02:13:48 +0000",
+      "minecraft:guardian": "2025-06-30 02:48:29 +0000",
       "minecraft:vindicator": "2025-06-28 23:25:40 +0000",
       "minecraft:spider": "2025-06-28 22:29:45 +0000",
       "minecraft:creeper": "2025-06-28 21:38:52 +0000",
@@ -1516,6 +1517,7 @@
       "dryland": "2025-06-29 03:35:50 +0000",
       "redwood_forest": "2025-06-28 22:14:02 +0000",
       "dune_beach": "2025-06-29 01:53:55 +0000",
+      "seasonal_forest": "2025-06-30 02:31:28 +0000",
       "pasture": "2025-06-29 01:49:52 +0000",
       "prairie": "2025-06-28 22:14:03 +0000",
       "gravel_beach": "2025-06-29 02:22:07 +0000",
@@ -4726,6 +4728,186 @@
   "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-30 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-30 02:22:28 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/merchant": {
+    "criteria": {
+      "sword": "2025-06-30 02:22:29 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-06-30 02:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-30 02:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-30 02:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-30 02:31:00 +0000"
+    },
+    "done": true
+  },
+  "mca:family": {
+    "criteria": {
+      "iron": "2025-06-30 02:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-30 02:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-30 02:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-30 02:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-30 02:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-06-30 02:48:20 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-06-30 02:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-06-30 02:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-06-30 02:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-30 02:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-30 02:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-30 02:48:31 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/upgrade_endshelf": {
+    "criteria": {
+      "draconic": "2025-06-30 02:57:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-30 02:55:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-06-30 02:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-06-30 02:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-06-30 02:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-30 02:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-30 02:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-06-30 02:42:05 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/upgrade_seashelf": {
+    "criteria": {
+      "crystal": "2025-06-30 02:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-06-30 02:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-30 02:55:03 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-06-30 02:56:17 +0000"
     },
     "done": true
   },

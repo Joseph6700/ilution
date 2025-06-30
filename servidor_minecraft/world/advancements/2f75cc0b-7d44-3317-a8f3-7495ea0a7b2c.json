@@ -833,8 +833,10 @@
       "minecraft:blaze": "2025-06-29 04:03:17 +0000",
       "minecraft:pillager": "2025-06-29 04:25:37 +0000",
       "minecraft:skeleton": "2025-06-28 22:24:37 +0000",
+      "minecraft:elder_guardian": "2025-06-30 02:50:43 +0000",
       "minecraft:ghast": "2025-06-29 03:33:46 +0000",
       "minecraft:hoglin": "2025-06-29 03:55:17 +0000",
+      "minecraft:guardian": "2025-06-30 02:51:02 +0000",
       "minecraft:vindicator": "2025-06-29 05:11:26 +0000",
       "minecraft:magma_cube": "2025-06-29 03:58:05 +0000",
       "minecraft:spider": "2025-06-28 22:30:25 +0000",
@@ -1081,6 +1083,7 @@
       "redwood_forest": "2025-06-28 22:37:58 +0000",
       "visceral_heap": "2025-06-30 00:53:31 +0000",
       "wasteland_steppe": "2025-06-29 03:18:53 +0000",
+      "aspen_glade": "2025-06-30 02:25:52 +0000",
       "dune_beach": "2025-06-29 05:07:14 +0000",
       "seasonal_forest": "2025-06-29 05:08:46 +0000",
       "volcano": "2025-06-28 23:06:48 +0000",
@@ -3022,6 +3025,7 @@
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-06-29 01:46:27 +0000",
+      "sculk_leech": "2025-06-30 02:23:21 +0000",
       "warden": "2025-06-30 02:04:07 +0000"
     },
     "done": false
@@ -4527,6 +4531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-30 02:51:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-06-30 01:47:38 +0000"
@@ -4599,6 +4609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-30 02:49:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-30 01:33:09 +0000"
@@ -4626,6 +4642,12 @@
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-06-30 01:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 02:27:03 +0000"
     },
     "done": true
   },
@@ -4668,6 +4690,12 @@
   "biomesoplenty:recipes/redstone/fir_door": {
     "criteria": {
       "has_planks": "2025-06-30 01:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-30 02:49:49 +0000"
     },
     "done": true
   },
@@ -4746,6 +4774,12 @@
   "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-30 01:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-06-30 02:57:46 +0000"
     },
     "done": true
   },
@@ -4893,6 +4927,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-06-30 02:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-06-30 02:49:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-06-30 01:41:52 +0000"
@@ -4914,6 +4960,12 @@
   "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-30 01:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 02:27:03 +0000"
     },
     "done": true
   },
@@ -4944,6 +4996,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-30 01:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-30 02:49:49 +0000"
     },
     "done": true
   },
@@ -4998,6 +5056,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-06-30 01:25:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-30 02:51:03 +0000"
     },
     "done": true
   },
@@ -5097,6 +5161,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-06-30 02:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-06-30 02:49:49 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-30 01:31:24 +0000"
@@ -5127,9 +5203,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-06-30 02:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-06-30 02:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-30 02:51:05 +0000"
     },
     "done": true
   },
@@ -5151,9 +5239,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-30 02:51:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-30 01:33:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-06-30 02:23:22 +0000"
     },
     "done": true
   },
@@ -5271,9 +5371,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 02:27:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-30 01:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-06-30 02:44:35 +0000"
     },
     "done": true
   },
@@ -5331,6 +5443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-06-30 02:18:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-30 01:33:09 +0000"
@@ -5346,6 +5464,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-30 01:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-06-30 02:49:49 +0000"
     },
     "done": true
   },
@@ -5388,6 +5512,12 @@
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-30 01:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-30 02:51:03 +0000"
     },
     "done": true
   },
