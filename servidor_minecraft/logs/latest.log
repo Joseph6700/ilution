@@ -992,3 +992,4 @@ java.lang.IndexOutOfBoundsException: Index -12 out of bounds for length 13
 [30Jun2025 20:00:20.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Shane'/72419, l='ServerLevel[world]', x=1444.70, y=78.00, z=2558.50] died: Shane was slain by SnVzk1
 [30Jun2025 20:06:02.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SnVzk1 lost connection: Disconnected
 [30Jun2025 20:06:02.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 left the game
+[30Jun2025 20:17:16.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
