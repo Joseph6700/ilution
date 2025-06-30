@@ -1082,3 +1082,37 @@ java.lang.IndexOutOfBoundsException: Index -11 out of bounds for length 13
 [30Jun2025 03:09:33.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> como se hacen las cunas?
 [30Jun2025 03:09:52.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [30Jun2025 03:10:14.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30Jun2025 03:10:33.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3975ms or 79 ticks behind
+[30Jun2025 03:10:50.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
+[30Jun2025 03:10:58.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Suit Up]
+[30Jun2025 03:11:07.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> quien es sn
+[30Jun2025 03:11:11.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> vasquez
+[30Jun2025 03:11:14.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> a
+[30Jun2025 03:11:16.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> o vaqxz
+[30Jun2025 03:11:22.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[30Jun2025 03:11:25.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Batteries Not Included]
+[30Jun2025 03:11:44.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[30Jun2025 03:13:34.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has completed the challenge [Praise the Sun]
+[30Jun2025 03:13:46.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30Jun2025 03:13:47.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Delving Into Darkness]
+[30Jun2025 03:15:46.292] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/81100, l='ServerLevel[world]', x=146.56, y=75.30, z=-259.96] died: Honeyed Archer suffocated in a wall
+[30Jun2025 03:17:52.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[30Jun2025 03:17:56.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [The Basics]
+[30Jun2025 03:17:56.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Arcane Power]
+[30Jun2025 03:17:56.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Rolling the Dice]
+[30Jun2025 03:17:56.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Magical Energy]
+[30Jun2025 03:17:56.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Introduction to Chaos]
+[30Jun2025 03:17:56.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Enchanter]
+[30Jun2025 03:17:56.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Eterna, Quanta, Arcana]
+[30Jun2025 03:18:01.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> eh
+[30Jun2025 03:18:31.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Set own game mode to Survival Mode]
+[30Jun2025 03:19:11.965] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/85336, l='ServerLevel[world]', x=7102.07, y=104.00, z=-1992.45] died: Undead Knight was slain by Husk
+[30Jun2025 03:19:44.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[30Jun2025 03:19:55.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/85579, l='ServerLevel[world]', x=7073.41, y=110.00, z=-1904.77] died: Honeyed Archer was slain by semviii
+[30Jun2025 03:20:13.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7011, y=107, z=-1846} BlockPos{x=7011, y=105, z=-1845}
+[30Jun2025 03:20:13.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7011, y=107, z=-1846} BlockPos{x=7011, y=105, z=-1845}
+[30Jun2025 03:20:14.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7014, y=107, z=-1840} BlockPos{x=7014, y=105, z=-1841}
+[30Jun2025 03:20:14.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7014, y=107, z=-1840} BlockPos{x=7014, y=105, z=-1841}
+[30Jun2025 03:20:14.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[30Jun2025 03:20:16.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7010, y=107, z=-1841} BlockPos{x=7010, y=105, z=-1843}
+[30Jun2025 03:20:35.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind

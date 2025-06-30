@@ -4603,6 +4603,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/upgrade_hellshelf": {
+    "criteria": {
+      "glowing": "2025-06-30 03:08:56 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-30 01:31:24 +0000"
@@ -5047,6 +5053,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/upgrade_endshelf": {
+    "criteria": {
+      "draconic": "2025-06-30 03:09:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-30 01:33:09 +0000"
@@ -5194,6 +5206,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-30 01:33:09 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/seashelf": {
+    "criteria": {
+      "seashelf": "2025-06-30 03:08:58 +0000"
     },
     "done": true
   },
@@ -5449,6 +5467,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/upgrade_seashelf": {
+    "criteria": {
+      "heart": "2025-06-30 03:09:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-30 01:33:09 +0000"
@@ -5482,6 +5506,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-06-30 01:28:42 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/sculkshelf": {
+    "criteria": {
+      "soul_touched": "2025-06-30 03:09:03 +0000"
     },
     "done": true
   },

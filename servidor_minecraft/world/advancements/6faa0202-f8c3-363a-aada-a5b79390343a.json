@@ -4827,6 +4827,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-06-30 03:13:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-06-30 02:48:31 +0000"
@@ -4887,6 +4893,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-30 03:07:18 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/endshelf": {
     "criteria": {
       "endshelf": "2025-06-30 03:00:18 +0000"
@@ -4926,6 +4938,12 @@
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2025-06-30 02:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-30 03:07:18 +0000"
     },
     "done": true
   },
