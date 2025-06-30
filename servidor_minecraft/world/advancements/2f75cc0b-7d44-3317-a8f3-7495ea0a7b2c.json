@@ -61,6 +61,8 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "sugar_water_floor": "2025-06-30 00:02:34 +0000",
+      "hive_wall": "2025-06-30 00:04:24 +0000",
       "bumbling_beepartments": "2025-06-28 22:20:05 +0000"
     },
     "done": false
@@ -97,6 +99,7 @@
       "minecraft:river": "2025-06-28 22:25:30 +0000",
       "minecraft:lukewarm_ocean": "2025-06-29 03:06:01 +0000",
       "minecraft:stony_shore": "2025-06-28 23:45:09 +0000",
+      "minecraft:jagged_peaks": "2025-06-30 00:00:01 +0000",
       "minecraft:cold_ocean": "2025-06-28 23:37:21 +0000",
       "minecraft:forest": "2025-06-29 04:06:33 +0000",
       "minecraft:lush_caves": "2025-06-28 23:07:24 +0000",
@@ -1062,6 +1065,7 @@
       "erupting_inferno": "2025-06-29 03:32:10 +0000",
       "highland": "2025-06-29 04:57:36 +0000",
       "jacaranda_glade": "2025-06-29 04:16:59 +0000",
+      "jade_cliffs": "2025-06-30 00:00:05 +0000",
       "old_growth_woodland": "2025-06-28 23:05:05 +0000",
       "maple_woods": "2025-06-28 23:45:07 +0000",
       "crystalline_chasm": "2025-06-29 03:32:46 +0000",
@@ -4337,6 +4341,36 @@
   "graveyard:graveyard/lich_prison": {
     "criteria": {
       "lich_prison": "2025-06-29 23:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-06-30 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-30 00:02:46 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-06-30 00:05:04 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-06-30 00:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-30 00:02:46 +0000"
     },
     "done": true
   },

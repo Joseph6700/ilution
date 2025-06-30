@@ -61,7 +61,11 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
-      "bumbling_beepartments": "2025-06-28 21:06:39 +0000"
+      "sugar_water_floor": "2025-06-30 00:02:26 +0000",
+      "hive_pillar": "2025-06-30 00:08:47 +0000",
+      "hive_wall": "2025-06-30 00:03:43 +0000",
+      "bumbling_beepartments": "2025-06-28 21:06:39 +0000",
+      "pollinated_fields": "2025-06-30 00:04:16 +0000"
     },
     "done": false
   },
@@ -3984,6 +3988,12 @@
     },
     "done": true
   },
+  "the_bumblezone:tools/honey_compass_use": {
+    "criteria": {
+      "honey_compass": "2025-06-30 00:09:21 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2025-06-29 23:49:00 +0000"
@@ -4086,6 +4096,12 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-06-30 00:02:21 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_gray_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-29 23:57:15 +0000"
@@ -4101,6 +4117,12 @@
   "mca:recipes/decorations/black_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-29 23:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-30 00:02:47 +0000"
     },
     "done": true
   },
@@ -4158,9 +4180,21 @@
     },
     "done": true
   },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2025-06-30 00:09:15 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-29 23:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-30 00:02:47 +0000"
     },
     "done": true
   },

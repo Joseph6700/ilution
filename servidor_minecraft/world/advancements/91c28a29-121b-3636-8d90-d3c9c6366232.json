@@ -61,6 +61,8 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "sugar_water_floor": "2025-06-30 00:02:32 +0000",
+      "hive_wall": "2025-06-30 00:03:08 +0000",
       "bumbling_beepartments": "2025-06-28 22:12:53 +0000"
     },
     "done": false
@@ -995,6 +997,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-28 22:31:38 +0000",
       "cooked_mutton": "2025-06-29 04:00:43 +0000",
+      "cooked_beef": "2025-06-30 00:02:36 +0000",
       "beef": "2025-06-28 23:29:49 +0000",
       "potato": "2025-06-28 23:07:01 +0000",
       "bread": "2025-06-28 22:59:05 +0000",
@@ -4217,6 +4220,24 @@
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2025-06-29 05:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-30 00:02:43 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-06-30 00:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-30 00:02:43 +0000"
     },
     "done": true
   },

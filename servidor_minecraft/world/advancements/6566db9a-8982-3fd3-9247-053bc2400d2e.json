@@ -61,7 +61,11 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
-      "bumbling_beepartments": "2025-06-28 22:26:42 +0000"
+      "pollinated_pillar": "2025-06-30 00:06:29 +0000",
+      "sugar_water_floor": "2025-06-30 00:02:35 +0000",
+      "hive_wall": "2025-06-30 00:04:12 +0000",
+      "bumbling_beepartments": "2025-06-28 22:26:42 +0000",
+      "pollinated_fields": "2025-06-30 00:04:44 +0000"
     },
     "done": false
   },
@@ -3195,6 +3199,12 @@
     },
     "done": true
   },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-06-30 00:06:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
       "has_gunpowder": "2025-06-29 23:17:01 +0000"
@@ -3321,6 +3331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-30 00:02:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-29 23:35:54 +0000"
@@ -3405,6 +3421,12 @@
     },
     "done": true
   },
+  "the_bumblezone:pollen_puff/pollen_puff_pollinate_bee": {
+    "criteria": {
+      "pollen_puff_pollinate_bee": "2025-06-30 00:07:55 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-29 23:37:58 +0000"
@@ -3426,6 +3448,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-06-29 23:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-30 00:02:45 +0000"
     },
     "done": true
   },

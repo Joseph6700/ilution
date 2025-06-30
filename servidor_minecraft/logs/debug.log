@@ -12534,3 +12534,81 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [30Jun2025 00:01:33.711] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (1360 | 77 | 3806)
 [30Jun2025 00:01:33.741] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1360 | 95 | 3815)
 [30Jun2025 00:01:33.741] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1360 | 95 | 3815)
+[30Jun2025 00:02:10.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to Maxisccs]
+[30Jun2025 00:02:21.950] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[30Jun2025 00:02:21.950] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[30Jun2025 00:02:21.951] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[30Jun2025 00:02:24.566] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 00:02:24.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3009ms or 60 ticks behind
+[30Jun2025 00:02:32.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
+[30Jun2025 00:02:32.777] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[30Jun2025 00:02:34.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[30Jun2025 00:02:35.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
+[30Jun2025 00:02:35.457] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[30Jun2025 00:02:35.754] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[30Jun2025 00:02:42.232] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:02:51.797] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:03:00.230] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:03:46.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> yo tengo tp
+[30Jun2025 00:03:51.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> si
+[30Jun2025 00:03:55.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> espera
+[30Jun2025 00:04:39.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6689.500000, 63.500000, -2531.500000]
+[30Jun2025 00:04:39.660] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[30Jun2025 00:04:39.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs moved too quickly! 1.6596861975098705,-10.096044358273588,-0.9944029626340125
+[30Jun2025 00:04:42.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
+[30Jun2025 00:04:43.017] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[30Jun2025 00:04:46.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> si me deja
+[30Jun2025 00:04:54.481] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_boots/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:04:55.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 00:04:55.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 00:05:08.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> corre
+[30Jun2025 00:05:09.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> maxi
+[30Jun2025 00:05:24.230] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:05:33.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> sube
+[30Jun2025 00:05:36.755] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:05:37.693] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:05:59.188] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_boots/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:06:04.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> 1 min
+[30Jun2025 00:06:06.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> aguanta
+[30Jun2025 00:06:07.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no les pegues
+[30Jun2025 00:06:09.281] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:06:13.231] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:06:20.933] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:06:28.481] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:07:22.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
+[30Jun2025 00:08:47.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 293.500000, 40.500000, 872.500000]
+[30Jun2025 00:08:53.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> y aqui q se hace
+[30Jun2025 00:08:57.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 345.500000, 41.500000, 846.500000]
+[30Jun2025 00:09:06.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 405.500000, 44.500000, 987.500000]
+[30Jun2025 00:09:26.337] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:09:30.781] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:09:38.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to semviii]
+[30Jun2025 00:09:41.334] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:09:48.486] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:09:53.564] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_helmet/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:09:53.586] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:09:53.593] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:09:54.565] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:09:55.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 00:09:55.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 00:09:56.632] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_helmet/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:10:02.039] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:10:09.290] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:10:12.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[30Jun2025 00:10:13.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q es eso
+[30Jun2025 00:10:14.192] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:10:16.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q aparece carlito
+[30Jun2025 00:10:19.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> en el mpaa
+[30Jun2025 00:10:25.677] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:10:29.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[30Jun2025 00:10:45.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> aparecen como unos cosos con cara de tierra
+[30Jun2025 00:10:47.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[30Jun2025 00:10:48.421] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
+[30Jun2025 00:11:04.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2857ms or 57 ticks behind
+[30Jun2025 00:11:33.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> encontre algo carlitos
+[30Jun2025 00:11:35.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ven a ve
+[30Jun2025 00:11:44.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[30Jun2025 00:12:01.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2294ms or 45 ticks behind
+[30Jun2025 00:12:13.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> 12
+[30Jun2025 00:12:19.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3059ms or 61 ticks behind
+[30Jun2025 00:12:27.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> anda
