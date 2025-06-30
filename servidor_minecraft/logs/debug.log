@@ -10161,3 +10161,54 @@ java.lang.IndexOutOfBoundsException: Index -11 out of bounds for length 13
 [30Jun2025 02:58:59.232] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
 [30Jun2025 02:59:09.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> y que cambian los mods, solo monstruos nuevos o q
 [30Jun2025 02:59:29.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Stone Age]
+[30Jun2025 02:59:37.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[30Jun2025 02:59:48.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Getting an Upgrade]
+[30Jun2025 02:59:57.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5631ms or 112 ticks behind
+[30Jun2025 03:00:18.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has reached the goal [Dragon-Slaying Enchanter]
+[30Jun2025 03:00:26.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13884ms or 277 ticks behind
+[30Jun2025 03:00:46.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Mastering the Inferno]
+[30Jun2025 03:00:53.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Who turned the lights off?]
+[30Jun2025 03:00:56.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15027ms or 300 ticks behind
+[30Jun2025 03:01:28.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17374ms or 347 ticks behind
+[30Jun2025 03:01:58.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14612ms or 292 ticks behind
+[30Jun2025 03:02:29.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16412ms or 328 ticks behind
+[30Jun2025 03:03:01.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16822ms or 336 ticks behind
+[30Jun2025 03:03:03.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Monster Hunter]
+[30Jun2025 03:03:06.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> que lag
+[30Jun2025 03:03:30.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13428ms or 268 ticks behind
+[30Jun2025 03:03:46.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Stay dead]
+[30Jun2025 03:03:47.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
+[30Jun2025 03:04:05.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2610ms or 52 ticks behind
+[30Jun2025 03:04:22.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
+[30Jun2025 03:04:41.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4231ms or 84 ticks behind
+[30Jun2025 03:04:59.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2725ms or 54 ticks behind
+[30Jun2025 03:05:17.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3049ms or 60 ticks behind
+[30Jun2025 03:05:35.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3162ms or 63 ticks behind
+[30Jun2025 03:05:54.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3560ms or 71 ticks behind
+[30Jun2025 03:05:57.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 03:05:57.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 03:06:15.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6394ms or 127 ticks behind
+[30Jun2025 03:06:34.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4185ms or 83 ticks behind
+[30Jun2025 03:06:53.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4120ms or 82 ticks behind
+[30Jun2025 03:07:12.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4188ms or 83 ticks behind
+[30Jun2025 03:07:18.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Spooky Scary Skeleton]
+[30Jun2025 03:07:31.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3766ms or 75 ticks behind
+[30Jun2025 03:07:50.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3903ms or 78 ticks behind
+[30Jun2025 03:08:09.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30Jun2025 03:08:22.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Set own game mode to Creative Mode]
+[30Jun2025 03:08:46.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[30Jun2025 03:08:46.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Acquire Hardware]
+[30Jun2025 03:08:56.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Mastering the Inferno]
+[30Jun2025 03:08:58.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [The Purity of the Seas]
+[30Jun2025 03:09:01.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Sleeping in the Cold Below]
+[30Jun2025 03:09:03.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Embracing the Sculk]
+[30Jun2025 03:09:06.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has completed the challenge [The Final Bookshelf]
+[30Jun2025 03:09:10.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30Jun2025 03:09:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlitos
+[30Jun2025 03:09:15.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> dime un nombre de mujer
+[30Jun2025 03:09:24.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Isn't It Iron Pick]
+[30Jun2025 03:09:28.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> lito pue
+[30Jun2025 03:09:30.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[30Jun2025 03:09:33.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> como se hacen las cunas?
+[30Jun2025 03:09:52.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[30Jun2025 03:10:14.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind

@@ -3970,6 +3970,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/wraith_dim_light": {
+    "criteria": {
+      "dim_light": "2025-06-30 03:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-06-30 01:42:06 +0000"
