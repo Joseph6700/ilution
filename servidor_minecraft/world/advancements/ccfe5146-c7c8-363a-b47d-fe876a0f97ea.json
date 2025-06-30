@@ -90,7 +90,9 @@
       "minecraft:birch_forest": "2025-06-30 01:26:03 +0000",
       "minecraft:dark_forest": "2025-06-30 21:15:35 +0000",
       "minecraft:lukewarm_ocean": "2025-06-30 18:45:09 +0000",
-      "minecraft:river": "2025-06-30 21:47:10 +0000"
+      "minecraft:river": "2025-06-30 21:47:10 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-30 22:38:15 +0000",
+      "minecraft:meadow": "2025-06-30 22:38:21 +0000"
     },
     "done": false
   },
@@ -113,8 +115,10 @@
       "minecraft:hoglin": "2025-06-30 19:50:19 +0000",
       "minecraft:vindicator": "2025-06-30 21:46:33 +0000",
       "minecraft:piglin_brute": "2025-06-30 19:31:00 +0000",
+      "minecraft:spider": "2025-06-30 22:26:28 +0000",
       "minecraft:creeper": "2025-06-30 22:04:28 +0000",
       "minecraft:evoker": "2025-06-30 21:47:31 +0000",
+      "minecraft:phantom": "2025-06-30 22:28:02 +0000",
       "minecraft:zombified_piglin": "2025-06-30 19:50:07 +0000",
       "minecraft:witch": "2025-06-30 22:15:47 +0000",
       "minecraft:wither_skeleton": "2025-06-30 18:49:05 +0000",
@@ -1278,6 +1282,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-30 22:29:03 +0000",
+      "apple": "2025-06-30 22:38:46 +0000",
       "bread": "2025-06-30 18:45:18 +0000",
       "golden_apple": "2025-06-30 19:35:36 +0000",
       "golden_carrot": "2025-06-30 19:20:49 +0000"
@@ -2471,6 +2477,7 @@
       "woodland": "2025-06-30 21:46:00 +0000",
       "erupting_inferno": "2025-06-30 19:30:40 +0000",
       "crystalline_chasm": "2025-06-30 19:47:29 +0000",
+      "overgrown_greens": "2025-06-30 22:38:07 +0000",
       "redwood_forest": "2025-06-30 19:27:49 +0000",
       "undergrowth": "2025-06-30 21:02:29 +0000"
     },
@@ -3156,6 +3163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-30 22:26:15 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/crypt": {
     "criteria": {
       "crypt": "2025-06-30 22:00:54 +0000"
@@ -3180,6 +3193,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-30 22:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-30 22:27:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-06-30 22:08:53 +0000"
@@ -3198,6 +3223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-30 22:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-06-30 21:55:53 +0000"
@@ -3213,6 +3244,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-06-30 21:55:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-06-30 22:35:33 +0000"
     },
     "done": true
   },
@@ -3270,9 +3307,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-30 22:26:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
     "criteria": {
       "has_stick": "2025-06-30 21:50:57 +0000"
+    },
+    "done": true
+  },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2025-06-30 22:36:50 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-06-30 22:35:43 +0000"
     },
     "done": true
   },
@@ -3282,15 +3337,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-30 22:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-30 21:48:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-06-30 22:20:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-30 22:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-30 21:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-30 22:33:40 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2025-06-30 22:20:28 +0000"
     },
     "done": true
   },
@@ -3312,6 +3397,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-30 22:35:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-30 22:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-06-30 22:16:56 +0000"
@@ -3321,6 +3418,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-06-30 21:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-30 22:26:15 +0000"
     },
     "done": true
   },
@@ -3360,9 +3463,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-30 22:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-06-30 21:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-30 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-30 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-06-30 22:35:33 +0000"
     },
     "done": true
   },
@@ -3371,6 +3498,12 @@
       "has_netherite_ingot": "2025-06-30 21:48:54 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-30 22:28:02 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
