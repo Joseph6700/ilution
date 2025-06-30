@@ -1858,6 +1858,7 @@
       "rocky_shrubland": "2025-06-28 23:21:59 +0000",
       "scrubland": "2025-06-29 03:23:51 +0000",
       "jacaranda_glade": "2025-06-29 02:50:05 +0000",
+      "jade_cliffs": "2025-06-29 23:55:46 +0000",
       "maple_woods": "2025-06-28 23:44:26 +0000",
       "orchard": "2025-06-28 23:03:33 +0000",
       "field": "2025-06-28 23:46:27 +0000",
@@ -3200,6 +3201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-06-29 23:48:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-06-29 23:20:03 +0000"
@@ -3239,6 +3246,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-29 23:35:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-06-29 23:57:41 +0000"
     },
     "done": true
   },
@@ -3383,6 +3396,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-06-29 23:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-29 23:48:51 +0000"
     },
     "done": true
   },
