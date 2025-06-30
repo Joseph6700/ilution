@@ -5180,6 +5180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-06-30 18:59:26 +0000"
@@ -5189,6 +5195,18 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-30 17:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
     },
     "done": true
   },
@@ -5228,6 +5246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2025-06-30 17:36:27 +0000"
@@ -5258,6 +5282,24 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-30 19:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-06-30 18:59:26 +0000"
@@ -5273,6 +5315,18 @@
   "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
     "criteria": {
       "has_pump_upgrade": "2025-06-30 17:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
     },
     "done": true
   },
@@ -5315,6 +5369,12 @@
   "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-30 17:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
     },
     "done": true
   },
@@ -5372,6 +5432,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/blackstone_bulb": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/redwood_fence": {
     "criteria": {
       "has_planks": "2025-06-30 19:28:14 +0000"
@@ -5381,6 +5447,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-30 17:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
     },
     "done": true
   },
@@ -5408,6 +5486,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/blackstone_spines": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-30 17:33:04 +0000"
@@ -5417,6 +5501,12 @@
   "biomesoplenty:recipes/building_blocks/redwood_slab": {
     "criteria": {
       "has_planks": "2025-06-30 19:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
     },
     "done": true
   },
@@ -5444,6 +5534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_stairs": {
     "criteria": {
       "has_planks": "2025-06-30 19:28:14 +0000"
@@ -5468,6 +5564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bandit_towers": {
     "criteria": {
       "location0": "2025-06-30 17:51:29 +0000"
@@ -5483,6 +5585,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-06-30 17:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
     },
     "done": true
   },
@@ -5507,6 +5615,18 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-30 17:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-30 19:33:46 +0000"
     },
     "done": true
   },

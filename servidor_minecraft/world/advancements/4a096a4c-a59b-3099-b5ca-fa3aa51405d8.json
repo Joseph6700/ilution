@@ -833,6 +833,8 @@
       "minecraft:witch": "2025-06-30 19:24:22 +0000",
       "minecraft:husk": "2025-06-30 19:25:27 +0000",
       "minecraft:cave_spider": "2025-06-30 03:27:07 +0000",
+      "minecraft:silverfish": "2025-06-30 19:32:28 +0000",
+      "minecraft:stray": "2025-06-30 19:34:22 +0000",
       "minecraft:zombie": "2025-06-30 03:03:03 +0000",
       "minecraft:drowned": "2025-06-30 03:48:09 +0000"
     },
@@ -2233,9 +2235,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-30 19:32:23 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-06-30 19:37:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-06-30 19:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-30 19:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-30 19:32:23 +0000"
     },
     "done": true
   },
@@ -2248,6 +2274,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-30 19:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-30 19:32:23 +0000"
     },
     "done": true
   },
@@ -2311,9 +2343,21 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-06-30 19:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-30 19:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-30 19:32:23 +0000"
     },
     "done": true
   },
@@ -2332,6 +2376,18 @@
   "dungeons_arise:find_bandit_towers": {
     "criteria": {
       "location0": "2025-06-30 19:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-30 19:32:23 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-06-30 19:32:39 +0000"
     },
     "done": true
   },
