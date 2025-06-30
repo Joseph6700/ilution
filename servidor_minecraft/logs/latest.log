@@ -1457,3 +1457,52 @@ java.lang.IndexOutOfBoundsException: Index -11 out of bounds for length 13
 [30Jun2025 04:02:07.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [30Jun2025 04:02:29.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [30Jun2025 04:02:51.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30Jun2025 04:03:09.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3285ms or 65 ticks behind
+[30Jun2025 04:03:29.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5329ms or 106 ticks behind
+[30Jun2025 04:03:46.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[30Jun2025 04:04:04.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2331ms or 46 ticks behind
+[30Jun2025 04:04:21.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[30Jun2025 04:04:41.372] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[30Jun2025 04:04:41.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[30Jun2025 04:05:02.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1841.500000, 64.500000, -670.500000]
+[30Jun2025 04:05:03.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6785ms or 135 ticks behind
+[30Jun2025 04:05:23.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5262ms or 105 ticks behind
+[30Jun2025 04:05:43.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4962ms or 99 ticks behind
+[30Jun2025 04:06:04.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6235ms or 124 ticks behind
+[30Jun2025 04:06:25.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5939ms or 118 ticks behind
+[30Jun2025 04:06:46.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5806ms or 116 ticks behind
+[30Jun2025 04:07:07.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6148ms or 122 ticks behind
+[30Jun2025 04:07:28.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5767ms or 115 ticks behind
+[30Jun2025 04:07:49.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6695ms or 133 ticks behind
+[30Jun2025 04:08:12.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8016ms or 160 ticks behind
+[30Jun2025 04:08:34.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6910ms or 138 ticks behind
+[30Jun2025 04:08:38.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 359.500000, -19.500000, 373.500000]
+[30Jun2025 04:08:52.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2967ms or 59 ticks behind
+[30Jun2025 04:09:11.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3748ms or 74 ticks behind
+[30Jun2025 04:09:12.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[30Jun2025 04:09:24.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Well prepared]
+[30Jun2025 04:09:29.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3011ms or 60 ticks behind
+[30Jun2025 04:09:48.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4657ms or 93 ticks behind
+[30Jun2025 04:10:10.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6292ms or 125 ticks behind
+[30Jun2025 04:10:30.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5632ms or 112 ticks behind
+[30Jun2025 04:10:51.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5206ms or 104 ticks behind
+[30Jun2025 04:11:10.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4864ms or 97 ticks behind
+[30Jun2025 04:11:31.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5156ms or 103 ticks behind
+[30Jun2025 04:11:50.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4618ms or 92 ticks behind
+[30Jun2025 04:11:51.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SnVzk1 lost connection: Disconnected
+[30Jun2025 04:11:51.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 left the game
+[30Jun2025 04:15:08.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 115.500000, 59.500000, 357.500000]
+[30Jun2025 04:15:15.197] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[30Jun2025 04:16:32.300] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[30Jun2025 04:16:38.807] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jun2025 04:16:39.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1926.500000, 128.500000, -845.500000]
+[30Jun2025 04:17:38.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1481.500000, 75.500000, -804.500000]
+[30Jun2025 04:18:20.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Cas'/133846, l='ServerLevel[world]', x=1503.54, y=72.00, z=-747.24] died: Cas was slain by Zombified Piglin
+[30Jun2025 04:20:25.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 139.500000, 43.500000, 9.500000]
+[30Jun2025 04:21:21.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=90, z=57} BlockPos{x=131, y=90, z=57}
+[30Jun2025 04:21:45.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 115.500000, 59.500000, 357.500000]
+[30Jun2025 04:21:56.577] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[30Jun2025 04:22:01.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to -804.500000, 85.500000, -1878.500000]
+[30Jun2025 04:22:36.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[30Jun2025 04:23:22.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[30Jun2025 04:23:28.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
