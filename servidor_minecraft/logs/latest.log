@@ -595,3 +595,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [30Jun2025 21:41:04.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> restore inwxke 83a0045a-77f8-481f-a20b-ea641b803082 add
 [30Jun2025 21:41:09.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> restore inwxke 83a0045a-77f8-481f-a20b-ea641b803082 add
 [30Jun2025 21:41:24.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Successfully restored Hodlysw's items]
+[30Jun2025 21:42:02.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Set own game mode to Creative Mode]
+[30Jun2025 21:42:13.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Set own game mode to Survival Mode]
+[30Jun2025 21:42:14.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Set own game mode to Creative Mode]
+[30Jun2025 21:42:16.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Set own game mode to Survival Mode]
+[30Jun2025 21:42:19.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Sanctified]
+[30Jun2025 21:42:28.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw was killed by magic
+[30Jun2025 21:42:30.339] [Server thread/INFO] [do_a_barrel_roll/]: Client of Hodlysw accepted server config.
+[30Jun2025 21:42:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to CarlitosBot1]
+[30Jun2025 21:42:37.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Successfully restored Hodlysw's items]
+[30Jun2025 21:43:13.136] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:mansion took 517 ms
+[30Jun2025 21:43:43.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 was kicked for floating too long!
+[30Jun2025 21:43:43.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 lost connection: Flying is not enabled on this server
+[30Jun2025 21:43:43.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 left the game
+[30Jun2025 21:43:50.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CarlitosBot1[/127.244.235.155:37729] logged in with entity id 10241 at (924.020721829817, 237.3863601714786, 2944.3021221916906)
+[30Jun2025 21:43:50.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 joined the game
+[30Jun2025 21:43:53.070] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 21:45:37.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 3.7266491901526706,18.254999294116715,3.240745890519065
+[30Jun2025 21:45:59.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 400.500000, 179.000000, 5584.500000]
+[30Jun2025 21:45:59.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11365ms or 227 ticks behind
+[30Jun2025 21:46:00.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2505.500000]
+[30Jun2025 21:46:00.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hodlysw moved too quickly! 0.0,-10.374042081009122,0.0
+[30Jun2025 21:46:52.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[30Jun2025 21:47:39.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 883.500000, 132.500000, 2967.500000]
+[30Jun2025 21:47:53.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 878.500000, 176.500000, 2975.500000]
+[30Jun2025 21:49:08.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved wrongly!
+[30Jun2025 21:50:26.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 883.500000, 132.500000, 2967.500000]
+[30Jun2025 21:50:42.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 878.500000, 176.500000, 2975.500000]
+[30Jun2025 21:51:17.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Best Friends Forever]
+[30Jun2025 21:52:17.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 883.500000, 132.500000, 2967.500000]
