@@ -4026,6 +4026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-30 00:50:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/magenta_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-29 23:57:15 +0000"
@@ -4035,6 +4041,12 @@
   "mca:recipes/decorations/lime_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-29 23:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 00:50:31 +0000"
     },
     "done": true
   },
@@ -4116,6 +4128,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-30 00:44:21 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/cyan_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-29 23:57:15 +0000"
@@ -4134,6 +4152,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-30 00:50:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_gray_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-29 23:57:15 +0000"
@@ -4146,6 +4176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-30 00:50:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-29 23:57:15 +0000"
@@ -4155,6 +4191,12 @@
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2025-06-30 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-30 00:50:40 +0000"
     },
     "done": true
   },
@@ -4179,6 +4221,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-29 23:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-30 00:50:31 +0000"
     },
     "done": true
   },

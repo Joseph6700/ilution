@@ -3669,6 +3669,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:infernal_dunes": "2025-06-30 00:46:57 +0000",
       "incendium:quartz_flats": "2025-06-29 03:53:05 +0000"
     },
     "done": false
@@ -4345,6 +4346,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-30 00:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-30 00:42:22 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:structures/enter_cell_maze": {
     "criteria": {
       "in_cell_maze": "2025-06-30 00:20:48 +0000"
@@ -4365,6 +4378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-30 00:40:43 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2025-06-30 00:29:34 +0000"
@@ -4380,6 +4399,12 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-06-30 00:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-30 00:40:43 +0000"
     },
     "done": true
   },
@@ -4404,6 +4429,12 @@
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
       "is_near_beehive": "2025-06-30 00:02:14 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-06-30 00:46:57 +0000"
     },
     "done": true
   },
