@@ -581,3 +581,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [30Jun2025 05:16:28.436] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [30Jun2025 05:23:18.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 115.500000, 59.500000, 357.500000]
 [30Jun2025 05:23:25.664] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[30Jun2025 05:37:58.500] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[30Jun2025 05:42:23.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [What a Deal!]
