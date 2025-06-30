@@ -9881,3 +9881,31 @@ java.lang.IndexOutOfBoundsException: Index -12 out of bounds for length 13
 [30Jun2025 21:00:11.481] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
 [30Jun2025 21:00:15.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 570.500000, 40.500000, -931.500000]
 [30Jun2025 21:00:25.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2505.500000]
+[30Jun2025 21:01:49.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Ol' Betsy]
+[30Jun2025 21:01:49.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Take Aim]
+[30Jun2025 21:02:12.109] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Milanka}[style={}] has been infected
+[30Jun2025 21:03:21.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 21:03:21.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 21:03:36.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 599.500000, 36.500000, -945.500000]
+[30Jun2025 21:03:48.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 779.500000, 34.500000, -889.500000]
+[30Jun2025 21:03:54.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 714.500000, 33.500000, -1069.500000]
+[30Jun2025 21:04:00.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 756.500000, 32.500000, -1145.500000]
+[30Jun2025 21:04:06.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 818.500000, 33.500000, -1179.500000]
+[30Jun2025 21:04:28.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [Nightmare Fuel]
+[30Jun2025 21:05:11.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 831.500000, 64.500000, -1295.500000]
+[30Jun2025 21:05:17.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 781.500000, 65.500000, -1388.500000]
+[30Jun2025 21:06:31.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 728.500000, 56.500000, -1501.500000]
+[30Jun2025 21:06:40.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 708.500000, 50.500000, -1610.500000]
+[30Jun2025 21:06:54.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 62.500000, 53.500000, 400.500000]
+[30Jun2025 21:07:13.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hodlysw: Teleported Hodlysw to 107.500000, 32.500000, 489.500000]
+[30Jun2025 21:07:13.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [A Burning Arena]
+[30Jun2025 21:07:23.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Hodlysw]
+[30Jun2025 21:07:23.524] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 21:07:23.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [A Burning Arena]
+[30Jun2025 21:08:12.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hodlysw has made the advancement [The Imperfect thing]
+[30Jun2025 21:08:21.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 21:08:21.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 21:11:08.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 was slain by Ignis
+[30Jun2025 21:11:10.275] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[30Jun2025 21:11:12.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Hodlysw]
+[30Jun2025 21:11:13.061] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.

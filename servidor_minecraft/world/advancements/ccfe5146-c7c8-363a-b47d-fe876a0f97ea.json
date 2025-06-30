@@ -2463,7 +2463,8 @@
     "criteria": {
       "erupting_inferno": "2025-06-30 19:30:40 +0000",
       "crystalline_chasm": "2025-06-30 19:47:29 +0000",
-      "redwood_forest": "2025-06-30 19:27:49 +0000"
+      "redwood_forest": "2025-06-30 19:27:49 +0000",
+      "undergrowth": "2025-06-30 21:02:29 +0000"
     },
     "done": false
   },
@@ -2541,6 +2542,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-06-30 21:03:48 +0000",
       "minecraft:nether_wastes": "2025-06-30 19:30:25 +0000",
       "minecraft:soul_sand_valley": "2025-06-30 19:32:54 +0000"
     },
@@ -3002,9 +3004,45 @@
     },
     "done": true
   },
+  "morebows:recipes/iron_bow": {
+    "criteria": {
+      "has_bow": "2025-06-30 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-30 21:01:49 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/stone_bow": {
+    "criteria": {
+      "has_bow": "2025-06-30 21:01:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-30 20:58:01 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-06-30 21:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-30 21:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-30 21:00:21 +0000"
     },
     "done": true
   },
@@ -3020,9 +3058,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-30 21:00:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-06-30 21:04:28 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_fumarole": {
     "criteria": {
       "has_brimstone": "2025-06-30 20:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-30 21:01:23 +0000"
     },
     "done": true
   },
@@ -3038,6 +3094,18 @@
     },
     "done": true
   },
+  "morebows:recipes/gold_bow": {
+    "criteria": {
+      "has_bow": "2025-06-30 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/diamond_bow": {
+    "criteria": {
+      "has_bow": "2025-06-30 21:01:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_bud": {
     "criteria": {
       "has_brimstone": "2025-06-30 20:58:01 +0000"
@@ -3050,9 +3118,21 @@
     },
     "done": true
   },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-06-30 21:08:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-06-30 20:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-30 21:00:21 +0000"
     },
     "done": true
   },
