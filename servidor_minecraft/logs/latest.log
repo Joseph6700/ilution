@@ -562,3 +562,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [30Jun2025 05:11:34.857] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [30Jun2025 05:11:34.857] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [30Jun2025 05:11:34.857] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Jun2025 05:11:50.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> n
+[30Jun2025 05:11:53.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> EZ
+[30Jun2025 05:11:58.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> me voy a dormir vicioso
+[30Jun2025 05:12:00.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 lost connection: Disconnected
+[30Jun2025 05:12:00.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 left the game
+[30Jun2025 05:12:05.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Jun2025 05:12:05.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pero<--[HERE]
+[30Jun2025 05:14:56.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-691, y=73, z=291} BlockPos{x=-690, y=72, z=291}
+[30Jun2025 05:16:13.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-649, y=40, z=202} BlockPos{x=-648, y=40, z=201}
+[30Jun2025 05:16:13.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-649, y=39, z=202} BlockPos{x=-648, y=40, z=201}
+[30Jun2025 05:16:13.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-648, y=39, z=201} BlockPos{x=-648, y=40, z=201}
+[30Jun2025 05:16:13.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-648, y=39, z=201} BlockPos{x=-648, y=40, z=201}
+[30Jun2025 05:16:13.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-648, y=39, z=201} BlockPos{x=-648, y=40, z=201}
+[30Jun2025 05:16:13.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-648, y=39, z=201} BlockPos{x=-648, y=40, z=201}
+[30Jun2025 05:16:13.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-648, y=39, z=201} BlockPos{x=-648, y=40, z=201}
+[30Jun2025 05:16:28.429] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Jun2025 05:16:28.436] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
