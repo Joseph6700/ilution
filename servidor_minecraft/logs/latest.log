@@ -588,3 +588,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [01Jul2025 01:02:05.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs left the game
 [01Jul2025 01:02:07.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi lost connection: Disconnected
 [01Jul2025 01:02:07.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi left the game
+[01Jul2025 01:39:26.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:40555] logged in with entity id 16641 at (883.2805493932134, 132.0, 2961.8005713774555)
+[01Jul2025 01:39:26.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
+[01Jul2025 01:39:33.137] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[01Jul2025 01:40:53.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 889.500000, 177.500000, 2947.500000]
+[01Jul2025 01:47:16.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 6723.500000, 105.500000, 797.500000]
+[01Jul2025 01:48:57.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 8007.500000, 129.500000, 924.500000]
+[01Jul2025 01:50:46.238] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Valter'/20402, l='ServerLevel[world]', x=8439.43, y=112.00, z=1008.52] died, message: 'Valter was shot by Pillager'
+[01Jul2025 01:50:46.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Valter'/20402, l='ServerLevel[world]', x=8439.43, y=112.00, z=1008.52] died: Valter was shot by Pillager
+[01Jul2025 01:52:43.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8511, y=79, z=1010} BlockPos{x=8511, y=77, z=1009}
+[01Jul2025 01:54:06.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Voluntary Exile]
+[01Jul2025 01:55:39.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has completed the challenge [Hero of the Village]
+[01Jul2025 01:58:14.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Ghost Riders In The Sky]
