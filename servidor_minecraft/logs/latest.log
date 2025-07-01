@@ -646,3 +646,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [01Jul2025 23:06:00.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> q va
 [01Jul2025 23:06:01.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> eso es un hit?
 [01Jul2025 23:06:06.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to -1431.500000, 83.500000, -1980.500000]
+[01Jul2025 23:06:28.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> n
+[01Jul2025 23:06:31.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> es el aura
+[01Jul2025 23:06:35.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to SnVzk1]
+[01Jul2025 23:07:09.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> a
+[01Jul2025 23:07:17.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> para q quieres esas botas
+[01Jul2025 23:07:21.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> que asco
+[01Jul2025 23:07:28.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> estas loco
+[01Jul2025 23:07:30.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> crei que tenia algo mas interesanto
+[01Jul2025 23:07:42.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> no tienes idea de la importancia de los bolsos
+[01Jul2025 23:07:49.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> y ya tengo uno
+[01Jul2025 23:07:57.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> sabes cuantos tengo yo?
+[01Jul2025 23:08:01.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> 10'
+[01Jul2025 23:08:04.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> '
+[01Jul2025 23:08:07.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> ?
+[01Jul2025 23:08:13.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> 7
+[01Jul2025 23:08:18.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> y eso pa que
+[01Jul2025 23:08:28.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:60775] logged in with entity id 43317 at (11656.467526150736, 62.39691738493339, 689.352889215823)
+[01Jul2025 23:08:28.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
+[01Jul2025 23:08:29.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> para guardar absolutamente todo
+[01Jul2025 23:08:33.038] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[01Jul2025 23:08:35.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> los puedes mejorar
+[01Jul2025 23:08:46.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> jmm, por el momento no necesito uno, tengo una de oro
+[01Jul2025 23:08:53.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> pero pues te hare caso
+[01Jul2025 23:08:59.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> guardala gay
+[01Jul2025 23:10:24.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Ice Maze]
+[01Jul2025 23:10:28.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/44215, l='ServerLevel[world]', x=279.01, y=82.00, z=2221.92] died: Undead Knight was slain by SnVzk1
+[01Jul2025 23:10:32.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[01Jul2025 23:10:53.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[01Jul2025 23:11:04.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> ya vengo
+[01Jul2025 23:11:05.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SnVzk1 lost connection: Disconnected
+[01Jul2025 23:11:05.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 left the game
+[01Jul2025 23:11:36.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 887.500000, 177.500000, 2943.500000]
+[01Jul2025 23:13:15.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Almost Like a Fan]

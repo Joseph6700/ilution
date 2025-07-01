@@ -107,6 +107,7 @@
       "minecraft:lush_caves": "2025-06-29 23:35:20 +0000",
       "minecraft:deep_cold_ocean": "2025-06-28 23:36:36 +0000",
       "minecraft:desert": "2025-06-29 03:28:40 +0000",
+      "minecraft:deep_frozen_ocean": "2025-07-01 23:10:24 +0000",
       "minecraft:ocean": "2025-06-28 23:22:54 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-01 22:27:18 +0000",
       "minecraft:flower_forest": "2025-06-29 02:48:43 +0000",
@@ -5447,23 +5448,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "log_spam_fixer": "2025-07-01 22:53:10 +0000"
+      "traded": "2025-07-01 22:41:20 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 22:53:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 22:53:10 +0000"
-    },
-    "done": false
+    "done": true
   },
   "alexsmobs:alexsmobs/crimson_mosquito_larva": {
     "criteria": {
@@ -5471,69 +5460,51 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 22:53:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 22:53:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 22:53:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 22:53:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 22:53:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 22:53:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 22:53:10 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-07-01 22:41:20 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 22:53:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 22:53:10 +0000"
-    },
-    "done": false
-  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-07-01 22:43:31 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2025-07-01 23:13:11 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-07-01 23:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-07-01 23:13:05 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-07-01 23:10:24 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-07-01 23:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-01 23:13:05 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-07-01 23:13:15 +0000"
     },
     "done": true
   },
