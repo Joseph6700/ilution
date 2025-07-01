@@ -679,3 +679,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [01Jul2025 23:11:05.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 left the game
 [01Jul2025 23:11:36.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 887.500000, 177.500000, 2943.500000]
 [01Jul2025 23:13:15.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Almost Like a Fan]
+[01Jul2025 23:17:20.683] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[01Jul2025 23:18:49.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [The Light In The Darkness]
+[01Jul2025 23:23:43.524] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sophio'/48043, l='ServerLevel[world]', x=12235.92, y=80.00, z=1013.84] died, message: 'Sophio was shot by Pillager'
+[01Jul2025 23:23:46.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Saba'/48042, l='ServerLevel[world]', x=12249.47, y=68.00, z=1014.59] died, message: 'Saba was slain by Vindicator'
+[01Jul2025 23:24:27.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Exploration]
+[01Jul2025 23:24:57.626] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nino'/48044, l='ServerLevel[world]', x=12227.28, y=70.00, z=1016.50] died, message: 'Nino was shot by BruhYoichi'
+[01Jul2025 23:27:00.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to BruhYoichi]
+[01Jul2025 23:27:01.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Ice Maze]
+[01Jul2025 23:27:20.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi was kicked for floating too long!
+[01Jul2025 23:27:20.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi lost connection: Disconnected
+[01Jul2025 23:27:20.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi left the game
+[01Jul2025 23:27:21.017] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jul2025 23:27:21.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs was kicked for floating too long!
+[01Jul2025 23:27:21.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs lost connection: Flying is not enabled on this server
+[01Jul2025 23:27:21.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs left the game
+[01Jul2025 23:27:32.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:38975] logged in with entity id 56299 at (12229.875416005758, 66.66656462508057, 996.4634151874059)
+[01Jul2025 23:27:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
+[01Jul2025 23:27:35.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxisccs[/127.224.138.117:44979] logged in with entity id 56516 at (12225.510922560623, 66.69453494140062, 998.2951795369625)
+[01Jul2025 23:27:35.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs joined the game
+[01Jul2025 23:27:35.817] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[01Jul2025 23:27:40.089] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
