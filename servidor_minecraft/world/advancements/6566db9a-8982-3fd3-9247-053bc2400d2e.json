@@ -4992,87 +4992,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "simplyswords:sunfire": {
     "criteria": {
-      "log_spam_fixer": "2025-06-30 22:37:06 +0000"
+      "requirement": "2025-06-30 21:42:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-06-30 21:55:09 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-30 22:35:12 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:37:06 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/decorations/redwood_sign": {
-    "criteria": {
-      "has_planks": "2025-06-30 22:35:12 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-06-30 22:24:15 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-30 22:35:12 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:37:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:37:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:37:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:37:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:37:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:37:06 +0000"
-    },
-    "done": false
-  },
-  "simplyswords:sunfire": {
-    "criteria": {
-      "requirement": "2025-06-30 21:42:19 +0000"
     },
     "done": true
   },
@@ -5082,41 +5010,59 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/redwood_button": {
-    "criteria": {
-      "has_planks": "2025-06-30 22:35:12 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:37:06 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-06-30 22:01:11 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "log_spam_fixer": "2025-06-30 22:37:06 +0000"
+      "nether_wart": "2025-06-30 22:01:28 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-06-30 22:02:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-30 22:24:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-30 22:35:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2025-06-30 22:35:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-30 22:35:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-06-30 22:35:12 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/decorations/redwood_fence": {
     "criteria": {
       "has_planks": "2025-06-30 22:35:12 +0000"
     },
     "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:37:06 +0000"
-    },
-    "done": false
   },
   "biomesoplenty:recipes/redstone/redwood_door": {
     "criteria": {
@@ -5130,12 +5076,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:37:06 +0000"
-    },
-    "done": false
-  },
   "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-30 22:35:12 +0000"
@@ -5145,18 +5085,6 @@
   "biomesoplenty:recipes/building_blocks/redwood_stairs": {
     "criteria": {
       "has_planks": "2025-06-30 22:35:12 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/epic": {
-    "criteria": {
-      "sword": "2025-06-30 22:02:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "nether_wart": "2025-06-30 22:01:28 +0000"
     },
     "done": true
   },
