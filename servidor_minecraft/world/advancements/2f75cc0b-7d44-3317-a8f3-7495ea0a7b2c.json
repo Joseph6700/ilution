@@ -94,6 +94,8 @@
       "minecraft:deep_ocean": "2025-06-29 23:22:57 +0000",
       "minecraft:sunflower_plains": "2025-06-29 02:54:42 +0000",
       "minecraft:birch_forest": "2025-06-28 22:20:05 +0000",
+      "minecraft:wooded_badlands": "2025-07-01 22:56:57 +0000",
+      "minecraft:badlands": "2025-07-01 22:53:56 +0000",
       "minecraft:savanna_plateau": "2025-06-29 03:28:25 +0000",
       "minecraft:beach": "2025-06-28 23:02:13 +0000",
       "minecraft:dark_forest": "2025-06-28 22:22:50 +0000",
@@ -105,6 +107,7 @@
       "minecraft:forest": "2025-06-29 04:06:33 +0000",
       "minecraft:lush_caves": "2025-06-28 23:07:24 +0000",
       "minecraft:deep_cold_ocean": "2025-06-28 23:33:48 +0000",
+      "minecraft:desert": "2025-07-01 23:00:09 +0000",
       "minecraft:ocean": "2025-06-28 23:49:35 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-28 23:47:02 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-28 22:25:49 +0000",
@@ -1071,6 +1074,7 @@
       "shrubland": "2025-06-28 22:37:10 +0000",
       "rocky_shrubland": "2025-06-28 22:36:45 +0000",
       "scrubland": "2025-06-29 03:04:18 +0000",
+      "bayou": "2025-07-01 23:01:12 +0000",
       "erupting_inferno": "2025-06-29 03:32:10 +0000",
       "highland": "2025-06-29 04:57:36 +0000",
       "jacaranda_glade": "2025-06-29 04:16:59 +0000",
@@ -1085,7 +1089,9 @@
       "mediterranean_forest": "2025-06-28 23:02:45 +0000",
       "coniferous_forest": "2025-06-29 01:51:51 +0000",
       "spider_nest": "2025-06-28 22:38:09 +0000",
+      "dryland": "2025-07-01 22:53:36 +0000",
       "wasteland": "2025-06-29 03:17:24 +0000",
+      "lush_desert": "2025-07-01 22:53:54 +0000",
       "redwood_forest": "2025-06-28 22:37:58 +0000",
       "visceral_heap": "2025-06-30 00:53:31 +0000",
       "wasteland_steppe": "2025-06-29 03:18:53 +0000",
@@ -6085,9 +6091,21 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "alexsmobs:alexsmobs/guster": {
     "criteria": {
-      "requirement": "2025-07-01 22:41:54 +0000"
+      "killed_by": "2025-07-01 23:03:24 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-07-01 22:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-07-01 22:56:13 +0000"
     },
     "done": false
   },
