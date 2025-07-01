@@ -5539,9 +5539,39 @@
     },
     "done": true
   },
+  "aquamirae:recipes/sharp_bones": {
+    "criteria": {
+      "has_item": "2025-07-01 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-01 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-01 23:39:09 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/oxygen_tank": {
     "criteria": {
       "has_item": "2025-07-01 23:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-01 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_dagger_of_greed": {
+    "criteria": {
+      "dagger_of_greed": "2025-07-01 23:39:27 +0000"
     },
     "done": true
   },

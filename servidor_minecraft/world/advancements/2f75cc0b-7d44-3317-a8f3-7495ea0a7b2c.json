@@ -848,6 +848,7 @@
       "minecraft:creeper": "2025-06-29 04:11:15 +0000",
       "minecraft:wither": "2025-06-30 04:26:35 +0000",
       "minecraft:evoker": "2025-06-29 23:24:34 +0000",
+      "minecraft:slime": "2025-07-01 23:40:39 +0000",
       "minecraft:phantom": "2025-06-29 01:46:27 +0000",
       "minecraft:zombified_piglin": "2025-06-30 05:09:04 +0000",
       "minecraft:witch": "2025-07-01 22:20:33 +0000",
@@ -6128,6 +6129,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-01 23:40:37 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_fin": {
     "criteria": {
       "fin": "2025-07-01 23:29:32 +0000"
@@ -6143,6 +6150,12 @@
   "aquamirae:adventure/obtain_esca": {
     "criteria": {
       "esca": "2025-07-01 23:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-07-01 23:38:26 +0000"
     },
     "done": true
   },
@@ -6164,15 +6177,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-01 23:38:26 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/fin": {
     "criteria": {
       "has_item": "2025-07-01 23:29:32 +0000"
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_rune_of_the_storm": {
+    "criteria": {
+      "rune_of_the_storm": "2025-07-01 23:46:39 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/sea_stew": {
+    "criteria": {
+      "has_item": "2025-07-01 23:46:06 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/ship_graveyard_echo": {
     "criteria": {
       "has_item": "2025-07-01 23:29:50 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_dagger_of_greed": {
+    "criteria": {
+      "dagger_of_greed": "2025-07-01 23:38:33 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/astral_dust": {
+    "criteria": {
+      "has_item": "2025-07-01 23:46:41 +0000"
     },
     "done": true
   },
