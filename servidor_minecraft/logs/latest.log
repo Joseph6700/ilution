@@ -547,3 +547,51 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [01Jul2025 21:28:27.891] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
 [01Jul2025 21:29:35.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
 [01Jul2025 21:31:17.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 4633.500000, -19.500000, -3175.500000]
+[01Jul2025 21:37:06.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Joan the Not Very Nice'/10740, l='ServerLevel[world]', x=4620.69, y=-49.00, z=-2725.43] died: Joan the Not Very Nice was slain by CarlitosBot1
+[01Jul2025 21:38:00.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxisccs[/127.224.138.117:51909] logged in with entity id 11486 at (883.9545923456345, 132.0, 2966.967334473716)
+[01Jul2025 21:38:01.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs joined the game
+[01Jul2025 21:38:12.633] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[01Jul2025 21:38:29.507] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4262, y=-32, z=-2686}
+[01Jul2025 21:38:29.741] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4270, y=-24, z=-2691}
+[01Jul2025 21:38:31.713] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4254, y=-34, z=-2681}
+[01Jul2025 21:38:36.948] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4239, y=-32, z=-2618}
+[01Jul2025 21:38:36.948] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4239, y=-32, z=-2620}
+[01Jul2025 21:38:36.949] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4239, y=-32, z=-2622}
+[01Jul2025 21:38:37.269] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4231, y=-34, z=-2653}
+[01Jul2025 21:38:37.270] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4235, y=-34, z=-2653}
+[01Jul2025 21:38:37.270] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4235, y=-33, z=-2649}
+[01Jul2025 21:39:00.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> vente al vc
+[01Jul2025 21:39:05.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> no puedo :v
+[01Jul2025 21:39:09.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> pq w
+[01Jul2025 21:39:12.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> horita
+[01Jul2025 21:39:24.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> dl
+[01Jul2025 21:39:44.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2505.500000]
+[01Jul2025 21:40:18.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 lost connection: Disconnected
+[01Jul2025 21:40:18.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 left the game
+[01Jul2025 21:40:24.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 887.500000, 177.500000, 2943.500000]
+[01Jul2025 21:40:47.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to -1431.500000, 83.500000, -1980.500000]
+[01Jul2025 21:46:49.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:46001] logged in with entity id 16811 at (9285.485114162993, 66.0, 1625.6005406301142)
+[01Jul2025 21:46:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
+[01Jul2025 21:47:00.658] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[01Jul2025 21:53:07.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Rocks Off!]
+[01Jul2025 21:56:58.957] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Chancellor Edward the Extra-Fishy'/21383, l='ServerLevel[world]', x=9352.70, y=39.00, z=1623.60] died: Chancellor Edward the Extra-Fishy was shot by BruhYoichi
+[01Jul2025 21:57:44.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Ancient Civilization]
+[01Jul2025 21:57:48.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to Maxisccs]
+[01Jul2025 21:57:49.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Ancient Civilization]
+[01Jul2025 22:01:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has completed the challenge [The Thing of Ancient Civilization]
+[01Jul2025 22:11:00.253] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Mr. Pigald'/25786, l='ServerLevel[world]', x=-1566.70, y=-16.00, z=-1551.70] died: Mr. Pigald was slain by Maxisccs
+[01Jul2025 22:11:25.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Maxisccs: sos gay
+[01Jul2025 22:12:13.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Maxisccs: maxi
+[01Jul2025 22:12:17.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> q
+[01Jul2025 22:12:22.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Maxisccs: qn soy :v
+[01Jul2025 22:12:27.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> carlitos seguramente
+[01Jul2025 22:12:37.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Maxisccs: soy herobrine
+[01Jul2025 22:12:43.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> sisi claro
+[01Jul2025 22:12:56.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Maxisccs: volvere algun dia
+[01Jul2025 22:13:01.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> ok
+[01Jul2025 22:13:05.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Maxisccs: asustarte
+[01Jul2025 22:13:17.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> aja
+[01Jul2025 22:13:26.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Maxisccs: y esta es una de las pruebas
+[01Jul2025 22:13:41.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> yaya mijo ya
+[01Jul2025 22:14:14.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jul2025 22:14:14.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: spawn warden Maxisccs<--[HERE]
