@@ -5008,3 +5008,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [01Jul2025 00:26:02.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4839ms or 96 ticks behind
 [01Jul2025 00:26:21.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3992ms or 79 ticks behind
 [01Jul2025 00:26:41.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4620ms or 92 ticks behind
+[01Jul2025 00:27:02.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6001ms or 120 ticks behind
+[01Jul2025 00:27:22.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5492ms or 109 ticks behind
+[01Jul2025 00:27:41.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4496ms or 89 ticks behind
+[01Jul2025 00:28:01.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4674ms or 93 ticks behind
+[01Jul2025 00:28:04.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[01Jul2025 00:28:05.134] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[01Jul2025 00:28:13.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to BruhYoichi]
+[01Jul2025 00:28:30.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 882.500000, 132.500000, 2966.500000]
+[01Jul2025 00:28:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to BruhYoichi]
+[01Jul2025 00:29:17.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 00:29:17.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 00:31:05.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 889.500000, 177.500000, 2947.500000]
+[01Jul2025 00:31:15.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 887.500000, 177.500000, 2943.500000]
+[01Jul2025 00:31:43.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 882.500000, 132.500000, 2966.500000]
+[01Jul2025 00:32:28.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [What a Handful]
+[01Jul2025 00:32:34.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to Maxisccs]
+[01Jul2025 00:33:36.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Set own game mode to Creative Mode]
+[01Jul2025 00:33:46.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> DASHASDFJJDFAS
+[01Jul2025 00:34:04.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> DJSAFJASFJASJFJSAFS
+[01Jul2025 00:34:17.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 00:34:17.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 00:34:46.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Set own game mode to Survival Mode]
+[01Jul2025 00:35:54.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 lost connection: Disconnected
+[01Jul2025 00:35:54.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 left the game
+[01Jul2025 00:36:08.166] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming com/mrcrayfish/goblintraders/Hooks
+[01Jul2025 00:36:08.167] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
