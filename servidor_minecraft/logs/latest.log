@@ -551,3 +551,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [01Jul2025 17:39:08.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 fell from a high place
 [01Jul2025 17:39:10.897] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
 [01Jul2025 17:41:23.108] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
+[01Jul2025 17:43:20.911] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Tyrael'/8037, l='ServerLevel[world]', x=81.96, y=58.00, z=343.95] died: Tyrael was slain by SnVzk1
+[01Jul2025 17:44:24.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Those Were the Days]
+[01Jul2025 17:46:24.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [War Pigs]
+[01Jul2025 17:49:37.261] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
