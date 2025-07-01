@@ -6092,35 +6092,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "log_spam_fixer": "2025-07-01 23:26:32 +0000"
+      "has_sherd": "2025-07-01 22:56:13 +0000"
     },
     "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 23:26:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 23:26:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 23:26:32 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2025-07-01 23:03:24 +0000"
-    },
-    "done": true
   },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
@@ -6128,17 +6104,11 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "alexsmobs:alexsmobs/guster": {
     "criteria": {
-      "log_spam_fixer": "2025-07-01 23:26:32 +0000"
+      "killed_by": "2025-07-01 23:03:24 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 23:26:32 +0000"
-    },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
@@ -6146,53 +6116,65 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 23:26:32 +0000"
-    },
-    "done": false
-  },
   "aquamirae:adventure/find_ice_maze": {
     "criteria": {
       "deep_frozen_ocean": "2025-07-01 23:27:01 +0000"
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "aquamirae:recipes/abyssal_amethyst": {
     "criteria": {
-      "log_spam_fixer": "2025-07-01 23:26:32 +0000"
+      "has_item": "2025-07-01 23:33:11 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "aquamirae:adventure/obtain_fin": {
     "criteria": {
-      "log_spam_fixer": "2025-07-01 23:26:32 +0000"
+      "fin": "2025-07-01 23:29:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "aquamirae:recipes/esca": {
     "criteria": {
-      "log_spam_fixer": "2025-07-01 23:26:32 +0000"
+      "has_item": "2025-07-01 23:29:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "aquamirae:adventure/obtain_esca": {
     "criteria": {
-      "log_spam_fixer": "2025-07-01 23:26:32 +0000"
+      "esca": "2025-07-01 23:29:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "aquamirae:adventure/obtain_frozen_key": {
     "criteria": {
-      "log_spam_fixer": "2025-07-01 23:26:32 +0000"
+      "frozen_key": "2025-07-01 23:29:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
+  "aquamirae:adventure/obtain_anglers_fang": {
     "criteria": {
-      "has_sherd": "2025-07-01 22:56:13 +0000"
+      "anglers_fang": "2025-07-01 23:32:04 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2025-07-01 23:32:04 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-07-01 23:29:32 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/ship_graveyard_echo": {
+    "criteria": {
+      "has_item": "2025-07-01 23:29:50 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

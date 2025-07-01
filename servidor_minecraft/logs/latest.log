@@ -700,3 +700,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [01Jul2025 23:27:35.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs joined the game
 [01Jul2025 23:27:35.817] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
 [01Jul2025 23:27:40.089] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[01Jul2025 23:28:02.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi was kicked for floating too long!
+[01Jul2025 23:28:02.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi lost connection: Flying is not enabled on this server
+[01Jul2025 23:28:02.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi left the game
+[01Jul2025 23:28:03.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs was kicked for floating too long!
+[01Jul2025 23:28:03.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs lost connection: Flying is not enabled on this server
+[01Jul2025 23:28:03.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs left the game
+[01Jul2025 23:28:12.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:40141] logged in with entity id 56568 at (12231.067690055961, 67.22284499597549, 995.1364872980962)
+[01Jul2025 23:28:12.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
+[01Jul2025 23:28:13.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxisccs[/127.224.138.117:60729] logged in with entity id 56821 at (12235.303017436556, 67.85181296921448, 997.6266552886071)
+[01Jul2025 23:28:13.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs joined the game
+[01Jul2025 23:28:15.471] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[01Jul2025 23:28:18.446] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[01Jul2025 23:29:32.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Almost Like a Fan]
+[01Jul2025 23:29:32.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [The Light In The Darkness]
+[01Jul2025 23:29:50.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has completed the challenge [The Dead Sea]
+[01Jul2025 23:32:04.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Perfect Instance]
+[01Jul2025 23:34:41.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 11808.500000, 76.000000, 1504.500000]
+[01Jul2025 23:34:41.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5962ms or 119 ticks behind
+[01Jul2025 23:34:41.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 11808.500000, 76.000000, 1504.500000]
+[01Jul2025 23:34:58.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to Maxisccs]
+[01Jul2025 23:35:06.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs moved too quickly! -9.406082016048458,0.37673561378172593,-4.074690314820373
+[01Jul2025 23:35:06.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7174ms or 143 ticks behind
+[01Jul2025 23:36:28.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to BruhYoichi]
+[01Jul2025 23:36:51.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs was killed by magic
+[01Jul2025 23:36:53.251] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[01Jul2025 23:36:57.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 11789.500000, -8.500000, 1514.500000]
+[01Jul2025 23:37:04.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs was killed by magic
+[01Jul2025 23:37:06.226] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[01Jul2025 23:37:09.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 11785.500000, -9.500000, 1513.500000]
