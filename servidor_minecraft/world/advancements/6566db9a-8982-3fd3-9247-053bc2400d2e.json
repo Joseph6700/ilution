@@ -90,22 +90,27 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mushroom_fields": "2025-06-28 23:25:23 +0000",
+      "minecraft:taiga": "2025-07-01 22:22:06 +0000",
       "minecraft:deep_ocean": "2025-06-28 23:23:11 +0000",
       "minecraft:eroded_badlands": "2025-06-29 03:29:57 +0000",
       "minecraft:sunflower_plains": "2025-06-29 02:54:46 +0000",
       "minecraft:birch_forest": "2025-06-28 22:26:42 +0000",
       "minecraft:badlands": "2025-06-29 03:28:42 +0000",
       "minecraft:beach": "2025-06-29 03:12:56 +0000",
+      "minecraft:dark_forest": "2025-07-01 22:20:52 +0000",
       "minecraft:river": "2025-06-28 22:51:53 +0000",
       "minecraft:lukewarm_ocean": "2025-06-29 03:26:42 +0000",
       "minecraft:stony_shore": "2025-06-28 23:55:59 +0000",
+      "minecraft:jagged_peaks": "2025-07-01 22:23:27 +0000",
       "minecraft:cold_ocean": "2025-06-28 23:42:44 +0000",
       "minecraft:forest": "2025-06-28 22:30:17 +0000",
       "minecraft:lush_caves": "2025-06-29 23:35:20 +0000",
       "minecraft:deep_cold_ocean": "2025-06-28 23:36:36 +0000",
       "minecraft:desert": "2025-06-29 03:28:40 +0000",
       "minecraft:ocean": "2025-06-28 23:22:54 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-01 22:27:18 +0000",
       "minecraft:flower_forest": "2025-06-29 02:48:43 +0000",
+      "minecraft:frozen_peaks": "2025-07-01 22:22:15 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-29 23:16:51 +0000",
       "minecraft:deep_dark": "2025-06-30 01:52:21 +0000",
       "minecraft:savanna": "2025-06-29 03:28:15 +0000",
@@ -5244,6 +5249,72 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-07-01 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-07-01 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-01 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-01 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-01 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-07-01 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-01 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-07-01 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-01 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-01 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-07-01 21:57:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-07-01 22:06:13 +0000"
@@ -5253,12 +5324,6 @@
   "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-01 22:06:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
-    "criteria": {
-      "has_quartz_block": "2025-07-01 21:51:22 +0000"
     },
     "done": true
   },
@@ -5298,12 +5363,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2025-07-01 21:51:22 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-01 22:06:13 +0000"
@@ -5313,18 +5372,6 @@
   "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-01 22:06:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-07-01 21:51:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-07-01 21:51:22 +0000"
     },
     "done": true
   },
@@ -5364,51 +5411,9 @@
     },
     "done": true
   },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2025-07-01 21:57:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-07-01 21:51:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_block": "2025-07-01 21:51:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-07-01 21:51:22 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-01 22:06:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2025-07-01 21:51:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-07-01 21:51:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-07-01 21:51:22 +0000"
     },
     "done": true
   },
@@ -5439,6 +5444,18 @@
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-07-01 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-07-01 22:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-01 22:41:20 +0000"
     },
     "done": true
   },

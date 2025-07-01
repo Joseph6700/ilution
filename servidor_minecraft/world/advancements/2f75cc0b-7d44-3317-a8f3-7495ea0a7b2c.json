@@ -846,6 +846,7 @@
       "minecraft:evoker": "2025-06-29 23:24:34 +0000",
       "minecraft:phantom": "2025-06-29 01:46:27 +0000",
       "minecraft:zombified_piglin": "2025-06-30 05:09:04 +0000",
+      "minecraft:witch": "2025-07-01 22:20:33 +0000",
       "minecraft:wither_skeleton": "2025-06-29 01:46:43 +0000",
       "minecraft:husk": "2025-06-28 22:51:26 +0000",
       "minecraft:cave_spider": "2025-06-29 02:09:22 +0000",
@@ -5958,6 +5959,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-07-01 21:53:07 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-07-01 21:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-07-01 21:59:28 +0000"
@@ -5967,12 +5980,6 @@
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2025-07-01 21:59:28 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_harbinger": {
-    "criteria": {
-      "theharbinger": "2025-07-01 22:01:28 +0000"
     },
     "done": true
   },
@@ -6018,29 +6025,11 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rocky_shell": {
-    "criteria": {
-      "soul_heart": "2025-07-01 21:53:07 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2025-07-01 21:57:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-01 21:59:28 +0000"
     },
     "done": true
-  },
-  "cataclysm:kill_all_bosses": {
-    "criteria": {
-      "cataclysm:the_harbinger": "2025-07-01 22:01:28 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
@@ -6060,21 +6049,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2025-07-01 21:59:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-01 21:59:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-07-01 22:03:40 +0000"
     },
     "done": true
   },
@@ -6083,6 +6060,36 @@
       "has_polished_deepslate": "2025-07-01 21:59:28 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-07-01 21:59:41 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-07-01 22:01:28 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:the_harbinger": "2025-07-01 22:01:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-07-01 22:03:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-01 22:41:54 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

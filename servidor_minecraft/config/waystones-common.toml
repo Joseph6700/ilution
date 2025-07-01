@@ -1,4 +1,14 @@
 
+[compatibility]
+	#If enabled, JourneyMap waypoints will be created for each activated waystone.
+	displayWaystonesOnJourneyMap = true
+	#If enabled, JourneyMap waypoints will only be created if the mod 'JourneyMap Integration' is not installed
+	preferJourneyMapIntegration = true
+
+[client]
+	#If enabled, the text overlay on waystones will no longer always render at full brightness.
+	disableTextGlow = false
+
 [inventoryButton]
 	#Set to 'NONE' for no inventory button. Set to 'NEAREST' for an inventory button that teleports to the nearest waystone. Set to 'ANY' for an inventory button that opens the waystone selection menu. Set to a waystone name for an inventory button that teleports to a specifically named waystone.
 	inventoryButton = ""
@@ -70,10 +80,6 @@
 	#Set to false to allow non-creative players to make waystones globally activated for all players.
 	globalWaystoneSetupRequiresCreativeMode = true
 
-[client]
-	#If enabled, the text overlay on waystones will no longer always render at full brightness.
-	disableTextGlow = false
-
 [xpCost]
 	#Set to true if experience cost should be inverted, meaning the shorter the distance, the more expensive. Can be used to encourage other methods for short-distance travel.
 	inverseXpCost = false
@@ -101,10 +107,4 @@
 	warpPlateXpCostMultiplier = 0.0
 	#The multiplier applied to the base xp cost when teleporting via the inventory button.
 	inventoryButtonXpCostMultiplier = 0.0
-
-[compatibility]
-	#If enabled, JourneyMap waypoints will be created for each activated waystone.
-	displayWaystonesOnJourneyMap = true
-	#If enabled, JourneyMap waypoints will only be created if the mod 'JourneyMap Integration' is not installed
-	preferJourneyMapIntegration = true
 
