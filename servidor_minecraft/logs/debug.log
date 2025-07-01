@@ -5046,3 +5046,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [01Jul2025 00:49:55.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has reached the goal [Flawless Crystals]
 [01Jul2025 00:54:17.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jul2025 00:54:17.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 00:59:17.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 00:59:17.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 01:02:05.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs lost connection: Disconnected
+[01Jul2025 01:02:05.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs left the game
+[01Jul2025 01:02:07.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi lost connection: Disconnected
+[01Jul2025 01:02:07.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi left the game
+[01Jul2025 01:04:17.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 01:04:17.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

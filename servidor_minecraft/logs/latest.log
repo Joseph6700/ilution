@@ -584,3 +584,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [01Jul2025 00:40:57.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 885.500000, 132.500000, 2967.500000]
 [01Jul2025 00:44:55.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 882.500000, 132.500000, 2966.500000]
 [01Jul2025 00:49:55.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has reached the goal [Flawless Crystals]
+[01Jul2025 01:02:05.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs lost connection: Disconnected
+[01Jul2025 01:02:05.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs left the game
+[01Jul2025 01:02:07.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi lost connection: Disconnected
+[01Jul2025 01:02:07.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi left the game
