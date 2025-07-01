@@ -600,3 +600,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [01Jul2025 01:54:06.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Voluntary Exile]
 [01Jul2025 01:55:39.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has completed the challenge [Hero of the Village]
 [01Jul2025 01:58:14.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Ghost Riders In The Sky]
+[01Jul2025 02:10:35.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi was kicked for floating too long!
+[01Jul2025 02:10:35.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi lost connection: Disconnected
+[01Jul2025 02:10:35.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi left the game
+[01Jul2025 02:10:35.672] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jul2025 02:10:47.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:42115] logged in with entity id 25922 at (8653.208642081026, 82.15987118366257, 1059.9175684255847)
+[01Jul2025 02:10:47.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
+[01Jul2025 02:10:50.214] [Server thread/ERROR] [placebo/]: ##############################
+[01Jul2025 02:10:50.215] [Server thread/ERROR] [placebo/]: A Block apotheosis:boss_spawner with BlockEntityType minecraft:chest has subscribed as a TickingEntityBlock but is not using TickingBlockEntityType!
+[01Jul2025 02:10:50.215] [Server thread/ERROR] [placebo/]: ##############################
+[01Jul2025 02:10:54.140] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[01Jul2025 02:16:12.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Duchess Ediovany the Wise'/28629, l='ServerLevel[world]', x=9019.51, y=120.00, z=1348.85] died: Duchess Ediovany the Wise was shot by BruhYoichi
+[01Jul2025 02:19:27.935] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Vice-Chancellor Vinny the Light'/30260, l='ServerLevel[world]', x=9307.30, y=131.00, z=1665.40] died: Vice-Chancellor Vinny the Light was shot by BruhYoichi
+[01Jul2025 02:25:19.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi lost connection: Disconnected
+[01Jul2025 02:25:19.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi left the game
