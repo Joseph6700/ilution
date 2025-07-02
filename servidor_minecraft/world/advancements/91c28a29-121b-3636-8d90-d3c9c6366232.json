@@ -5185,6 +5185,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-07-02 02:14:26 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-07-02 01:47:26 +0000"
