@@ -91,6 +91,7 @@
       "minecraft:birch_forest": "2025-06-30 02:51:34 +0000",
       "minecraft:dark_forest": "2025-06-30 02:59:11 +0000",
       "minecraft:river": "2025-06-30 03:12:06 +0000",
+      "minecraft:stony_shore": "2025-07-02 00:39:00 +0000",
       "minecraft:dripstone_caves": "2025-06-30 03:05:56 +0000",
       "minecraft:forest": "2025-06-30 03:12:31 +0000"
     },
@@ -803,6 +804,7 @@
       "shrubland": "2025-07-01 23:02:51 +0000",
       "erupting_inferno": "2025-07-01 17:44:07 +0000",
       "highland": "2025-07-01 22:59:22 +0000",
+      "jade_cliffs": "2025-07-02 00:39:55 +0000",
       "mystic_grove": "2025-07-01 22:57:50 +0000",
       "field": "2025-06-30 20:02:02 +0000",
       "overgrown_greens": "2025-06-30 19:15:55 +0000",
@@ -2833,78 +2835,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "log_spam_fixer": "2025-07-01 23:10:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-01 23:10:29 +0000",
-      "log_spam_fixer": "2025-07-01 23:10:29 +0000"
+      "has_carrot": "2025-07-01 22:50:31 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "graveyard:graveyard/corruption": {
     "criteria": {
-      "log_spam_fixer": "2025-07-01 23:10:29 +0000"
+      "corruption": "2025-07-01 22:58:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "log_spam_fixer": "2025-07-01 23:10:29 +0000"
+      "obsidian": "2025-07-01 23:00:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "log_spam_fixer": "2025-07-01 23:10:29 +0000"
+      "has_obsidian": "2025-07-01 23:00:30 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 23:10:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 23:10:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 23:10:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 23:10:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 23:10:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 23:10:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 23:10:29 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
@@ -2915,18 +2868,6 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-07-01 23:01:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-07-01 23:00:30 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/corruption": {
-    "criteria": {
-      "corruption": "2025-07-01 22:58:59 +0000"
     },
     "done": true
   },
@@ -2942,15 +2883,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "graveyard:graveyard/kill_while_blinded": {
     "criteria": {
-      "has_carrot": "2025-07-01 22:50:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-07-01 23:00:30 +0000"
+      "kill_while_blinded": "2025-07-02 00:37:27 +0000"
     },
     "done": true
   },

@@ -12,3 +12,18 @@
 [02Jul2025 00:23:59.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs left the game
 [02Jul2025 00:24:26.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi lost connection: Disconnected
 [02Jul2025 00:24:26.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi left the game
+[02Jul2025 00:32:55.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxisccs[/127.224.138.117:50919] logged in with entity id 109971 at (885.8500987434381, 178.0, 2940.699999988079)
+[02Jul2025 00:32:55.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs joined the game
+[02Jul2025 00:33:11.818] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[02Jul2025 00:36:30.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SnVzk1[/127.250.65.164:42225] logged in with entity id 110504 at (284.20969639073394, 90.0, 2189.4253283632293)
+[02Jul2025 00:36:30.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 joined the game
+[02Jul2025 00:36:36.914] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
+[02Jul2025 00:36:46.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> oye hijo
+[02Jul2025 00:36:48.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> que te pasa
+[02Jul2025 00:36:57.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> maxisc
+[02Jul2025 00:36:59.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> que te pasa
+[02Jul2025 00:37:01.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> eh
+[02Jul2025 00:37:27.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Peekaboo, I (still) see you!]
+[02Jul2025 00:38:34.423] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Major Arthur the Son of Herobrine'/111296, l='ServerLevel[world]', x=341.49, y=112.00, z=2018.77] died: Major Arthur the Son of Herobrine was slain by SnVzk1
+[02Jul2025 00:38:44.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=345, y=112, z=2012} BlockPos{x=345, y=110, z=2012}
+[02Jul2025 00:38:44.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=345, y=112, z=2012} BlockPos{x=345, y=110, z=2012}
