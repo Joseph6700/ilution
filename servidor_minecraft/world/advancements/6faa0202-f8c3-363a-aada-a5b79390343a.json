@@ -6934,6 +6934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-02 18:19:09 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ender_guardian": {
     "criteria": {
       "enderguardian": "2025-07-02 18:07:12 +0000"
@@ -6946,9 +6952,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-02 18:19:08 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_rider": {
     "criteria": {
       "location0": "2025-07-02 18:12:43 +0000"
+    },
+    "done": true
+  },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2025-07-02 18:23:30 +0000"
     },
     "done": true
   },
