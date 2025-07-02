@@ -1974,3 +1974,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 01:49:59.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
 [02Jul2025 01:49:59.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Three Little Birds]
 [02Jul2025 01:50:15.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 01:50:16.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Three Little Birds]
+[02Jul2025 01:51:26.467] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
+[02Jul2025 01:53:53.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Ol' Betsy]
+[02Jul2025 01:54:56.544] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 01:56:42.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved wrongly!
+[02Jul2025 01:56:47.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi moved too quickly! 7.425217801894178,0.0,15.610367039522544
+[02Jul2025 01:57:32.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 lost connection: Disconnected
+[02Jul2025 01:57:32.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 left the game
+[02Jul2025 01:57:37.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no
+[02Jul2025 01:57:39.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs lost connection: Disconnected
+[02Jul2025 01:57:39.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs left the game
+[02Jul2025 01:58:25.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Weird Fishes/Arpeggi]
+[02Jul2025 01:58:48.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ok
