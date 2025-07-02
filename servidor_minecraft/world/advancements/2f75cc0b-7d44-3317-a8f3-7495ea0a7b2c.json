@@ -6085,6 +6085,7 @@
   },
   "cataclysm:kill_all_bosses": {
     "criteria": {
+      "cataclysm:ender_guardian": "2025-07-02 01:35:33 +0000",
       "cataclysm:the_harbinger": "2025-07-01 22:01:28 +0000"
     },
     "done": false
@@ -6293,6 +6294,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-07-02 01:35:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-07-02 01:24:47 +0000"
@@ -6386,6 +6393,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-07-02 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-07-02 01:41:33 +0000"
     },
     "done": true
   },

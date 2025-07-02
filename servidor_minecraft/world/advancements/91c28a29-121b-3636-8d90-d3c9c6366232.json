@@ -4998,112 +4998,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "sereneseasons:recipes/tools/calendar": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 01:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-02 01:35:13 +0000",
-      "log_spam_fixer": "2025-07-02 01:35:13 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:35:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-02 01:10:24 +0000"
-    },
-    "done": true
-  },
-  "ragnagoblin:end/interact_with_goblin": {
-    "criteria": {
-      "interact_with_goblin": "2025-07-02 01:20:08 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/enderiophage": {
-    "criteria": {
-      "killed_by": "2025-07-02 01:15:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-02 01:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
-    "criteria": {
-      "has_chiseled_red_sandstone": "2025-07-02 01:03:25 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/ender_flu": {
-    "criteria": {
-      "all_effects": "2025-07-02 01:28:04 +0000"
+      "has_clock": "2025-07-02 01:03:14 +0000"
     },
     "done": true
   },
@@ -5113,99 +5010,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/capsid": {
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
-      "capsid": "2025-07-02 01:15:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
-    "criteria": {
-      "has_cut_red_sandstone": "2025-07-02 01:03:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-02 01:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-02 01:10:24 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
-    "criteria": {
-      "has_dragon_breath": "2025-07-02 01:09:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-02 01:03:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_red_sandstone": "2025-07-02 01:03:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-07-02 01:07:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-07-02 01:10:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2025-07-02 01:11:53 +0000"
-    },
-    "done": true
-  },
-  "sereneseasons:recipes/tools/calendar": {
-    "criteria": {
-      "has_clock": "2025-07-02 01:03:14 +0000"
-    },
-    "done": true
-  },
-  "mofus_better_end_:clock_tower_advancement": {
-    "criteria": {
-      "clock_tower_advancement_0": "2025-07-02 01:29:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-07-02 01:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2025-07-02 01:09:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-02 01:10:24 +0000"
-    },
-    "done": true
-  },
-  "mofus_better_end_:endermite_mound_advancement": {
-    "criteria": {
-      "endermite_mound_advancement_0": "2025-07-02 01:18:21 +0000"
+      "has_chiseled_red_sandstone": "2025-07-02 01:03:25 +0000"
     },
     "done": true
   },
@@ -5221,6 +5028,72 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-02 01:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-07-02 01:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-07-02 01:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-07-02 01:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-07-02 01:07:37 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_dragon_breath": "2025-07-02 01:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-07-02 01:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-02 01:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-02 01:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-07-02 01:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-02 01:10:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-07-02 01:10:24 +0000"
@@ -5233,9 +5106,21 @@
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "entered_end": "2025-07-02 01:07:37 +0000"
+      "killed_dragon": "2025-07-02 01:11:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-07-02 01:15:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-07-02 01:15:49 +0000"
     },
     "done": true
   },
@@ -5243,6 +5128,36 @@
     "criteria": {
       "moss_plains_achievement_1": "2025-07-02 01:18:15 +0000",
       "moss_plains_achievement_0": "2025-07-02 01:18:22 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:endermite_mound_advancement": {
+    "criteria": {
+      "endermite_mound_advancement_0": "2025-07-02 01:18:21 +0000"
+    },
+    "done": true
+  },
+  "ragnagoblin:end/interact_with_goblin": {
+    "criteria": {
+      "interact_with_goblin": "2025-07-02 01:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-02 01:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-02 01:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-07-02 01:22:16 +0000"
     },
     "done": true
   },
@@ -5255,6 +5170,66 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-07-02 01:22:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-07-02 01:28:04 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:clock_tower_advancement": {
+    "criteria": {
+      "clock_tower_advancement_0": "2025-07-02 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-02 01:50:12 +0000"
+    },
+    "done": false
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-07-02 01:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-07-02 01:47:27 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-07-02 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-02 01:47:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-07-02 01:47:26 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-07-02 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-02 01:47:26 +0000"
     },
     "done": true
   },

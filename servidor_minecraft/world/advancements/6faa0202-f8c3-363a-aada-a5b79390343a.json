@@ -732,7 +732,8 @@
       "potato": "2025-06-30 22:34:15 +0000",
       "pumpkin_pie": "2025-07-01 21:18:11 +0000",
       "bread": "2025-06-29 00:04:36 +0000",
-      "golden_apple": "2025-06-29 03:38:36 +0000"
+      "golden_apple": "2025-06-29 03:38:36 +0000",
+      "golden_carrot": "2025-07-02 01:49:59 +0000"
     },
     "done": false
   },
@@ -6190,6 +6191,18 @@
     },
     "done": true
   },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-07-02 01:49:54 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:end/obsidilith_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:obsidilith": "2025-07-02 01:46:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-07-02 01:07:02 +0000"
@@ -6284,6 +6297,12 @@
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-07-02 01:24:41 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:end_labyrinth_advancement": {
+    "criteria": {
+      "end_labyrinth_advancement_0": "2025-07-02 01:43:12 +0000"
     },
     "done": true
   },
