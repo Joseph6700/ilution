@@ -6385,15 +6385,93 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-07-02 03:18:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-02 03:08:26 +0000"
     },
     "done": true
   },
+  "mofus_better_end_:mechanical_fosend_eye_advancement": {
+    "criteria": {
+      "mechanical_fosend_eye_advancement_0": "2025-07-02 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-07-02 03:18:40 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-07-02 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-07-02 03:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-02 03:18:40 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:end_warrior_armor_advancement": {
+    "criteria": {
+      "end_warrior_armor_advancement_3": "2025-07-02 03:25:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-02 03:18:40 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:mechanical_core_advancement": {
+    "criteria": {
+      "mechanical_core_advancement_0": "2025-07-02 03:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-07-02 03:18:40 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:clock_tower_advancement": {
+    "criteria": {
+      "clock_tower_advancement_0": "2025-07-02 03:22:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-07-02 03:08:26 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:void_book_advancement": {
+    "criteria": {
+      "void_book_advancement_0": "2025-07-02 03:44:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-02 03:18:40 +0000"
     },
     "done": true
   },

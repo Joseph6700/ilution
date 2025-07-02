@@ -903,3 +903,175 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 03:20:36.524] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
 [02Jul2025 03:20:46.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> guardame
 [02Jul2025 03:20:48.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ya voy
+[02Jul2025 03:22:07.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[02Jul2025 03:22:15.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> voy?
+[02Jul2025 03:22:22.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[02Jul2025 03:22:23.601] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 03:22:23.615] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CDataParameter
+[02Jul2025 03:22:23.615] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[02Jul2025 03:22:23.616] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[02Jul2025 03:22:23.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
+[02Jul2025 03:22:29.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Thats a really big tower..]
+[02Jul2025 03:22:42.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 03:22:43.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Thats a really big tower..]
+[02Jul2025 03:23:35.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:38.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:38.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:39.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:39.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:40.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:48.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:49.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:49.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:51.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:52.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:52.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:52.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:53.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:53.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:53.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 03:23:53.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[02Jul2025 03:24:17.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> me tepo
+[02Jul2025 03:24:26.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> voy maxi
+[02Jul2025 03:24:27.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> tp
+[02Jul2025 03:25:16.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[02Jul2025 03:25:43.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> tenia 4 cabezas del wither
+[02Jul2025 03:25:48.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q las hice :C
+[02Jul2025 03:25:57.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to -1255.500000, 99.500000, 66.500000]
+[02Jul2025 03:25:57.115] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 03:26:05.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
+[02Jul2025 03:26:41.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlitos la espada q me tenias?
+[02Jul2025 03:27:09.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ese coso es in matable
+[02Jul2025 03:27:11.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> el taladro
+[02Jul2025 03:27:14.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> damela sin encantar
+[02Jul2025 03:27:16.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> mucho mejor
+[02Jul2025 03:27:33.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlitos
+[02Jul2025 03:27:38.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> tengo pantalones de netherite
+[02Jul2025 03:27:45.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> los intercambio por pechera
+[02Jul2025 03:28:30.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
+[02Jul2025 03:28:57.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> es buena
+[02Jul2025 03:29:12.724] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 03:29:23.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> oe
+[02Jul2025 03:29:24.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> calma
+[02Jul2025 03:29:25.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> toy yo
+[02Jul2025 03:29:53.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> yo
+[02Jul2025 03:30:38.175] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 03:31:35.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> truenos carlitos
+[02Jul2025 03:31:41.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> asi
+[02Jul2025 03:31:44.779] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 03:33:37.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> aqui en estas estructura
+[02Jul2025 03:33:39.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> en la planta baja
+[02Jul2025 03:33:47.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> hay atriles con armaduras y cabezas de wither
+[02Jul2025 03:33:51.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> yo tenia 4 no se q las hice
+[02Jul2025 03:34:09.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> si mano
+[02Jul2025 03:34:11.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no se q paso
+[02Jul2025 03:34:20.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> s
+[02Jul2025 03:35:42.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> esa es
+[02Jul2025 03:35:45.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> donde estan las armaduras
+[02Jul2025 03:37:18.368] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[02Jul2025 03:38:01.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Creative Mode]
+[02Jul2025 03:38:10.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has reached the goal [Quadruple A battery]
+[02Jul2025 03:38:15.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Survival Mode]
+[02Jul2025 03:38:31.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 03:38:34.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
+[02Jul2025 03:39:09.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> si era
+[02Jul2025 03:39:15.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> a
+[02Jul2025 03:39:42.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Creative Mode]
+[02Jul2025 03:40:36.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Blister2112[/127.208.215.251:53197] logged in with entity id 20304 at (6667.469341526315, 62.9375, -2511.7254641317677)
+[02Jul2025 03:40:36.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 joined the game
+[02Jul2025 03:40:43.522] [Server thread/INFO] [do_a_barrel_roll/]: Client of Blister2112 accepted server config.
+[02Jul2025 03:40:57.207] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 03:41:21.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlitos eso q tenias es su mano segun es un arma
+[02Jul2025 03:41:58.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Survival Mode]
+[02Jul2025 03:42:01.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> Q
+[02Jul2025 03:42:06.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> YO TMB QUIERO CREATIVO
+[02Jul2025 03:42:20.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ok...
+[02Jul2025 03:42:31.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q lo acepta bro
+[02Jul2025 03:42:41.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> maxi
+[02Jul2025 03:42:45.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> me puedo tpear?
+[02Jul2025 03:42:52.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 has made the advancement [The End?]
+[02Jul2025 03:42:52.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to Maxisccs]
+[02Jul2025 03:42:52.569] [Server thread/INFO] [do_a_barrel_roll/]: Client of Blister2112 accepted server config.
+[02Jul2025 03:42:52.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 has made the advancement [Thats a really big tower..]
+[02Jul2025 03:42:55.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> AAAAAAAAAAAA
+[02Jul2025 03:42:58.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> Q E ETO
+[02Jul2025 03:43:24.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> a
+[02Jul2025 03:43:42.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Creative Mode]
+[02Jul2025 03:43:43.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to Maxisccs]
+[02Jul2025 03:43:53.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> VAMONO
+[02Jul2025 03:43:58.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> (no tengo nada)
+[02Jul2025 03:44:12.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlitos
+[02Jul2025 03:44:14.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> sera con
+[02Jul2025 03:44:25.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> simithing
+[02Jul2025 03:44:30.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> template?
+[02Jul2025 03:44:33.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> maxi q tamos haciendo aqui?
+[02Jul2025 03:44:42.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no creo
+[02Jul2025 03:44:44.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> a
+[02Jul2025 03:44:45.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [What's this thing for??]
+[02Jul2025 03:44:47.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> en ese caso si
+[02Jul2025 03:44:51.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has reached the goal [Quadruple A battery]
+[02Jul2025 03:44:52.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Something appeared in the sky
+[02Jul2025 03:44:52.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has reached the goal [The Book of many souls]
+[02Jul2025 03:45:02.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 03:45:04.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ala verga
+[02Jul2025 03:45:06.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> esto es el end?
+[02Jul2025 03:45:30.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 03:45:32.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> kLASLKSALKSALK
+[02Jul2025 03:45:38.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> quieres ver como me sale mi water?
+[02Jul2025 03:45:58.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 03:46:06.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 03:46:21.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 03:46:34.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Survival Mode]
+[02Jul2025 03:46:48.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii fell from a high place
+[02Jul2025 03:46:50.450] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 03:46:54.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to -2870.500000, 170.500000, -1388.500000]
+[02Jul2025 03:46:54.854] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 03:47:03.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 03:47:03.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ez
+[02Jul2025 03:47:14.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to -1001.500000, 63.500000, -289.500000]
+[02Jul2025 03:47:17.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> yo si me hice mi water drop vro
+[02Jul2025 03:47:18.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 0.500000, 64.500000, -3.500000]
+[02Jul2025 03:47:21.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 03:47:25.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to CarlitosBot1]
+[02Jul2025 03:47:27.533] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[02Jul2025 03:47:29.378] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[02Jul2025 03:47:33.954] [Server thread/INFO] [do_a_barrel_roll/]: Client of Blister2112 accepted server config.
+[02Jul2025 03:47:35.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2505.500000]
+[02Jul2025 03:47:35.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ez
+[02Jul2025 03:47:38.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1214.500000, -1.500000, 3666.500000]
+[02Jul2025 03:47:41.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to CarlitosBot1]
+[02Jul2025 03:47:48.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> Q
+[02Jul2025 03:47:50.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> Q
+[02Jul2025 03:47:51.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> Q
+[02Jul2025 03:47:55.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
+[02Jul2025 03:47:55.495] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 03:48:19.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ola niños
+[02Jul2025 03:48:22.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> a cual me violo primer?
+[02Jul2025 03:48:23.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> q
+[02Jul2025 03:48:24.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> q
+[02Jul2025 03:48:27.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> XD
+[02Jul2025 03:48:48.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> q papa tna responsable
+[02Jul2025 03:48:57.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> todos tienen cas aqui?
+[02Jul2025 03:49:20.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> le puedo robar algop?
+[02Jul2025 03:49:21.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[02Jul2025 03:49:26.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ok
+[02Jul2025 03:49:29.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [What an Ordeal!]
+[02Jul2025 03:49:31.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to CarlitosBot1]
+[02Jul2025 03:49:34.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ya
+[02Jul2025 03:49:36.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> maxii
+[02Jul2025 03:49:36.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> Q
+[02Jul2025 03:49:38.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> LKASLKASLK
+[02Jul2025 03:49:50.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> me voy
+[02Jul2025 03:49:53.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> hasta mañana
+[02Jul2025 03:49:54.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii lost connection: Disconnected
+[02Jul2025 03:49:54.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii left the game
+[02Jul2025 03:50:01.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> qn vive aqui carlito?
+[02Jul2025 03:50:19.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[02Jul2025 03:50:20.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has reached the goal [A Metropolis of Restless Souls]
+[02Jul2025 03:50:37.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> pa onde vamos?
+[02Jul2025 03:50:41.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to CarlitosBot1]
+[02Jul2025 03:50:56.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> A
+[02Jul2025 03:50:56.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> A
+[02Jul2025 03:50:58.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has completed the challenge [Phantom Thief]
+[02Jul2025 03:51:03.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> vro q me pegas
+[02Jul2025 03:51:08.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: The difficulty has been set to Hard]

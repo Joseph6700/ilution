@@ -6458,5 +6458,35 @@
     },
     "done": true
   },
+  "mofus_better_end_:end_trims_advancement": {
+    "criteria": {
+      "end_trims_advancement_1": "2025-07-02 03:30:46 +0000"
+    },
+    "done": false
+  },
+  "mofus_better_end_:mechanical_fosend_eye_advancement": {
+    "criteria": {
+      "mechanical_fosend_eye_advancement_0": "2025-07-02 03:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-02 03:28:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-07-02 03:24:59 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:clock_tower_advancement": {
+    "criteria": {
+      "clock_tower_advancement_0": "2025-07-02 03:22:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
