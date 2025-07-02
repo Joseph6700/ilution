@@ -992,6 +992,7 @@
       "minecraft:witch": "2025-06-30 17:21:45 +0000",
       "minecraft:wither_skeleton": "2025-06-29 02:11:36 +0000",
       "minecraft:husk": "2025-06-30 01:28:26 +0000",
+      "minecraft:shulker": "2025-07-02 01:20:45 +0000",
       "minecraft:cave_spider": "2025-06-28 23:08:07 +0000",
       "minecraft:piglin": "2025-06-30 20:59:32 +0000",
       "minecraft:silverfish": "2025-06-28 23:04:20 +0000",
@@ -6195,6 +6196,24 @@
     },
     "done": true
   },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-07-02 01:24:41 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-07-02 01:21:23 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:root_archipelago_advancement": {
+    "criteria": {
+      "root_archipelago_advancement_0": "2025-07-02 01:25:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2025-07-02 01:14:22 +0000"
@@ -6207,9 +6226,22 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-07-02 01:21:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_end_stone_bricks": "2025-07-02 01:08:09 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:blood_star_forest_advancement": {
+    "criteria": {
+      "blood_star_forest_advancement_0": "2025-07-02 01:30:02 +0000",
+      "blood_star_forest_advancement_1": "2025-07-02 01:30:01 +0000"
     },
     "done": true
   },
@@ -6228,6 +6260,30 @@
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2025-07-02 01:11:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-07-02 01:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-02 01:24:41 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:greater_endermite_advancement": {
+    "criteria": {
+      "greater_endermite_advancement_0": "2025-07-02 01:18:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-07-02 01:24:41 +0000"
     },
     "done": true
   },
@@ -6267,6 +6323,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-02 01:24:41 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:moss_plains_achievement": {
+    "criteria": {
+      "moss_plains_achievement_1": "2025-07-02 01:19:14 +0000",
+      "moss_plains_achievement_0": "2025-07-02 01:18:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-07-02 01:07:02 +0000"
@@ -6276,6 +6345,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-07-02 01:07:02 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:end_observatory_advancement": {
+    "criteria": {
+      "end_observatory_advancement_0": "2025-07-02 01:32:11 +0000"
     },
     "done": true
   },
