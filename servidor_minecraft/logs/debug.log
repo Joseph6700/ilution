@@ -5648,3 +5648,127 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 01:07:37.404] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
 [02Jul2025 01:07:53.352] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=63, z=0}
 [02Jul2025 01:07:58.492] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 01:09:30.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was killed by Ender Dragon using magic
+[02Jul2025 01:09:32.523] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 01:09:44.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to -17.500000, 60.500000, 45.500000]
+[02Jul2025 01:09:45.775] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 01:09:56.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has reached the goal [You Need a Mint]
+[02Jul2025 01:09:56.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has reached the goal [You Need a Mint]
+[02Jul2025 01:10:06.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 01:10:06.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 01:10:26.319] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_boots/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 01:10:28.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has reached the goal [You Need a Mint]
+[02Jul2025 01:10:39.192] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 01:10:59.683] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 01:11:08.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> dios
+[02Jul2025 01:11:23.544] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 01:11:24.361] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 01:11:24.726] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 01:11:24.795] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 01:11:24.798] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 01:11:24.833] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 01:11:24.908] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 01:11:33.394] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 01:11:42.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> peren
+[02Jul2025 01:11:53.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Free the End]
+[02Jul2025 01:11:53.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Free the End]
+[02Jul2025 01:11:53.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Free the End]
+[02Jul2025 01:11:53.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Free the End]
+[02Jul2025 01:11:57.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii fell from a high place
+[02Jul2025 01:11:59.767] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 01:12:03.701] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=63, z=0}
+[02Jul2025 01:12:08.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
+[02Jul2025 01:12:09.025] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 01:12:09.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii fell from a high place
+[02Jul2025 01:12:12.880] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 01:12:16.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 0.500000, 64.500000, -1.500000]
+[02Jul2025 01:12:27.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii suffocated in a wall
+[02Jul2025 01:12:29.986] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 01:12:32.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 9.500000, 73.500000, 0.500000]
+[02Jul2025 01:12:32.721] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 01:13:29.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Remote Getaway]
+[02Jul2025 01:13:35.652] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:emptya
+[02Jul2025 01:13:35.653] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jul2025 01:14:19.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to BruhYoichi]
+[02Jul2025 01:14:22.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Remote Getaway]
+[02Jul2025 01:14:23.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Remote Getaway]
+[02Jul2025 01:14:32.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> esp q es
+[02Jul2025 01:14:34.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> esp q es
+[02Jul2025 01:15:06.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 01:15:06.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 01:15:13.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
+[02Jul2025 01:15:13.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was doomed to fall by Enderman
+[02Jul2025 01:15:16.328] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 01:15:19.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 0.500000, 64.500000, -1.500000]
+[02Jul2025 01:15:25.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
+[02Jul2025 01:15:25.730] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 01:15:47.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Ender Distancing]
+[02Jul2025 01:15:49.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Capsid-19]
+[02Jul2025 01:16:51.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to -1045.500000, 58.500000, -259.500000]
+[02Jul2025 01:17:05.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Wait those were just babies??]
+[02Jul2025 01:17:35.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Is it any different than normal moss?]
+[02Jul2025 01:17:35.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -1009.500000, 57.500000, -222.500000]
+[02Jul2025 01:17:38.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to Maxisccs]
+[02Jul2025 01:17:49.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Is it any different than normal moss?]
+[02Jul2025 01:17:55.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Mite's nest]
+[02Jul2025 01:17:55.298] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jul2025 01:18:01.891] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 01:18:21.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Mite's nest]
+[02Jul2025 01:18:22.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Is it any different than normal moss?]
+[02Jul2025 01:18:23.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Mite's nest]
+[02Jul2025 01:18:26.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to -1123.500000, 59.500000, -543.500000]
+[02Jul2025 01:18:27.026] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jul2025 01:18:36.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was killed by magic whilst trying to escape Endermite Swarmer
+[02Jul2025 01:18:40.379] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 01:18:45.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to -1185.500000, 61.500000, -136.500000]
+[02Jul2025 01:18:45.779] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 01:18:59.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Wait those were just babies??]
+[02Jul2025 01:19:01.523] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=188, z=-713}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.524] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=189, z=-713}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.524] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=190, z=-712}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.524] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=190, z=-713}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.524] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=190, z=-714}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.525] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=191, z=-712}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.525] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=191, z=-713}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.525] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=192, z=-710}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.525] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=192, z=-712}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.525] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=192, z=-713}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.526] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=193, z=-710}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.526] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=193, z=-711}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.526] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=193, z=-713}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.526] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=194, z=-711}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.527] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=194, z=-712}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.527] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=194, z=-718}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.527] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=195, z=-712}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.527] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=195, z=-717}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.527] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=196, z=-712}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.527] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=196, z=-717}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.528] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=196, z=-718}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.528] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=197, z=-713}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.528] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=197, z=-717}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.528] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=197, z=-718}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.528] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=198, z=-712}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.528] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=198, z=-713}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.529] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=198, z=-714}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.529] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=198, z=-716}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.529] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=198, z=-717}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.529] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=199, z=-713}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.529] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=199, z=-714}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.529] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=199, z=-716}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.529] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=199, z=-717}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.530] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=200, z=-712}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.530] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=200, z=-713}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.530] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=200, z=-714}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.530] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=200, z=-715}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.530] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=200, z=-716}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.530] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=201, z=-712}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.531] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=201, z=-713}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.531] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=201, z=-714}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.531] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=201, z=-715}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.531] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=201, z=-716}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.531] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=202, z=-711}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.531] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=202, z=-712}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.531] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=202, z=-714}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.532] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=202, z=-715}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:01.532] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-93, -45], pos: BlockPos{x=-1488, y=203, z=-715}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
+[02Jul2025 01:19:14.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Is it any different than normal moss?]
