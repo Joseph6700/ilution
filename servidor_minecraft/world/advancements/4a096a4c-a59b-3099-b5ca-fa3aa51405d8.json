@@ -86,6 +86,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-06-30 20:01:56 +0000",
+      "minecraft:deep_ocean": "2025-07-02 18:59:42 +0000",
       "minecraft:eroded_badlands": "2025-06-30 19:01:08 +0000",
       "minecraft:sunflower_plains": "2025-06-30 04:06:31 +0000",
       "minecraft:birch_forest": "2025-06-30 02:51:34 +0000",
@@ -94,6 +95,7 @@
       "minecraft:stony_shore": "2025-07-02 00:39:00 +0000",
       "minecraft:dripstone_caves": "2025-06-30 03:05:56 +0000",
       "minecraft:forest": "2025-06-30 03:12:31 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-02 19:00:20 +0000",
       "minecraft:flower_forest": "2025-07-02 00:53:54 +0000"
     },
     "done": false
@@ -842,8 +844,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-30 04:05:14 +0000",
+      "minecraft:blaze": "2025-07-02 18:51:26 +0000",
       "minecraft:skeleton": "2025-06-30 03:14:15 +0000",
       "minecraft:zoglin": "2025-07-01 17:43:20 +0000",
+      "minecraft:ghast": "2025-07-02 18:57:49 +0000",
       "minecraft:magma_cube": "2025-07-01 17:47:06 +0000",
       "minecraft:spider": "2025-06-30 03:19:47 +0000",
       "minecraft:piglin_brute": "2025-07-01 17:46:20 +0000",
@@ -2435,7 +2439,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-06-30 19:47:26 +0000",
-      "minecraft:soul_sand_valley": "2025-06-30 19:39:51 +0000"
+      "minecraft:soul_sand_valley": "2025-06-30 19:39:51 +0000",
+      "minecraft:basalt_deltas": "2025-07-02 18:46:28 +0000"
     },
     "done": false
   },
@@ -3228,6 +3233,96 @@
   "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
     "criteria": {
       "has_brimstone": "2025-07-02 18:42:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-07-02 18:48:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-07-02 18:48:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-07-02 18:48:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-07-02 18:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-02 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-02 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-02 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-02 18:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-02 18:54:51 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-07-02 18:57:57 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/lich_prison": {
+    "criteria": {
+      "lich_prison": "2025-07-02 18:59:42 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/lower_bone_staff": {
+    "criteria": {
+      "lower_bone_staff": "2025-07-02 19:00:06 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/middle_bone_staff": {
+    "criteria": {
+      "middle_bone_staff": "2025-07-02 19:00:08 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/find_skeleton": {
+    "criteria": {
+      "skeleton": "2025-07-02 19:00:08 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/upper_bone_staff": {
+    "criteria": {
+      "upper_bone_staff": "2025-07-02 19:00:58 +0000"
     },
     "done": true
   },
