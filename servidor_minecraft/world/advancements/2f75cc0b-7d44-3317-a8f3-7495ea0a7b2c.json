@@ -6854,9 +6854,21 @@
     },
     "done": true
   },
+  "ragnagoblin:end/hurt_goblin": {
+    "criteria": {
+      "hurt_goblin": "2025-07-02 18:35:14 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/pirate_pouch": {
     "criteria": {
       "has_item": "2025-07-02 18:17:25 +0000"
+    },
+    "done": true
+  },
+  "ragnagoblin:end/kill_goblin": {
+    "criteria": {
+      "kill_goblin": "2025-07-02 18:35:14 +0000"
     },
     "done": true
   },
