@@ -3580,6 +3580,7 @@
   },
   "cataclysm:kill_all_bosses": {
     "criteria": {
+      "cataclysm:ender_guardian": "2025-07-02 18:07:12 +0000",
       "cataclysm:netherite_monstrosity": "2025-06-29 03:39:57 +0000",
       "cataclysm:ignis": "2025-07-02 06:00:23 +0000"
     },
@@ -6933,9 +6934,21 @@
     },
     "done": true
   },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-07-02 18:07:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
     "criteria": {
       "has_stick": "2025-07-02 17:49:17 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-07-02 18:12:43 +0000"
     },
     "done": true
   },
