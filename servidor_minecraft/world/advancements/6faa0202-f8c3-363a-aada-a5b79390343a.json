@@ -93,6 +93,8 @@
       "minecraft:eroded_badlands": "2025-06-30 17:51:29 +0000",
       "minecraft:sunflower_plains": "2025-06-28 23:44:39 +0000",
       "minecraft:birch_forest": "2025-06-28 21:06:39 +0000",
+      "minecraft:wooded_badlands": "2025-07-02 19:47:42 +0000",
+      "minecraft:badlands": "2025-07-02 19:46:07 +0000",
       "minecraft:beach": "2025-06-29 03:09:10 +0000",
       "minecraft:dark_forest": "2025-06-28 21:17:29 +0000",
       "minecraft:river": "2025-06-28 21:17:24 +0000",
@@ -1536,6 +1538,7 @@
       "coniferous_forest": "2025-06-29 02:22:37 +0000",
       "spider_nest": "2025-06-28 22:35:52 +0000",
       "dryland": "2025-06-29 03:35:50 +0000",
+      "lush_desert": "2025-07-02 19:46:27 +0000",
       "redwood_forest": "2025-06-28 22:14:02 +0000",
       "dune_beach": "2025-06-29 01:53:55 +0000",
       "seasonal_forest": "2025-06-30 02:31:28 +0000",
@@ -7072,6 +7075,12 @@
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-07-02 18:38:09 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_03": "2025-07-02 19:48:02 +0000"
     },
     "done": true
   },
