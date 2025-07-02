@@ -2180,3 +2180,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 05:00:32.847] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
 [02Jul2025 05:01:40.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6.500000, 63.500000, 2753.500000]
 [02Jul2025 05:01:59.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Gerdonthar'/82371, l='ServerLevel[world]', x=-56.30, y=73.00, z=2743.11] died: Gerdonthar was slain by CarlitosBot1
+[02Jul2025 05:03:43.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02Jul2025 05:04:01.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2699ms or 53 ticks behind
+[02Jul2025 05:12:13.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[02Jul2025 05:12:38.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6.500000, 63.500000, 2753.500000]
+[02Jul2025 05:12:41.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
