@@ -6831,6 +6831,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/summon_lich": {
+    "criteria": {
+      "summoned": "2025-07-02 19:14:22 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2025-07-02 18:25:10 +0000"
@@ -6942,6 +6948,12 @@
   "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-07-02 19:01:20 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/vial_of_blood": {
+    "criteria": {
+      "vial_of_blood": "2025-07-02 19:09:05 +0000"
     },
     "done": true
   },

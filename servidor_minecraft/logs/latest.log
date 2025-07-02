@@ -2056,3 +2056,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 19:05:30.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Blood "Donation"]
 [02Jul2025 19:05:42.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> jm cai en una ballena
 [02Jul2025 19:05:46.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SnVzk1: Teleported SnVzk1 to Maxisccs]
+[02Jul2025 19:06:55.068] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/119095, l='ServerLevel[world]', x=3813.54, y=298.00, z=3817.31] died, message: 'Librarian was slain by CarlitosBot1'
+[02Jul2025 19:07:06.845] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/119160, l='ServerLevel[world]', x=3818.47, y=298.00, z=3832.47] died, message: 'Villager was slain by SnVzk1'
+[02Jul2025 19:07:12.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/119165, l='ServerLevel[world]', x=3818.78, y=298.30, z=3846.46] died, message: 'Villager was frozen to death'
+[02Jul2025 19:07:18.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Survival Mode]
+[02Jul2025 19:07:22.622] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/119181, l='ServerLevel[world]', x=3830.35, y=298.00, z=3842.47] died, message: 'Villager was slain by CarlitosBot1'
+[02Jul2025 19:07:26.320] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/119183, l='ServerLevel[world]', x=3817.64, y=298.00, z=3848.60] died, message: 'Villager was slain by CarlitosBot1'
+[02Jul2025 19:07:30.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/119172, l='ServerLevel[world]', x=3810.48, y=298.00, z=3833.51] died, message: 'Villager was slain by CarlitosBot1'
+[02Jul2025 19:07:33.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/119182, l='ServerLevel[world]', x=3815.01, y=298.00, z=3843.65] died, message: 'Villager was slain by CarlitosBot1'
+[02Jul2025 19:07:36.968] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/119177, l='ServerLevel[world]', x=3822.81, y=299.00, z=3828.46] died, message: 'Villager was slain by CarlitosBot1'
+[02Jul2025 19:07:45.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/119179, l='ServerLevel[world]', x=3818.60, y=298.00, z=3812.85] died, message: 'Villager was slain by CarlitosBot1'
+[02Jul2025 19:07:47.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/119185, l='ServerLevel[world]', x=3827.25, y=298.00, z=3817.62] died, message: 'Villager was frozen to death'
+[02Jul2025 19:07:53.725] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/119180, l='ServerLevel[world]', x=3810.51, y=298.00, z=3825.12] died, message: 'Villager was slain by CarlitosBot1'
+[02Jul2025 19:07:54.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/119170, l='ServerLevel[world]', x=3811.27, y=298.00, z=3818.91] died, message: 'Villager was scorched to death'
+[02Jul2025 19:07:58.568] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/119171, l='ServerLevel[world]', x=3805.28, y=301.17, z=3829.47] died, message: 'Librarian was frozen to death'
+[02Jul2025 19:08:19.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> no te pego porque no puedo
+[02Jul2025 19:08:23.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> sure
+[02Jul2025 19:08:25.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> preparados
+[02Jul2025 19:08:28.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> aja
+[02Jul2025 19:09:05.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Blood "Donation"]
+[02Jul2025 19:09:14.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> es tonto
+[02Jul2025 19:10:06.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Creative Mode]
+[02Jul2025 19:10:33.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Survival Mode]
+[02Jul2025 19:10:42.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Creative Mode]
+[02Jul2025 19:11:23.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> como se despeja la lluvia
+[02Jul2025 19:11:35.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Set the weather to clear]
+[02Jul2025 19:11:45.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> asi mismo
+[02Jul2025 19:12:03.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> tu ves las velas prendidas?
+[02Jul2025 19:12:09.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> si
+[02Jul2025 19:12:38.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> falta una no?
+[02Jul2025 19:12:41.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> aca
+[02Jul2025 19:12:51.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> no creo
+[02Jul2025 19:12:55.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SnVzk1> y aca
+[02Jul2025 19:14:14.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Survival Mode]
+[02Jul2025 19:14:18.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set the time to 13000]
+[02Jul2025 19:14:22.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Wrath of the Lich]
+[02Jul2025 19:14:22.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Wrath of the Lich]
+[02Jul2025 19:14:22.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 has made the advancement [Wrath of the Lich]
+[02Jul2025 19:16:14.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Staff of Azrata'gul]

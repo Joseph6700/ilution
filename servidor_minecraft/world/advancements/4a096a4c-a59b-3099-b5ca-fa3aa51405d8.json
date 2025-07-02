@@ -3326,5 +3326,11 @@
     },
     "done": true
   },
+  "graveyard:graveyard/summon_lich": {
+    "criteria": {
+      "summoned": "2025-07-02 19:14:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
