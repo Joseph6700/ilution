@@ -6117,6 +6117,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-02 00:15:06 +0000"
+    },
+    "done": false
+  },
   "aquamirae:adventure/find_ice_maze": {
     "criteria": {
       "deep_frozen_ocean": "2025-07-01 23:27:01 +0000"

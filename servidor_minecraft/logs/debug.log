@@ -8936,3 +8936,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 00:05:05.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jul2025 00:05:05.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jul2025 00:09:20.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Gave 5 [Netherite Ingot] to Maxisccs]
+[02Jul2025 00:09:44.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[02Jul2025 00:10:07.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 00:10:07.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 00:13:29.112] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/104974, l='ServerLevel[world]', x=11528.50, y=33.00, z=1856.50]
+[02Jul2025 00:14:06.131] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Albert'/102094, l='ServerLevel[world]', x=11652.62, y=63.50, z=1797.80] died, message: 'Albert was shot by Pillager'
+[02Jul2025 00:15:07.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 00:15:07.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 00:15:55.213] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/106061, l='ServerLevel[world]', x=11552.50, y=37.00, z=1859.50]
+[02Jul2025 00:17:29.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Ol' Betsy]
+[02Jul2025 00:17:56.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has completed the challenge [Cover Me in Debris]
+[02Jul2025 00:18:49.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
