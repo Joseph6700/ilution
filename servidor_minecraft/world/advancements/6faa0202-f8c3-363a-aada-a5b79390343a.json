@@ -6185,93 +6185,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 01:57:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:57:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:57:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:57:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:57:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:57:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:57:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:57:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:57:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:57:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:57:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-02 01:57:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-02 01:08:09 +0000"
+      "entered_end": "2025-07-02 01:06:43 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_aviary": {
+  "minecraft:end/root": {
     "criteria": {
-      "location0": "2025-07-02 01:49:54 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:end/obsidilith_defeat": {
-    "criteria": {
-      "bosses_of_mass_destruction:obsidilith": "2025-07-02 01:46:31 +0000"
+      "entered_end": "2025-07-02 01:06:43 +0000"
     },
     "done": true
   },
@@ -6281,112 +6203,9 @@
     },
     "done": true
   },
-  "mca:recipes/misc/blueprint": {
-    "criteria": {
-      "has_item": "2025-07-02 01:24:41 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/transportation/soul_elytra": {
-    "criteria": {
-      "has_elytra": "2025-07-02 01:21:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-07-02 01:53:53 +0000"
-    },
-    "done": true
-  },
-  "mofus_better_end_:root_archipelago_advancement": {
-    "criteria": {
-      "root_archipelago_advancement_0": "2025-07-02 01:25:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
-    "criteria": {
-      "has_magenta_terracotta": "2025-07-02 01:53:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2025-07-02 01:14:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-07-02 01:07:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-07-02 01:21:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-02 01:08:09 +0000"
-    },
-    "done": true
-  },
-  "mofus_better_end_:blood_star_forest_advancement": {
-    "criteria": {
-      "blood_star_forest_advancement_0": "2025-07-02 01:30:02 +0000",
-      "blood_star_forest_advancement_1": "2025-07-02 01:30:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-07-02 01:06:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-07-02 01:08:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2025-07-02 01:11:53 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/mythic": {
-    "criteria": {
-      "sword": "2025-07-02 01:27:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-07-02 01:24:41 +0000"
-    },
-    "done": true
-  },
-  "mofus_better_end_:greater_endermite_advancement": {
-    "criteria": {
-      "greater_endermite_advancement_0": "2025-07-02 01:18:59 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/books": {
-    "criteria": {
-      "has_item": "2025-07-02 01:24:41 +0000"
-    },
-    "done": true
-  },
-  "mofus_better_end_:end_labyrinth_advancement": {
-    "criteria": {
-      "end_labyrinth_advancement_0": "2025-07-02 01:43:12 +0000"
     },
     "done": true
   },
@@ -6396,9 +6215,33 @@
     },
     "done": true
   },
-  "minecraft:end/dragon_breath": {
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
-      "dragon_breath": "2025-07-02 01:10:28 +0000"
+      "has_end_stone": "2025-07-02 01:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-02 01:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-02 01:08:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-02 01:08:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-07-02 01:08:09 +0000"
     },
     "done": true
   },
@@ -6420,15 +6263,21 @@
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "minecraft:end/dragon_breath": {
     "criteria": {
-      "entered_end": "2025-07-02 01:06:43 +0000"
+      "dragon_breath": "2025-07-02 01:10:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "has_paper": "2025-07-02 01:24:41 +0000"
+      "killed_dragon": "2025-07-02 01:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-07-02 01:14:22 +0000"
     },
     "done": true
   },
@@ -6439,21 +6288,112 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+  "mofus_better_end_:greater_endermite_advancement": {
     "criteria": {
-      "has_end_stone": "2025-07-02 01:07:02 +0000"
+      "greater_endermite_advancement_0": "2025-07-02 01:18:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+  "deeperdarker:recipes/transportation/soul_elytra": {
     "criteria": {
-      "has_end_stone": "2025-07-02 01:07:02 +0000"
+      "has_elytra": "2025-07-02 01:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-07-02 01:21:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-07-02 01:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-02 01:24:41 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-07-02 01:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-02 01:24:41 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:root_archipelago_advancement": {
+    "criteria": {
+      "root_archipelago_advancement_0": "2025-07-02 01:25:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-07-02 01:27:01 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:blood_star_forest_advancement": {
+    "criteria": {
+      "blood_star_forest_advancement_0": "2025-07-02 01:30:02 +0000",
+      "blood_star_forest_advancement_1": "2025-07-02 01:30:01 +0000"
     },
     "done": true
   },
   "mofus_better_end_:end_observatory_advancement": {
     "criteria": {
       "end_observatory_advancement_0": "2025-07-02 01:32:11 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:end_labyrinth_advancement": {
+    "criteria": {
+      "end_labyrinth_advancement_0": "2025-07-02 01:43:12 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:end/obsidilith_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:obsidilith": "2025-07-02 01:46:31 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-07-02 01:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2025-07-02 01:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-07-02 01:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-02 03:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-02 03:08:26 +0000"
     },
     "done": true
   },

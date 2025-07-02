@@ -1015,6 +1015,7 @@
       "bread": "2025-06-28 22:59:05 +0000",
       "golden_apple": "2025-06-29 04:44:04 +0000",
       "rotten_flesh": "2025-06-28 22:24:36 +0000",
+      "golden_carrot": "2025-07-02 02:22:21 +0000",
       "cooked_chicken": "2025-06-29 03:41:52 +0000",
       "enchanted_golden_apple": "2025-06-29 00:47:42 +0000",
       "carrot": "2025-06-28 22:53:52 +0000"
@@ -5185,21 +5186,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/cosmic_cod": {
+  "apotheosis:affix/epic": {
     "criteria": {
-      "capsid": "2025-07-02 02:14:26 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/blueprint": {
-    "criteria": {
-      "has_item": "2025-07-02 01:47:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-07-02 01:47:27 +0000"
+      "sword": "2025-07-02 01:42:56 +0000"
     },
     "done": true
   },
@@ -5209,9 +5198,9 @@
     },
     "done": true
   },
-  "ragnagoblin:end/hurt_goblin": {
+  "mca:recipes/misc/blueprint": {
     "criteria": {
-      "hurt_goblin": "2025-07-02 02:06:33 +0000"
+      "has_item": "2025-07-02 01:47:26 +0000"
     },
     "done": true
   },
@@ -5227,21 +5216,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-02 01:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-07-02 01:47:27 +0000"
+    },
+    "done": true
+  },
+  "ragnagoblin:end/hurt_goblin": {
+    "criteria": {
+      "hurt_goblin": "2025-07-02 02:06:33 +0000"
+    },
+    "done": true
+  },
   "ragnagoblin:end/kill_goblin": {
     "criteria": {
       "kill_goblin": "2025-07-02 02:06:44 +0000"
     },
     "done": true
   },
-  "apotheosis:affix/epic": {
+  "alexsmobs:alexsmobs/cosmic_cod": {
     "criteria": {
-      "sword": "2025-07-02 01:42:56 +0000"
+      "capsid": "2025-07-02 02:14:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "mofus_better_end_:greater_endermite_advancement": {
     "criteria": {
-      "has_paper": "2025-07-02 01:47:26 +0000"
+      "greater_endermite_advancement_0": "2025-07-02 03:14:12 +0000"
     },
     "done": true
   },
