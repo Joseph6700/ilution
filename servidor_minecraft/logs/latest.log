@@ -568,3 +568,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 22:26:38.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: semviii[/127.239.46.137:44533] logged in with entity id 1308 at (1138.9227700766799, -51.0, 3729.683356167212)
 [02Jul2025 22:26:38.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii joined the game
 [02Jul2025 22:26:49.128] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 22:30:05.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[02Jul2025 22:37:18.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6716, y=60, z=-2513} BlockPos{x=6715, y=59, z=-2513}
+[02Jul2025 22:37:19.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6716, y=60, z=-2513} BlockPos{x=6715, y=59, z=-2513}
