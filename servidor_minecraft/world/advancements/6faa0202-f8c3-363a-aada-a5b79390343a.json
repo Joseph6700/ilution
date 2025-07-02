@@ -3577,7 +3577,8 @@
   },
   "cataclysm:kill_all_bosses": {
     "criteria": {
-      "cataclysm:netherite_monstrosity": "2025-06-29 03:39:57 +0000"
+      "cataclysm:netherite_monstrosity": "2025-06-29 03:39:57 +0000",
+      "cataclysm:ignis": "2025-07-02 06:00:23 +0000"
     },
     "done": false
   },
@@ -6602,6 +6603,12 @@
   "deeperdarker:recipes/building_blocks/gloomslate_tiles_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-07-02 03:51:56 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-07-02 06:00:23 +0000"
     },
     "done": true
   },

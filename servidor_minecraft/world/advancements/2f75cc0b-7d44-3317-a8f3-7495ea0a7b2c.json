@@ -6673,6 +6673,12 @@
     },
     "done": true
   },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-07-02 05:59:38 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/socket": {
     "criteria": {
       "socket": "2025-07-02 04:56:08 +0000"

@@ -2227,3 +2227,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 05:53:46.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 885.500000, 132.500000, 2967.500000]
 [02Jul2025 05:53:54.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
 [02Jul2025 05:54:17.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2505.500000]
+[02Jul2025 05:58:36.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 887.500000, 177.500000, 2943.500000]
+[02Jul2025 05:59:00.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[02Jul2025 05:59:08.768] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[02Jul2025 05:59:18.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 106.500000, 66.500000, 536.500000]
+[02Jul2025 05:59:37.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 05:59:38.345] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[02Jul2025 05:59:38.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [A Burning Arena]
+[02Jul2025 06:00:23.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has completed the challenge [The Extinguished Fire]
+[02Jul2025 06:01:09.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 115.500000, 59.500000, 357.500000]
+[02Jul2025 06:01:16.592] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[02Jul2025 06:01:34.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[02Jul2025 06:01:34.296] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[02Jul2025 06:02:02.246] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[02Jul2025 06:02:02.246] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[02Jul2025 06:02:17.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2505.500000]
+[02Jul2025 06:02:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 932.500000, 10.500000, 2881.500000]
+[02Jul2025 06:02:56.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Withering Heights]
+[02Jul2025 06:03:43.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[02Jul2025 06:03:53.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Creative Mode]
