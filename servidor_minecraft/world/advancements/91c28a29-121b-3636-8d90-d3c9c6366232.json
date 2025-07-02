@@ -5203,6 +5203,12 @@
     },
     "done": true
   },
+  "ragnagoblin:end/hurt_goblin": {
+    "criteria": {
+      "hurt_goblin": "2025-07-02 02:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-07-02 01:47:26 +0000"
@@ -5212,6 +5218,12 @@
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-07-02 01:47:26 +0000"
+    },
+    "done": true
+  },
+  "ragnagoblin:end/kill_goblin": {
+    "criteria": {
+      "kill_goblin": "2025-07-02 02:06:44 +0000"
     },
     "done": true
   },

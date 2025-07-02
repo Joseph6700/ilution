@@ -7176,3 +7176,105 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 01:58:48.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ok
 [02Jul2025 02:00:12.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jul2025 02:00:12.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 02:04:59.091] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 02:05:12.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 02:05:12.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 02:05:22.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was killed by magic whilst trying to escape Skeleton
+[02Jul2025 02:05:26.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2790ms or 55 ticks behind
+[02Jul2025 02:05:26.573] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:05:32.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:05:32.871] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:05:33.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Thats a really big tower..]
+[02Jul2025 02:05:35.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10476.500000, 34.500000, -1827.500000]
+[02Jul2025 02:05:36.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was killed by magic whilst trying to escape Skeleton
+[02Jul2025 02:05:38.498] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:05:41.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:05:41.793] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:05:45.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10476.500000, 34.500000, -1827.500000]
+[02Jul2025 02:06:17.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved wrongly!
+[02Jul2025 02:06:33.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Drakonik Regression]
+[02Jul2025 02:06:44.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has reached the goal [A Draconian Evolution]
+[02Jul2025 02:07:03.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was killed by magic whilst trying to escape Skeleton
+[02Jul2025 02:07:05.618] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:07:08.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:07:09.770] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:07:12.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10471.500000, 30.500000, -1834.500000]
+[02Jul2025 02:07:13.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was killed by magic whilst trying to escape Skeleton
+[02Jul2025 02:07:15.532] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:07:19.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:07:19.895] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:07:22.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10471.500000, 30.500000, -1834.500000]
+[02Jul2025 02:07:25.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was killed by magic whilst trying to escape Skeleton
+[02Jul2025 02:07:27.461] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:07:32.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:07:33.003] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:07:35.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10476.500000, 31.500000, -1832.500000]
+[02Jul2025 02:07:36.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was killed by magic whilst trying to escape Skeleton
+[02Jul2025 02:07:38.849] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:07:42.238] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_boots/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 02:07:44.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:07:45.756] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:07:51.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10476.500000, 31.500000, -1832.500000]
+[02Jul2025 02:07:52.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q te paso
+[02Jul2025 02:07:54.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was killed by magic whilst trying to escape Skeleton
+[02Jul2025 02:07:56.499] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:07:58.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:07:58.502] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:08:00.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10476.500000, 32.500000, -1828.500000]
+[02Jul2025 02:08:08.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> te tengo manzana si quieres
+[02Jul2025 02:08:13.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> y tnt
+[02Jul2025 02:08:15.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ok
+[02Jul2025 02:08:20.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was shot by Skeleton
+[02Jul2025 02:08:22.828] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:08:25.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> xd}
+[02Jul2025 02:08:26.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:08:26.555] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:08:29.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10478.500000, 28.500000, -1827.500000]
+[02Jul2025 02:08:31.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was killed by magic whilst trying to escape Skeleton
+[02Jul2025 02:08:33.171] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:08:37.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:08:37.455] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:08:39.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10479.500000, 28.500000, -1827.500000]
+[02Jul2025 02:08:41.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was killed by magic whilst trying to escape Skeleton
+[02Jul2025 02:08:43.098] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:08:45.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:08:45.781] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:08:48.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10477.500000, 28.500000, -1828.500000]
+[02Jul2025 02:08:51.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was killed by magic whilst trying to escape semviii
+[02Jul2025 02:08:53.101] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:08:56.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:08:56.199] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:08:58.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10471.500000, 31.500000, -1834.500000]
+[02Jul2025 02:09:05.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was killed by magic whilst trying to escape Skeleton
+[02Jul2025 02:09:07.019] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:09:09.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:09:09.253] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:09:10.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was slain by semviii
+[02Jul2025 02:09:12.084] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:09:13.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> xd
+[02Jul2025 02:09:14.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:09:14.805] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:09:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10472.500000, 30.500000, -1834.500000]
+[02Jul2025 02:09:20.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was killed by magic whilst trying to escape Skeleton
+[02Jul2025 02:09:22.263] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:09:24.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:09:24.696] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:09:25.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> coje manzan
+[02Jul2025 02:09:26.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10469.500000, 30.500000, -1834.500000]
+[02Jul2025 02:09:27.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was killed by magic whilst trying to escape Skeleton
+[02Jul2025 02:09:30.043] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:09:34.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:09:34.907] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:09:38.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10471.500000, 32.500000, -1834.500000]
+[02Jul2025 02:09:39.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was killed by magic whilst trying to escape Skeleton
+[02Jul2025 02:09:41.581] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:09:44.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:09:44.553] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:09:46.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10474.500000, 30.500000, -1832.500000]
+[02Jul2025 02:09:48.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was killed by magic whilst trying to escape Skeleton
+[02Jul2025 02:09:50.274] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:09:53.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to semviii]
+[02Jul2025 02:09:53.770] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[02Jul2025 02:09:56.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to -10476.500000, 30.500000, -1831.500000]
+[02Jul2025 02:10:15.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 02:10:15.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

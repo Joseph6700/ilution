@@ -5680,6 +5680,12 @@
     },
     "done": true
   },
+  "mofus_better_end_:clock_tower_advancement": {
+    "criteria": {
+      "clock_tower_advancement_0": "2025-07-02 02:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-07-02 01:07:04 +0000"
@@ -5713,6 +5719,12 @@
   "mofus_better_end_:endermite_mound_advancement": {
     "criteria": {
       "endermite_mound_advancement_0": "2025-07-02 01:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-07-02 02:07:24 +0000"
     },
     "done": true
   },
