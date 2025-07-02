@@ -6916,3 +6916,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 19:15:39.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jul2025 19:15:39.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jul2025 19:16:14.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Staff of Azrata'gul]
+[02Jul2025 19:17:41.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> el ñoquis
+[02Jul2025 19:18:05.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 887.500000, 177.500000, 2943.500000]
+[02Jul2025 19:18:19.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to -1499.500000, 87.500000, -1994.500000]
+[02Jul2025 19:18:39.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 was shot by CarlitosBot1
+[02Jul2025 19:18:41.756] [Server thread/INFO] [do_a_barrel_roll/]: Client of SnVzk1 accepted server config.
+[02Jul2025 19:18:44.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SnVzk1: Teleported SnVzk1 to 3819.500000, 298.500000, 3815.500000]
+[02Jul2025 19:19:07.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[02Jul2025 19:19:17.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SnVzk1: Teleported SnVzk1 to 891.500000, 177.500000, 2945.500000]
+[02Jul2025 19:20:39.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 19:20:39.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 19:23:35.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2505.500000]
+[02Jul2025 19:23:42.203] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[02Jul2025 19:23:42.203] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[02Jul2025 19:24:26.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[02Jul2025 19:24:44.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2839ms or 56 ticks behind
+[02Jul2025 19:25:02.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2747ms or 54 ticks behind
+[02Jul2025 19:25:20.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3325ms or 66 ticks behind
+[02Jul2025 19:25:27.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SnVzk1 lost connection: Disconnected
+[02Jul2025 19:25:27.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 left the game
+[02Jul2025 19:25:50.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 19:25:50.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
