@@ -563,3 +563,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 22:14:58.221] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
 [02Jul2025 22:15:35.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Creative Mode]
 [02Jul2025 22:16:27.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Set own game mode to Survival Mode]
+[02Jul2025 22:20:01.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 lost connection: Disconnected
+[02Jul2025 22:20:01.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 left the game
+[02Jul2025 22:26:38.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: semviii[/127.239.46.137:44533] logged in with entity id 1308 at (1138.9227700766799, -51.0, 3729.683356167212)
+[02Jul2025 22:26:38.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii joined the game
+[02Jul2025 22:26:49.128] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
