@@ -6709,6 +6709,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/echo_planks": {
+    "criteria": {
+      "has_logs": "2025-07-02 05:39:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2025-07-02 04:22:45 +0000"
@@ -6718,6 +6724,12 @@
   "mofus_better_end_:end_labyrinth_advancement": {
     "criteria": {
       "end_labyrinth_advancement_0": "2025-07-02 04:12:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/echo_wood": {
+    "criteria": {
+      "has_log": "2025-07-02 05:39:10 +0000"
     },
     "done": true
   },
