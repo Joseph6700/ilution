@@ -6673,9 +6673,57 @@
     },
     "done": true
   },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-07-02 04:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-07-02 04:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-07-02 04:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-02 04:22:45 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:end_warrior_armor_advancement": {
+    "criteria": {
+      "end_warrior_armor_advancement_3": "2025-07-02 04:36:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-02 04:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-07-02 04:22:45 +0000"
+    },
+    "done": true
+  },
   "mofus_better_end_:end_labyrinth_advancement": {
     "criteria": {
       "end_labyrinth_advancement_0": "2025-07-02 04:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-02 04:22:45 +0000"
     },
     "done": true
   },
