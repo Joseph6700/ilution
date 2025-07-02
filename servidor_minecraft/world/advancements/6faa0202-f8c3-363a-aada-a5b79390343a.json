@@ -6428,6 +6428,18 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/redstone/echo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-02 05:42:34 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/echo_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 05:42:34 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/staff_of_life": {
     "criteria": {
       "has_item": "2025-07-02 04:58:44 +0000"
@@ -6443,6 +6455,12 @@
   "mofus_better_end_:mechanical_fosend_eye_advancement": {
     "criteria": {
       "mechanical_fosend_eye_advancement_0": "2025-07-02 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/decorations/echo_sign": {
+    "criteria": {
+      "has_planks": "2025-07-02 05:42:34 +0000"
     },
     "done": true
   },
@@ -6467,6 +6485,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2025-07-02 03:18:40 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/redstone/echo_button": {
+    "criteria": {
+      "has_planks": "2025-07-02 05:42:34 +0000"
     },
     "done": true
   },
@@ -6671,6 +6695,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/redstone/echo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-02 05:42:34 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/polished_gloomslate_wall_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-07-02 03:51:56 +0000"
@@ -6827,6 +6857,18 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/redstone/echo_pressure_plate": {
+    "criteria": {
+      "has_echo_planks": "2025-07-02 05:42:34 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_dagger_of_greed": {
+    "criteria": {
+      "dagger_of_greed": "2025-07-02 05:43:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-07-02 03:18:40 +0000"
@@ -6839,9 +6881,27 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/redstone/echo_door": {
+    "criteria": {
+      "has_planks": "2025-07-02 05:42:34 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-02 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/echo_slab": {
+    "criteria": {
+      "has_echo_planks": "2025-07-02 05:42:34 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/decorations/echo_fence": {
+    "criteria": {
+      "has_planks": "2025-07-02 05:42:34 +0000"
     },
     "done": true
   },
