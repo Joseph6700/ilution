@@ -1015,3 +1015,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 17:21:22.410] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
 [02Jul2025 17:21:25.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved wrongly!
 [02Jul2025 17:22:06.414] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/32125, l='ServerLevel[world]', x=953.34, y=183.60, z=2973.74] died: Honeyed Archer suffocated in a wall
+[02Jul2025 17:24:09.406] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[02Jul2025 17:24:23.464] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[02Jul2025 17:25:35.258] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[02Jul2025 17:25:38.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 106.500000, 66.500000, 536.500000]
+[02Jul2025 17:25:44.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 17:25:44.682] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[02Jul2025 17:25:49.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 116.500000, 59.500000, 358.500000]
+[02Jul2025 17:25:55.602] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
