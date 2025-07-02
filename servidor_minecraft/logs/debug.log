@@ -5984,3 +5984,85 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 03:50:58.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has completed the challenge [Phantom Thief]
 [02Jul2025 03:51:03.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> vro q me pegas
 [02Jul2025 03:51:08.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: The difficulty has been set to Hard]
+[02Jul2025 03:51:32.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1160, y=-52, z=3765} BlockPos{x=1158, y=-52, z=3764}
+[02Jul2025 03:51:32.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1160, y=-52, z=3765} BlockPos{x=1158, y=-52, z=3764}
+[02Jul2025 03:51:32.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1160, y=-52, z=3765} BlockPos{x=1158, y=-52, z=3764}
+[02Jul2025 03:51:32.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1160, y=-52, z=3765} BlockPos{x=1158, y=-52, z=3764}
+[02Jul2025 03:51:34.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 03:51:46.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Below the Bedrock]
+[02Jul2025 03:51:46.553] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[02Jul2025 03:51:46.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to CarlitosBot1]
+[02Jul2025 03:51:46.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5028ms or 100 ticks behind
+[02Jul2025 03:51:47.430] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[02Jul2025 03:51:50.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Below the Bedrock]
+[02Jul2025 03:51:50.618] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[02Jul2025 03:51:50.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 1.0153873300525902,98.0,-1.0154361462564339
+[02Jul2025 03:51:50.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> paso?
+[02Jul2025 03:51:51.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 has made the advancement [Below the Bedrock]
+[02Jul2025 03:51:51.631] [Server thread/INFO] [do_a_barrel_roll/]: Client of Blister2112 accepted server config.
+[02Jul2025 03:51:51.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Blister2112 moved too quickly! 0.5610607678797805,97.96361921858892,1.187436369223633
+[02Jul2025 03:51:56.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> q
+[02Jul2025 03:52:12.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 03:52:12.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 03:52:43.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> q
+[02Jul2025 03:52:45.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ok...
+[02Jul2025 03:53:01.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> yava me perdi
+[02Jul2025 03:53:02.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> XD
+[02Jul2025 03:53:32.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to CarlitosBot1]
+[02Jul2025 03:53:35.774] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 03:53:52.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> tu pico es efi cual?
+[02Jul2025 03:54:08.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 has completed the challenge [Echolocation]
+[02Jul2025 03:54:10.410] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 03:54:58.374] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 03:55:25.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[02Jul2025 03:55:56.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> no tengo comida wn
+[02Jul2025 03:56:14.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> porq?
+[02Jul2025 03:56:20.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> yava dame
+[02Jul2025 03:56:22.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> 1 mometn
+[02Jul2025 03:56:35.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to 1204.500000, 64.500000, 3702.500000]
+[02Jul2025 03:56:37.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> tpeate
+[02Jul2025 03:56:41.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Blister2112]
+[02Jul2025 03:56:55.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has completed the challenge [Echolocation]
+[02Jul2025 03:56:56.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> me dijeron q regresara :(
+[02Jul2025 03:57:00.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to 1223.500000, 19.500000, 3580.500000]
+[02Jul2025 03:57:06.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ya me das comida?
+[02Jul2025 03:57:08.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Blister2112]
+[02Jul2025 03:57:08.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has completed the challenge [Echolocation]
+[02Jul2025 03:57:12.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 03:57:12.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 03:57:25.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> A
+[02Jul2025 03:57:34.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 was obliterated by a sonically-charged shriek
+[02Jul2025 03:57:36.541] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[02Jul2025 03:57:48.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 1199.500000, -34.500000, 3705.500000]
+[02Jul2025 03:57:51.169] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[02Jul2025 03:57:51.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 1.2668407832270532,97.99866402088784,-1.2668895994311242
+[02Jul2025 03:57:56.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 1214.500000, 16.500000, 3563.500000]
+[02Jul2025 03:58:03.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Sneak 100]
+[02Jul2025 03:58:10.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 03:58:23.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> te ayudara yto pero toy peor q los 2
+[02Jul2025 03:58:24.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs was obliterated by a sonically-charged shriek
+[02Jul2025 03:58:25.619] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[02Jul2025 03:58:28.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 03:58:28.595] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[02Jul2025 03:58:48.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> ASKJKJSAKJSAKJS
+[02Jul2025 03:58:59.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 was slain by Warden
+[02Jul2025 03:59:01.349] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[02Jul2025 03:59:04.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Blister2112 was obliterated by a sonically-charged shriek
+[02Jul2025 03:59:06.821] [Server thread/INFO] [do_a_barrel_roll/]: Client of Blister2112 accepted server config.
+[02Jul2025 03:59:08.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[02Jul2025 03:59:08.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> MALDITO
+[02Jul2025 03:59:08.577] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[02Jul2025 03:59:17.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 1212.500000, 19.500000, 3580.500000]
+[02Jul2025 03:59:28.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[02Jul2025 03:59:37.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Blister2112: Teleported Blister2112 to CarlitosBot1]
+[02Jul2025 03:59:37.508] [Server thread/INFO] [do_a_barrel_roll/]: Client of Blister2112 accepted server config.
+[02Jul2025 03:59:57.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved wrongly!
+[02Jul2025 04:00:11.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> tengo un pan canilla, me dan comidita?
+[02Jul2025 04:00:18.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> pls
+[02Jul2025 04:00:27.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> gracia
+[02Jul2025 04:00:28.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 1205.500000, 64.500000, 3702.500000]
+[02Jul2025 04:00:30.420] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[02Jul2025 04:00:30.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 11.601593956399938,-93.79999995231628,-11.60164277260401
+[02Jul2025 04:00:39.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[02Jul2025 04:01:13.525] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
+[02Jul2025 04:01:51.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Blister2112> q cagado vro, solo 1 vez me mato
