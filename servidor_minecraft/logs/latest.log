@@ -8,3 +8,7 @@
 [02Jul2025 00:17:29.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Ol' Betsy]
 [02Jul2025 00:17:56.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has completed the challenge [Cover Me in Debris]
 [02Jul2025 00:18:49.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
+[02Jul2025 00:23:59.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs lost connection: Disconnected
+[02Jul2025 00:23:59.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs left the game
+[02Jul2025 00:24:26.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi lost connection: Disconnected
+[02Jul2025 00:24:26.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi left the game
