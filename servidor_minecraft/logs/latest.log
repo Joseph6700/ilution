@@ -2124,3 +2124,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 19:53:25.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3029ms or 60 ticks behind
 [02Jul2025 19:56:43.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has completed the challenge [Praise the Sun]
 [02Jul2025 19:58:25.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 880.500000, 132.500000, 2966.500000]
+[02Jul2025 19:58:40.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[02Jul2025 19:58:49.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[02Jul2025 20:00:30.173] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[02Jul2025 20:00:30.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
+[02Jul2025 20:00:51.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 116.500000, 59.500000, 358.500000]
+[02Jul2025 20:00:59.345] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[02Jul2025 20:03:37.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jul2025 20:03:37.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jul2025 20:03:37.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs lost connection: Server closed
+[02Jul2025 20:03:37.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs left the game
+[02Jul2025 20:03:37.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jul2025 20:03:38.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jul2025 20:03:44.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jul2025 20:03:44.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[02Jul2025 20:03:44.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[02Jul2025 20:03:44.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jul2025 20:03:44.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[02Jul2025 20:03:44.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[02Jul2025 20:03:44.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jul2025 20:03:44.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jul2025 20:03:44.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[02Jul2025 20:03:44.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[02Jul2025 20:03:44.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jul2025 20:03:44.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[02Jul2025 20:03:44.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[02Jul2025 20:03:44.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Jul2025 20:03:50.168] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02Jul2025 20:03:50.169] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[02Jul2025 20:03:50.174] [Server thread/INFO] [Framework/]: Sending config unload event for ragnagoblin-entity.toml
+[02Jul2025 20:03:50.174] [Server thread/INFO] [Framework/]: Finished unloading server configs
