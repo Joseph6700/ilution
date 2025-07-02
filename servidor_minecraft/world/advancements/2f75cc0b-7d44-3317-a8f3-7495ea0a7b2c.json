@@ -111,6 +111,7 @@
       "minecraft:deep_frozen_ocean": "2025-07-01 23:27:01 +0000",
       "minecraft:ocean": "2025-06-28 23:49:35 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-28 23:47:02 +0000",
+      "minecraft:flower_forest": "2025-07-02 19:36:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-28 22:25:49 +0000",
       "minecraft:deep_dark": "2025-06-28 23:26:00 +0000",
       "minecraft:savanna": "2025-06-28 23:01:51 +0000",
@@ -838,6 +839,7 @@
       "minecraft:pillager": "2025-06-29 04:25:37 +0000",
       "minecraft:skeleton": "2025-06-28 22:24:37 +0000",
       "minecraft:elder_guardian": "2025-06-30 02:50:43 +0000",
+      "minecraft:ravager": "2025-07-02 19:31:28 +0000",
       "minecraft:ghast": "2025-06-29 03:33:46 +0000",
       "minecraft:hoglin": "2025-06-29 03:55:17 +0000",
       "minecraft:guardian": "2025-06-30 02:51:02 +0000",
@@ -6879,6 +6881,12 @@
     },
     "done": true
   },
+  "takesapillage:pillager_camp": {
+    "criteria": {
+      "in_pillager_camp": "2025-07-02 19:29:56 +0000"
+    },
+    "done": true
+  },
   "incendium:ash_barrens/root": {
     "criteria": {
       "requirement": "2025-07-02 18:49:58 +0000"
@@ -6894,6 +6902,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-07-02 17:16:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2025-07-02 19:31:40 +0000"
     },
     "done": true
   },

@@ -2111,3 +2111,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 19:25:20.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3325ms or 66 ticks behind
 [02Jul2025 19:25:27.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SnVzk1 lost connection: Disconnected
 [02Jul2025 19:25:27.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SnVzk1 left the game
+[02Jul2025 19:28:23.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 890.500000, 177.500000, 2941.500000]
+[02Jul2025 19:29:56.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Campfire Song Song]
+[02Jul2025 19:34:46.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 2738.500000, 63.500000, 3225.500000]
+[02Jul2025 19:42:04.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 7480.500000, 139.500000, -1864.500000]
+[02Jul2025 19:42:12.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 8630.500000, 117.500000, -1608.500000]
+[02Jul2025 19:42:12.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4406ms or 88 ticks behind
+[02Jul2025 19:46:07.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
