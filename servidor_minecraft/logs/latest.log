@@ -586,3 +586,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [02Jul2025 22:47:44.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has completed the challenge [Subspace Bubble]
 [02Jul2025 22:47:45.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
 [02Jul2025 22:47:45.889] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[02Jul2025 22:58:59.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii lost connection: Disconnected
+[02Jul2025 22:58:59.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii left the game
