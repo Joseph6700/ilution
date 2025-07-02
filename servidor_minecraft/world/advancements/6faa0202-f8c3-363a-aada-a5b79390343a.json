@@ -6506,6 +6506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-02 05:22:32 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2025-07-02 04:52:06 +0000"
