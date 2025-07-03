@@ -689,3 +689,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [03Jul2025 04:09:39.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
 [03Jul2025 04:10:26.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
 [03Jul2025 04:13:21.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[03Jul2025 04:22:16.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii fell from a high place
+[03Jul2025 04:22:18.498] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[03Jul2025 04:22:22.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6613.500000, 71.500000, -2183.500000]
+[03Jul2025 04:23:08.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii burned to death
+[03Jul2025 04:23:11.307] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[03Jul2025 04:23:13.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6624.500000, 63.500000, -2181.500000]
+[03Jul2025 04:24:32.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
