@@ -956,6 +956,7 @@
       "minecraft:creeper": "2025-06-28 22:24:11 +0000",
       "minecraft:evoker": "2025-06-29 04:45:08 +0000",
       "minecraft:phantom": "2025-06-30 03:56:11 +0000",
+      "minecraft:zombified_piglin": "2025-07-03 03:37:13 +0000",
       "minecraft:husk": "2025-06-29 00:48:25 +0000",
       "minecraft:ender_dragon": "2025-07-02 01:11:53 +0000",
       "minecraft:cave_spider": "2025-06-30 01:50:33 +0000",
@@ -5466,6 +5467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-07-03 03:41:40 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2025-07-03 03:30:06 +0000"
@@ -5475,6 +5482,30 @@
   "apotheosis:enchanting/quanta100": {
     "criteria": {
       "enchanted_item": "2025-07-03 03:30:06 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/ender_bow": {
+    "criteria": {
+      "has_ibow": "2025-07-03 03:41:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-07-03 03:41:40 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-07-03 03:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-03 03:41:40 +0000"
     },
     "done": true
   },
@@ -5502,9 +5533,27 @@
     },
     "done": true
   },
+  "morebows:recipes/multi_bow": {
+    "criteria": {
+      "has_ibow": "2025-07-03 03:41:11 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/enchanting_stats": {
     "criteria": {
       "enchanted_item": "2025-07-03 03:30:06 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/frost_bow": {
+    "criteria": {
+      "has_ibow": "2025-07-03 03:41:11 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/flame_bow": {
+    "criteria": {
+      "has_ibow": "2025-07-03 03:41:11 +0000"
     },
     "done": true
   },
