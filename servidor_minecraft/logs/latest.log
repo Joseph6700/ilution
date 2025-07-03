@@ -677,3 +677,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [03Jul2025 03:54:48.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Stay dead]
 [03Jul2025 03:55:11.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 883.500000, 132.500000, 2965.500000]
 [03Jul2025 03:55:25.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[03Jul2025 03:56:51.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[03Jul2025 03:57:35.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[03Jul2025 03:58:16.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was slain by Cachalot Whale
+[03Jul2025 03:58:18.949] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[03Jul2025 03:58:21.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6862.500000, 61.500000, -2210.500000]
+[03Jul2025 03:59:38.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved too quickly! -2.4043833195119078,8.318953553185104,-14.987200588042015
