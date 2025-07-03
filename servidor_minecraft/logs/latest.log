@@ -683,3 +683,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [03Jul2025 03:58:18.949] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
 [03Jul2025 03:58:21.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6862.500000, 61.500000, -2210.500000]
 [03Jul2025 03:59:38.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii moved too quickly! -2.4043833195119078,8.318953553185104,-14.987200588042015
+[03Jul2025 04:08:06.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 1271.500000, 79.500000, 2591.500000]
+[03Jul2025 04:08:06.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4523ms or 90 ticks behind
+[03Jul2025 04:08:56.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[03Jul2025 04:09:39.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[03Jul2025 04:10:26.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[03Jul2025 04:13:21.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
