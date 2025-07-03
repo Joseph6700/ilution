@@ -696,3 +696,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [03Jul2025 04:23:11.307] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
 [03Jul2025 04:23:13.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6624.500000, 63.500000, -2181.500000]
 [03Jul2025 04:24:32.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[03Jul2025 04:27:00.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii drowned whilst trying to escape Lionfish
+[03Jul2025 04:27:03.527] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[03Jul2025 04:27:06.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6589.500000, 45.500000, -1431.500000]
+[03Jul2025 04:27:22.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was slain by Deepling Angler
+[03Jul2025 04:27:24.846] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[03Jul2025 04:27:28.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6590.500000, 46.500000, -1430.500000]
+[03Jul2025 04:27:55.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was slain by Deepling Angler
+[03Jul2025 04:27:57.851] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[03Jul2025 04:28:13.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6589.500000, 55.500000, -1446.500000]
+[03Jul2025 04:28:34.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was slain by Lionfish
+[03Jul2025 04:28:36.815] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[03Jul2025 04:28:40.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6585.500000, 60.500000, -1433.500000]
+[03Jul2025 04:30:13.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii was kicked for floating too long!
+[03Jul2025 04:30:13.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii lost connection: Flying is not enabled on this server
+[03Jul2025 04:30:13.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii left the game
+[03Jul2025 04:30:56.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: semviii[/127.239.46.137:33567] logged in with entity id 51351 at (6607.31354399484, 102.26187936997938, -1423.5559673675564)
+[03Jul2025 04:30:56.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii joined the game
+[03Jul2025 04:31:05.390] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[03Jul2025 04:31:20.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[03Jul2025 04:31:54.746] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii lost connection: Disconnected
+[03Jul2025 04:31:54.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii left the game
