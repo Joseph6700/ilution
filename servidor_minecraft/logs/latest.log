@@ -537,3 +537,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [03Jul2025 02:32:01.019] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [03Jul2025 02:32:01.019] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [03Jul2025 02:32:42.403] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[03Jul2025 02:35:56.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has completed the challenge [Best Friends]
+[03Jul2025 02:42:05.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:33201] logged in with entity id 2879 at (8560.375046935465, 78.0, 1057.040289652409)
+[03Jul2025 02:42:06.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
+[03Jul2025 02:42:15.718] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
