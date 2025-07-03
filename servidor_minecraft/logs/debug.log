@@ -5022,3 +5022,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [03Jul2025 02:53:16.885] [Server thread/DEBUG] [mixin/]: Mixing BeehiveBlockEntity$BeeDataAccess from wthit.mixins.json into net.minecraft.world.level.block.entity.BeehiveBlockEntity$BeeData
 [03Jul2025 02:53:16.885] [Server thread/DEBUG] [mixin/]: wthit.mixins.json:BeehiveBlockEntity$BeeDataAccess: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [03Jul2025 02:53:52.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 882.500000, 132.500000, 2966.500000]
+[03Jul2025 02:54:30.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[03Jul2025 02:55:19.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 02:55:19.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 02:57:25.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6868.500000, 100.500000, -2549.500000]
+[03Jul2025 02:57:35.509] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[03Jul2025 02:58:50.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[03Jul2025 02:59:33.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[03Jul2025 03:00:19.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 03:00:19.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 03:00:41.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> yoichi
+[03Jul2025 03:00:50.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> tienes tp a la granja de exp?
+[03Jul2025 03:00:52.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> s
+[03Jul2025 03:00:55.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> tpeate
+[03Jul2025 03:01:00.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to BruhYoichi]
+[03Jul2025 03:01:04.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> gracias mano
+[03Jul2025 03:01:11.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> farmea mientras
+[03Jul2025 03:01:44.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> necesito pocos niveles
+[03Jul2025 03:03:05.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> hazte un collar q te de mas exp
+[03Jul2025 03:03:13.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> y un arma con poder del conocimiento
+[03Jul2025 03:03:22.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> yo en 4 mins ya tengo 91 niveles
+[03Jul2025 03:03:32.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ese collar como es
+[03Jul2025 03:03:40.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> porq tengo el artefacto ese de mas exp
+[03Jul2025 03:03:47.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> nececitas 6 polvos del blaze
+[03Jul2025 03:03:51.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ok
+[03Jul2025 03:03:54.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> y?
+[03Jul2025 03:03:58.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> y 3 pociones de las q te den mas exp
+[03Jul2025 03:04:02.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> de las verdes
+[03Jul2025 03:04:04.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ya
+[03Jul2025 03:04:07.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> de esas tengo
+[03Jul2025 03:04:11.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> me falta es el polvo
+[03Jul2025 03:04:14.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ya termine
+[03Jul2025 03:04:16.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> toma
+[03Jul2025 03:04:30.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> como se llama pa buscar el crafteo
+[03Jul2025 03:04:47.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> amuleto
+[03Jul2025 03:04:50.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> de ancuient
+[03Jul2025 03:04:51.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ya
+[03Jul2025 03:04:52.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> ancient
+[03Jul2025 03:04:54.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> asi noma
