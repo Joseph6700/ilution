@@ -541,3 +541,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [03Jul2025 02:42:05.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:33201] logged in with entity id 2879 at (8560.375046935465, 78.0, 1057.040289652409)
 [03Jul2025 02:42:06.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
 [03Jul2025 02:42:15.718] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[03Jul2025 02:45:05.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 1271.500000, 79.500000, 2591.500000]
+[03Jul2025 02:47:07.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii fell from a high place
+[03Jul2025 02:47:09.289] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[03Jul2025 02:47:12.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 1157.500000, 63.500000, 2444.500000]
+[03Jul2025 02:47:54.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi lost connection: Disconnected
+[03Jul2025 02:47:54.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi left the game
+[03Jul2025 02:50:17.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[03Jul2025 02:50:47.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:46397] logged in with entity id 7931 at (8562.545803202269, 78.0, 1058.209192274952)
+[03Jul2025 02:50:47.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
+[03Jul2025 02:50:58.737] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[03Jul2025 02:51:13.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[03Jul2025 02:51:14.383] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rosa'/7521, l='ServerLevel[world]', x=6701.50, y=80.00, z=-2588.27] died, message: 'Rosa was slain by Zombie'
+[03Jul2025 02:51:14.385] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rosa'/7521, l='ServerLevel[world]', x=6701.50, y=80.00, z=-2588.27] died: Rosa was slain by Zombie
+[03Jul2025 02:51:20.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> hoy me he sacado la polla
+[03Jul2025 02:51:50.941] [Server thread/ERROR] [placebo/]: ##############################
+[03Jul2025 02:51:50.942] [Server thread/ERROR] [placebo/]: A Block apotheosis:boss_spawner with BlockEntityType minecraft:chest has subscribed as a TickingEntityBlock but is not using TickingBlockEntityType!
+[03Jul2025 02:51:50.942] [Server thread/ERROR] [placebo/]: ##############################
+[03Jul2025 02:51:57.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[03Jul2025 02:53:09.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 889.500000, 177.500000, 2947.500000]
+[03Jul2025 02:53:52.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 882.500000, 132.500000, 2966.500000]
